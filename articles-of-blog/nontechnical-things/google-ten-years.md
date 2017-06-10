@@ -167,4 +167,4 @@
 　　想法渐多，身心渐老。下一个十年，请慢一些到来吧！
 
 ----------
-**转载声明**：本文转自微信公众号「半轻人」（ID：ban-qing-ren）
+**转载声明**：本文转自微信公众号「半轻人」，[不装逼地说，在 Google 到底能学到啥？](http://mp.weixin.qq.com/s?__biz=MzA5NjM1MDI5Mg==&mid=2652283494&idx=1&sn=5674d47f906ed13dae8b1508e82d1861&mpshare=1&scene=23&srcid=0610gcB2VyRLSc4hb3ZkKKhL#rd)
