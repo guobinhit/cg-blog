@@ -3,9 +3,10 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：
- - **New article 2**：
- - **New article 3**：
+ - **New article 1**：[SaaS 公司融资的「22条军规」](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/saas-22.md)
+ - **New article 2**：[做了 3 年企业级 SaaS，我收获的 10 点心得（Ping++ CEO 金亦冶）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/pingplus-ceo-ten.md)
+ - **New article 3**：[在 Google 工作 10 年，到底能学到啥？](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/google-ten-years.md)
+ 
 
 ## 文章分类
  - [史上最简单系列教程](#史上最简单系列教程)
@@ -29,6 +30,9 @@
 
 ## 非技术那些事儿
 
+- [SaaS 公司融资的「22条军规」](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/saas-22.md)
+- [做了 3 年企业级 SaaS，我收获的 10 点心得（Ping++ CEO 金亦冶）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/pingplus-ceo-ten.md)
+- [在 Google 工作 10 年，到底能学到啥？](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/google-ten-years.md)
 
 
 
