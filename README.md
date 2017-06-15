@@ -3,9 +3,9 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[SaaS 公司融资的「22条军规」](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/saas-22.md)
- - **New article 2**：[做了 3 年企业级 SaaS，我收获的 10 点心得（Ping++ CEO 金亦冶）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/pingplus-ceo-ten.md)
- - **New article 3**：[在 Google 工作 10 年，到底能学到啥？](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/google-ten-years.md)
+ - **New article 1**：[程序员，如何从平庸走向理想？](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/coder-to-better.md)
+ - **New article 2**：[他出身草根，却是 Google 资深工程师](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/david-byttow.md)
+ - **New article 3**：[左耳朵耗子 | 技术人员的发展之路](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/developer-load.md)
  
 
 ## 文章分类
@@ -30,6 +30,9 @@
 
 ## 非技术那些事儿
 
+- [程序员，如何从平庸走向理想？](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/coder-to-better.md)
+- [他出身草根，却是 Google 资深工程师](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/david-byttow.md)
+- [左耳朵耗子 | 技术人员的发展之路](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/developer-load.md)
 - [SaaS 公司融资的「22条军规」](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/saas-22.md)
 - [做了 3 年企业级 SaaS，我收获的 10 点心得（Ping++ CEO 金亦冶）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/pingplus-ceo-ten.md)
 - [在 Google 工作 10 年，到底能学到啥？](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/google-ten-years.md)
