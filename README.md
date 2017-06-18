@@ -3,9 +3,9 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[程序员，如何从平庸走向理想？](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/coder-to-better.md)
- - **New article 2**：[他出身草根，却是 Google 资深工程师](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/david-byttow.md)
- - **New article 3**：[左耳朵耗子 | 技术人员的发展之路](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/developer-load.md)
+ - **New article 1**：[有一种生活叫向死而生](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/death-to-live.md)
+ - **New article 2**：[揭秘 · 阿里云第一女神 — 清宵](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/ali-qingxiao.md)
+ - **New article 3**：[菜鸟程序员的超神之路](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/loser-to-god.md)
  
 
 ## 文章分类
@@ -30,6 +30,9 @@
 
 ## 非技术那些事儿
 
+- [有一种生活叫向死而生](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/death-to-live.md)
+- [揭秘 · 阿里云第一女神 — 清宵](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/ali-qingxiao.md)
+- [菜鸟程序员的超神之路](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/loser-to-god.md)
 - [程序员，如何从平庸走向理想？](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/coder-to-better.md)
 - [他出身草根，却是 Google 资深工程师](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/david-byttow.md)
 - [左耳朵耗子 | 技术人员的发展之路](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/developer-load.md)
