@@ -3,9 +3,9 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[有一种生活叫向死而生](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/death-to-live.md)
- - **New article 2**：[揭秘 · 阿里云第一女神 — 清宵](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/ali-qingxiao.md)
- - **New article 3**：[菜鸟程序员的超神之路](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/loser-to-god.md)
+ - **New article 1**：[马化腾：这个市场不是拼钱、拼流量，而是拼团队、拼使命感和危机感](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/mahuateng.md)
+ - **New article 2**：[数学界的「 流氓大咖」](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/math-world-lm.md)
+ - **New article 3**：[献给青春的歌 · 致「 腾讯QQ 18 岁」](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/qq-ten.md)
  
 
 ## 文章分类
@@ -30,6 +30,9 @@
 
 ## 非技术那些事儿
 
+- [马化腾：这个市场不是拼钱、拼流量，而是拼团队、拼使命感和危机感](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/mahuateng.md)
+- [数学界的「 流氓大咖」](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/math-world-lm.md)
+- [献给青春的歌 · 致「 腾讯QQ 18 岁」](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/qq-ten.md)
 - [有一种生活叫向死而生](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/death-to-live.md)
 - [揭秘 · 阿里云第一女神 — 清宵](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/ali-qingxiao.md)
 - [菜鸟程序员的超神之路](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/loser-to-god.md)
