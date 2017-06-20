@@ -118,5 +118,5 @@
 
 ----------
 
-**转载声明**：本文转自微信公众账号「男人装」，[罕见影像：140 多年前的中国](http://mp.weixin.qq.com/s?__biz=MjMyMzYyNzg2MA==&mid=2650577557&idx=2&sn=b83d98ef5e4e3a488d9ab9e100826d27&chksm=ba4872ae8d3ffbb8f30210c2e87e7132a92d77320fd3144a39440bf15e3c67f9c232f8c0051c&mpshare=1&scene=23&srcid=0522X6auBZhP0h7LeYYshyzW#rd)。
+**转载声明**：本文转自微信公众号「男人装」，[罕见影像：140 多年前的中国](http://mp.weixin.qq.com/s?__biz=MjMyMzYyNzg2MA==&mid=2650577557&idx=2&sn=b83d98ef5e4e3a488d9ab9e100826d27&chksm=ba4872ae8d3ffbb8f30210c2e87e7132a92d77320fd3144a39440bf15e3c67f9c232f8c0051c&mpshare=1&scene=23&srcid=0522X6auBZhP0h7LeYYshyzW#rd)。
 
