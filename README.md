@@ -3,9 +3,9 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[马化腾：这个市场不是拼钱、拼流量，而是拼团队、拼使命感和危机感](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/mahuateng.md)
- - **New article 2**：[数学界的「 流氓大咖」](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/math-world-lm.md)
- - **New article 3**：[献给青春的歌 · 致「 腾讯QQ 18 岁」](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/qq-ten.md)
+ - **New article 1**：[数学史上的三次危机](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/math-three-cirsis.md)
+ - **New article 2**：[世界上最「不务正业」的 5 个科学家](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/bwzy-five.md)
+ - **New article 3**：[我回阿里的 29 个月](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/return-ali.md)
  
 
 ## 文章分类
@@ -30,6 +30,9 @@
 
 ## 非技术那些事儿
 
+- [数学史上的三次危机](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/math-three-cirsis.md)
+- [世界上最「不务正业」的 5 个科学家](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/bwzy-five.md)
+- [我回阿里的 29 个月](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/return-ali.md)
 - [马化腾：这个市场不是拼钱、拼流量，而是拼团队、拼使命感和危机感](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/mahuateng.md)
 - [数学界的「 流氓大咖」](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/math-world-lm.md)
 - [献给青春的歌 · 致「 腾讯QQ 18 岁」](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/qq-ten.md)
