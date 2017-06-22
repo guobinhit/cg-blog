@@ -3,9 +3,9 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[雅虎终于死了：从市值 1000 亿到贱卖 48 亿，到最后连名字都没保住](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/yahoo.md)
- - **New article 2**：[罕见影像：140 多年前的中国](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/china-140-ago.md)
- - **New article 3**：[励志典范：10 年，他完成了从中专生到哈工大教授的跨越](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/gaohuijun.md)
+ - **New article 1**：[美丽心灵：纪念 John Nash 夫妇](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/john-nash.md)
+ - **New article 2**：[工科大学之母｜哈尔滨工业大学究竟分出了哪些学校？](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/hit.md)
+ - **New article 3**：[今日头条 CEO 张一鸣：面试了 2000 个年轻人，混得好的都有这 5 种特质](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/zhangyiming.md)
  
 
 ## 文章分类
@@ -30,6 +30,9 @@
 
 ## 非技术那些事儿
 
+- [美丽心灵：纪念 John Nash 夫妇](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/john-nash.md)
+- [工科大学之母｜哈尔滨工业大学究竟分出了哪些学校？](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/hit.md)
+- [今日头条 CEO 张一鸣：面试了 2000 个年轻人，混得好的都有这 5 种特质](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/zhangyiming.md)
 - [雅虎终于死了：从市值 1000 亿到贱卖 48 亿，到最后连名字都没保住](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/yahoo.md)
 - [罕见影像：140 多年前的中国](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/china-140-ago.md)
 - [励志典范：10 年，他完成了从中专生到哈工大教授的跨越](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/gaohuijun.md)
