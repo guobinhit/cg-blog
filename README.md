@@ -3,9 +3,9 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[美丽心灵：纪念 John Nash 夫妇](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/john-nash.md)
- - **New article 2**：[工科大学之母｜哈尔滨工业大学究竟分出了哪些学校？](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/hit.md)
- - **New article 3**：[今日头条 CEO 张一鸣：面试了 2000 个年轻人，混得好的都有这 5 种特质](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/zhangyiming.md)
+ - **New article 1**：[流量时代：直播 APP 变现的洪荒之力](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/flow-age.md)
+ - **New article 2**：[以史为鉴，论创业公司如何走向成熟](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/google-a-pingplus.md)
+ - **New article 3**：[聊聊「无我编程」的十条戒律](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/ten-rules.md)
  
 
 ## 文章分类
@@ -30,6 +30,9 @@
 
 ## 非技术那些事儿
 
+- [流量时代：直播 APP 变现的洪荒之力](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/flow-age.md)
+- [以史为鉴，论创业公司如何走向成熟](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/john-nash.md)
+- [聊聊「无我编程」的十条戒律](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/ten-rules.md)
 - [美丽心灵：纪念 John Nash 夫妇](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/john-nash.md)
 - [工科大学之母｜哈尔滨工业大学究竟分出了哪些学校？](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/hit.md)
 - [今日头条 CEO 张一鸣：面试了 2000 个年轻人，混得好的都有这 5 种特质](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/zhangyiming.md)
