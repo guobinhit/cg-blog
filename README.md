@@ -3,9 +3,9 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[流量时代：直播 APP 变现的洪荒之力](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/flow-age.md)
- - **New article 2**：[以史为鉴，论创业公司如何走向成熟](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/google-a-pingplus.md)
- - **New article 3**：[聊聊「无我编程」的十条戒律](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/ten-rules.md)
+ - **New article 1**：[光线传媒副总裁刘同：我们为什么要读大学？](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/liutong.md)
+ - **New article 2**：[对话美团 CEO 王兴：太多人关注边界，而不关注核心](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/meituan-ceo-wangxing.md)
+ - **New article 3**：[流量时代：直播 APP 变现的洪荒之力](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/flow-age.md)
  
 
 ## 文章分类
@@ -30,6 +30,8 @@
 
 ## 非技术那些事儿
 
+- [光线传媒副总裁刘同：我们为什么要读大学？](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/liutong.md)
+- [对话美团 CEO 王兴：太多人关注边界，而不关注核心](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/meituan-ceo-wangxing.md)
 - [流量时代：直播 APP 变现的洪荒之力](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/flow-age.md)
 - [以史为鉴，论创业公司如何走向成熟](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/john-nash.md)
 - [聊聊「无我编程」的十条戒律](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/ten-rules.md)
