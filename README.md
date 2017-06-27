@@ -11,7 +11,7 @@
 ## 文章分类
  - [史上最简单系列教程](#史上最简单系列教程)
  - [非技术那些事儿](#非技术那些事儿)
- - [异常及错误](#异常及错误)
+ - [异常及错误](https://github.com/guobinhit/SolutionCase-Exception-and-Error)
  - [工具及其他](#工具及其他)
 
 
@@ -22,8 +22,6 @@
 - [史上最简单的 Mybatis 教程](https://github.com/guobinhit/mybatis-tutorial)
 - [史上最简单的 Spring MVC 教程](https://github.com/guobinhit/springmvc-tutorial)
 - [史上最简单的 IntelliJ IDEA 教程](http://blog.csdn.net/qq_35246620/article/details/61191375)
-
-## 异常及错误
 
 
 ## 工具及其他
