@@ -3,9 +3,11 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[@interface 注解详述](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/interface-annotation.md)
- - **New article 2**：[@Deprecated 注解详述](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/deprecated.md)
- - **New article 3**：[@SuppressWarnings 注解详述](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/suppress-warnings.md)
+
+ - **New article 1**：[百度 CEO 李彦宏：未来三五十年人工智能可能是世界经济发展主要推动力](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/baidu-ceo-ai.md)
+ - **New article 2**：[@interface 注解详述](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/interface-annotation.md)
+ - **New article 3**：[@Deprecated 注解详述](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/deprecated.md)
+
  
 
 ## 文章分类
@@ -33,6 +35,7 @@
 
 ## 非技术那些事儿
 
+- [百度 CEO 李彦宏：未来三五十年人工智能可能是世界经济发展主要推动力](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/baidu-ceo-ai.md)
 - [光线传媒副总裁刘同：我们为什么要读大学？](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/liutong.md)
 - [对话美团 CEO 王兴：太多人关注边界，而不关注核心](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/meituan-ceo-wangxing.md)
 - [流量时代：直播 APP 变现的洪荒之力](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/flow-age.md)
