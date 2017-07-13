@@ -4,9 +4,9 @@
 
 ## 最新博文
 
- - **New article 1**：[百度 CEO 李彦宏：未来三五十年人工智能可能是世界经济发展主要推动力](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/baidu-ceo-ai.md)
- - **New article 2**：[@interface 注解详述](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/interface-annotation.md)
- - **New article 3**：[@Deprecated 注解详述](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/deprecated.md)
+ - **New article 1**：[详述 hosts 文件的作用及修改 hosts 文件的方法](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/hosts.md)
+ - **New article 2**：[详述 Cookie 与 Session 的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/cookie-and-session.md)
+ - **New article 3**：[百度 CEO 李彦宏：未来三五十年人工智能可能是世界经济发展主要推动力](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/baidu-ceo-ai.md)
 
  
 
@@ -32,6 +32,8 @@
 
 ## 工具及其他
 
+- [详述 hosts 文件的作用及修改 hosts 文件的方法](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/hosts.md)
+- [详述 Cookie 与 Session 的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/cookie-and-session.md)
 - [@interface 注解详述](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/interface-annotation.md)
 - [@Deprecated 注解详述](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/deprecated.md)
 - [@SuppressWarnings 注解详述](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/suppress-warnings.md)
