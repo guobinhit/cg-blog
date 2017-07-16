@@ -4,9 +4,10 @@
 
 ## 最新博文
 
- - **New article 1**：[详述 hosts 文件的作用及修改 hosts 文件的方法](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/hosts.md)
- - **New article 2**：[详述 Cookie 与 Session 的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/cookie-and-session.md)
- - **New article 3**：[百度 CEO 李彦宏：未来三五十年人工智能可能是世界经济发展主要推动力](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/baidu-ceo-ai.md)
+ - **New article 1**：[我所知道的 11 条领导力（Ping++ CEO 金亦冶）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/pingceo-eleven.md)
+ - **New article 2**：[详述 hosts 文件的作用及修改 hosts 文件的方法](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/hosts.md)
+ - **New article 3**：[详述 Cookie 与 Session 的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/cookie-and-session.md)
+ 
 
  
 
@@ -41,6 +42,7 @@
 
 ## 非技术那些事儿
 
+- [我所知道的 11 条领导力（Ping++ CEO 金亦冶）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/pingceo-eleven.md)
 - [百度 CEO 李彦宏：未来三五十年人工智能可能是世界经济发展主要推动力](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/baidu-ceo-ai.md)
 - [光线传媒副总裁刘同：我们为什么要读大学？](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/liutong.md)
 - [对话美团 CEO 王兴：太多人关注边界，而不关注核心](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/meituan-ceo-wangxing.md)
