@@ -12,7 +12,7 @@
 
  
 
-## 文章分类
+## 文章分类（快速定位）
  - [史上最简单系列教程](#史上最简单系列教程)
  - [非技术那些事儿](#非技术那些事儿)
  - [工具及其他](#工具及其他)
@@ -74,6 +74,10 @@
 - [在 Google 工作 10 年，到底能学到啥？](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/google-ten-years.md)
 
 
+------------
+
+在此，附上一句格言，望共勉：**好学若饥，谦卑若愚**。
 
 
+- [↑↑↑   返回顶部（RETURN THE TOP）  ↑↑↑](#最新博文)
 
