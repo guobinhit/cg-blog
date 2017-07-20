@@ -4,9 +4,10 @@
 
 ## 最新博文
 
- - **New article 1**：[详述如何退出 Vim 编辑器](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/vim.md)
- - **New article 2**：[我所知道的 11 条领导力（Ping++ CEO 金亦冶）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/pingceo-eleven.md)
- - **New article 3**：[详述 hosts 文件的作用及修改 hosts 文件的方法](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/hosts.md)
+ - **New article 1**：[互联网支付系统整体架构详解](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/net-pay.md)
+ - **New article 2**：[详述如何退出 Vim 编辑器](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/vim.md)
+ - **New article 3**：[我所知道的 11 条领导力（Ping++ CEO 金亦冶）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/pingceo-eleven.md)
+
  
  
 
@@ -34,6 +35,7 @@
 
 ## 工具及其他
 
+- [互联网支付系统整体架构详解](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/net-pay.md)
 - [详述如何退出 Vim 编辑器](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/vim.md)
 - [详述 hosts 文件的作用及修改 hosts 文件的方法](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/hosts.md)
 - [详述 Cookie 与 Session 的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/cookie-and-session.md)
