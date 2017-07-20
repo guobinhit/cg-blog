@@ -247,7 +247,7 @@
 
 ----------
 
-**转载声明**：本文转自微信公众账「凤凰牌老熊」，[支付系统整体架构](http://mp.weixin.qq.com/s?__biz=MzI4OTQ3MTI2NA==&mid=2247483753&idx=1&sn=a18dd763ec60d9a9b41ecd0eda894518&chksm=ec2fef26db58663055abef57c902fb464255554c5a12496c0b241b6a8fd4c5d40c460a7379d6&mpshare=1&scene=23&srcid=0517XyeX32Nz8nq3laZ5qVtr#rd)。
+**转载声明**：本文转自微信公众号「凤凰牌老熊」，[支付系统整体架构](http://mp.weixin.qq.com/s?__biz=MzI4OTQ3MTI2NA==&mid=2247483753&idx=1&sn=a18dd763ec60d9a9b41ecd0eda894518&chksm=ec2fef26db58663055abef57c902fb464255554c5a12496c0b241b6a8fd4c5d40c460a7379d6&mpshare=1&scene=23&srcid=0517XyeX32Nz8nq3laZ5qVtr#rd)。
 
 
 
