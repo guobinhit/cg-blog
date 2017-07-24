@@ -4,9 +4,10 @@
 
 ## 最新博文
 
- - **New article 1**：[详述“进程、线程和协程”的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/jin-xian-xie-cheng.md)
- - **New article 2**：[互联网支付系统整体架构详解](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/net-pay.md)
- - **New article 3**：[详述如何退出 Vim 编辑器](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/vim.md)
+ - **New article 1**：[用 Java 模拟 UDP 传输的发送端和接收端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-udp.md)
+ - **New article 2**：[详述“进程、线程和协程”的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/jin-xian-xie-cheng.md)
+ - **New article 3**：[互联网支付系统整体架构详解](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/net-pay.md)
+ 
 
 
  
@@ -33,7 +34,7 @@
 
 ## 编程语言
 
-- [用 Java 语言模拟 UDP 传输的发送端和接收端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-udp.md)
+- [用 Java 模拟 UDP 传输的发送端和接收端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-udp.md)
 
 
 
