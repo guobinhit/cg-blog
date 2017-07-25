@@ -4,7 +4,7 @@
 
 ## 最新博文
 
- - **New article 1**：[TCP 和 UDP 的定义、区别及模拟演示](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/udp-tcp.md)
+ - **New article 1**：[详述 TCP 和 UDP 的定义、区别及模拟演示](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/udp-tcp.md)
  - **New article 2**：[用 Java 模拟 TCP 传输的客户端和服务端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-tcp.md)
  - **New article 3**：[用 Java 模拟 UDP 传输的发送端和接收端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-udp.md)
  
@@ -19,7 +19,7 @@
 ## 文章分类（快速定位）
  - [史上最简单系列教程](#史上最简单系列教程)
  - [非技术那些事儿](#非技术那些事儿)
- - [编程语言](#工编程语言)
+ - [编程语言](#编程语言)
  - [工具及其他](#工具及其他)
  - [超实用的「Exception」和「Error」解决案例](https://github.com/guobinhit/SolutionCase-Exception-and-Error)
 
@@ -35,7 +35,7 @@
 
 ## 编程语言
 
-- [TCP 和 UDP 的定义、区别及模拟演示](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/udp-tcp.md)
+- [详述 TCP 和 UDP 的定义、区别及模拟演示](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/udp-tcp.md)
 - [用 Java 模拟 TCP 传输的客户端和服务端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-tcp.md)
 - [用 Java 模拟 UDP 传输的发送端和接收端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-udp.md)
 
