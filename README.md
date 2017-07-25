@@ -4,9 +4,10 @@
 
 ## 最新博文
 
- - **New article 1**：[用 Java 模拟 UDP 传输的发送端和接收端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-udp.md)
- - **New article 2**：[详述“进程、线程和协程”的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/jin-xian-xie-cheng.md)
- - **New article 3**：[互联网支付系统整体架构详解](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/net-pay.md)
+ - **New article 1**：[TCP 和 UDP 的定义、区别及模拟演示](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/udp-tcp.md)
+ - **New article 2**：[用 Java 模拟 TCP 传输的客户端和服务端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-tcp.md)
+ - **New article 3**：[用 Java 模拟 UDP 传输的发送端和接收端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-udp.md)
+ 
  
 
 
@@ -34,6 +35,8 @@
 
 ## 编程语言
 
+- [TCP 和 UDP 的定义、区别及模拟演示](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/udp-tcp.md)
+- [用 Java 模拟 TCP 传输的客户端和服务端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-tcp.md)
 - [用 Java 模拟 UDP 传输的发送端和接收端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-udp.md)
 
 
