@@ -4,9 +4,10 @@
 
 ## 最新博文
 
- - **New article 1**：[详述 TCP 和 UDP 的定义、区别及模拟演示](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/udp-tcp.md)
- - **New article 2**：[用 Java 模拟 TCP 传输的客户端和服务端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-tcp.md)
- - **New article 3**：[用 Java 模拟 UDP 传输的发送端和接收端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-udp.md)
+ - **New article 1**：[关于构造方法的那些事儿](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/structure.md)
+ - **New article 2**：[详述 TCP 和 UDP 的定义、区别及模拟演示](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/udp-tcp.md)
+ - **New article 3**：[用 Java 模拟 TCP 传输的客户端和服务端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-tcp.md)
+ 
  
  
 
@@ -35,6 +36,7 @@
 
 ## 编程语言
 
+- [关于构造方法的那些事儿](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/structure.md)
 - [详述 TCP 和 UDP 的定义、区别及模拟演示](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/udp-tcp.md)
 - [用 Java 模拟 TCP 传输的客户端和服务端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-tcp.md)
 - [用 Java 模拟 UDP 传输的发送端和接收端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-udp.md)
