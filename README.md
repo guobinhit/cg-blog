@@ -4,9 +4,9 @@
 
 ## 最新博文
 
- - **New article 1**：[关于构造方法的那些事儿](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/structure.md)
- - **New article 2**：[详述 TCP 和 UDP 的定义、区别及模拟演示](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/udp-tcp.md)
- - **New article 3**：[用 Java 模拟 TCP 传输的客户端和服务端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-tcp.md)
+ - **New article 1**：[19+ JavaScript 常用的简写技巧](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/19plus-js.md)
+ - **New article 2**：[详述 IaaS、PaaS 和 SaaS 的含义及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/iaas-paas-saas.md)
+ - **New article 3**：[关于构造方法的那些事儿](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/structure.md)
  
  
  
@@ -45,6 +45,8 @@
 
 ## 工具及其他
 
+- [19+ JavaScript 常用的简写技巧](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/19plus-js.md)
+- [详述 IaaS、PaaS 和 SaaS 的含义及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/iaas-paas-saas.md)
 - [详述“进程、线程和协程”的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/jin-xian-xie-cheng.md)
 - [互联网支付系统整体架构详解](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/net-pay.md)
 - [详述如何退出 Vim 编辑器](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/vim.md)
