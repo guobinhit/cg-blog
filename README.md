@@ -4,9 +4,10 @@
 
 ## 最新博文
 
- - **New article 1**：[19+ JavaScript 常用的简写技巧](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/19plus-js.md)
- - **New article 2**：[详述 IaaS、PaaS 和 SaaS 的含义及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/iaas-paas-saas.md)
- - **New article 3**：[关于构造方法的那些事儿](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/structure.md)
+ - **New article 1**：[Java 语言中 equals 和 == 的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/equals-hd.md)
+ - **New article 2**：[19+ JavaScript 常用的简写技巧](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/19plus-js.md)
+ - **New article 3**：[详述 IaaS、PaaS 和 SaaS 的含义及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/iaas-paas-saas.md)
+
  
  
  
@@ -36,6 +37,7 @@
 
 ## 编程语言
 
+- [Java 语言中 equals 和 == 的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/equals-hd.md)
 - [关于构造方法的那些事儿](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/structure.md)
 - [详述 TCP 和 UDP 的定义、区别及模拟演示](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/udp-tcp.md)
 - [用 Java 模拟 TCP 传输的客户端和服务端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-tcp.md)
