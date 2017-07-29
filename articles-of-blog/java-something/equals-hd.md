@@ -1,4 +1,4 @@
-# Java 语言中 equals 和 == 的区别
+# 详述 Java 语言中 equals 和 == 的区别
 
 1 前言
 ----
