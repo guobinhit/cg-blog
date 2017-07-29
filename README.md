@@ -6,7 +6,7 @@
 
  - **New article 1**：[详述 Java 语言中的格式化输出](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/format-system.md)
  - **New article 2**：[详述 String 类中的 空串 和 Null 串](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/kong-and-null.md)
- - **New article 3**：[Java 语言中 equals 和 == 的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/equals-hd.md)
+ - **New article 3**：[详述 Java 语言中 equals 和 == 的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/equals-hd.md)
 
  
  
@@ -39,7 +39,7 @@
 
 - [详述 Java 语言中的格式化输出](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/format-system.md)
 - [详述 String 类中的 空串 和 Null 串](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/kong-and-null.md)
-- [Java 语言中 equals 和 == 的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/equals-hd.md)
+- [详述 Java 语言中 equals 和 == 的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/equals-hd.md)
 - [关于构造方法的那些事儿](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/structure.md)
 - [详述 TCP 和 UDP 的定义、区别及模拟演示](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/udp-tcp.md)
 - [用 Java 模拟 TCP 传输的客户端和服务端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-tcp.md)
