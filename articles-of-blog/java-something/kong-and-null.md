@@ -31,7 +31,7 @@ if(str != null && str.length() != 0)
 ----------
 
 
-**扩展阅读**：[Java 语言中 equals 和 == 的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/equals-hd.md)
+**扩展阅读**：[详述 Java 语言中 equals 和 == 的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/equals-hd.md)
 
 
 
