@@ -4,9 +4,9 @@
 
 ## 最新博文
 
- - **New article 1**：[详述 Java 语言中的格式化输出](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/format-system.md)
- - **New article 2**：[详述 String 类中的 空串 和 Null 串](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/kong-and-null.md)
- - **New article 3**：[详述 Java 语言中 equals 和 == 的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/equals-hd.md)
+ - **New article 1**：[详述获取字节码文件及其内容的方法](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/class-byte-file.md)
+ - **New article 2**：[详述 Java 语言中的格式化输出](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/format-system.md)
+ - **New article 3**：[详述 String 类中的 空串 和 Null 串](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/kong-and-null.md)
 
  
  
@@ -37,6 +37,7 @@
 
 ## 编程语言
 
+- [详述获取字节码文件及其内容的方法](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/class-byte-file.md)
 - [详述 Java 语言中的格式化输出](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/format-system.md)
 - [详述 String 类中的 空串 和 Null 串](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/kong-and-null.md)
 - [详述 Java 语言中 equals 和 == 的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/equals-hd.md)
