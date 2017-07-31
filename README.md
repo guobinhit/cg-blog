@@ -4,9 +4,9 @@
 
 ## 最新博文
 
- - **New article 1**：[详述获取字节码文件及其内容的方法](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/class-byte-file.md)
- - **New article 2**：[详述 Java 语言中的格式化输出](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/format-system.md)
- - **New article 3**：[详述 String 类中的 空串 和 Null 串](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/kong-and-null.md)
+ - **New article 1**：[支付网关设计精要（Ping++ 联合创始人 赵宇）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/pay-gateway.md)
+ - **New article 2**：[详述 Java 语言中的 String、StringBuffer 和 StringBuilder 的使用方法及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/string-buffer-builder.md)
+ - **New article 3**：[详述获取字节码文件及其内容的方法](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/class-byte-file.md)
 
  
  
@@ -37,6 +37,7 @@
 
 ## 编程语言
 
+- [详述 Java 语言中的 String、StringBuffer 和 StringBuilder 的使用方法及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/string-buffer-builder.md)
 - [详述获取字节码文件及其内容的方法](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/class-byte-file.md)
 - [详述 Java 语言中的格式化输出](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/format-system.md)
 - [详述 String 类中的 空串 和 Null 串](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/kong-and-null.md)
@@ -50,6 +51,7 @@
 
 ## 工具及其他
 
+- [支付网关设计精要（Ping++ 联合创始人 赵宇）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/pay-gateway.md)
 - [19+ JavaScript 常用的简写技巧](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/19plus-js.md)
 - [详述 IaaS、PaaS 和 SaaS 的含义及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/iaas-paas-saas.md)
 - [详述“进程、线程和协程”的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/jin-xian-xie-cheng.md)
