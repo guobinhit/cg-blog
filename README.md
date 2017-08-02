@@ -26,7 +26,6 @@
  - [我的阅读清单及读后感](https://github.com/guobinhit/cg-reading-list)
  - [超实用的「Exception」和「Error」解决案例](https://github.com/guobinhit/SolutionCase-Exception-and-Error)
  
- https://github.com/guobinhit/cg-reading-list
 
 
 ## 史上最简单系列教程
