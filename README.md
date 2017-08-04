@@ -4,17 +4,9 @@
 
 ## 最新博文
 
- - **New article 1**：[网络爬虫二三事儿](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/net-spider.md)
- - **New article 2**：[支付网关设计精要（Ping++ 联合创始人 赵宇）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/pay-gateway.md)
- - **New article 3**：[详述 Java 语言中的 String、StringBuffer 和 StringBuilder 的使用方法及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/string-buffer-builder.md)
-
- 
- 
- 
-
-
- 
- 
+ - **New article 1**：[支付系统中的对账处理](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/accounting.md)
+ - **New article 2**：[网络爬虫二三事儿](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/net-spider.md)
+ - **New article 3**：[支付网关设计精要（Ping++ 联合创始人 赵宇）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/pay-gateway.md)
 
  
 
@@ -22,6 +14,7 @@
  - [史上最简单系列教程](#史上最简单系列教程)
  - [非技术那些事儿](#非技术那些事儿)
  - [编程语言](#编程语言)
+ - [聚合支付](#聚合支付)
  - [工具及其他](#工具及其他)
  - [我的阅读清单及读后感](https://github.com/guobinhit/cg-reading-list)
  - [超实用的「Exception」和「Error」解决案例](https://github.com/guobinhit/SolutionCase-Exception-and-Error)
@@ -50,15 +43,21 @@
 - [用 Java 模拟 TCP 传输的客户端和服务端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-tcp.md)
 - [用 Java 模拟 UDP 传输的发送端和接收端](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/java-to-udp.md)
 
+## 聚合支付
+
+- [支付系统中的对账处理](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/accounting.md)
+- [支付网关设计精要（Ping++ 联合创始人 赵宇）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/pay-gateway.md)
+- [互联网支付系统整体架构详解](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/net-pay.md)
+
+
 
 
 ## 工具及其他
 
-- [支付网关设计精要（Ping++ 联合创始人 赵宇）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/pay-gateway.md)
+
 - [19+ JavaScript 常用的简写技巧](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/19plus-js.md)
 - [详述 IaaS、PaaS 和 SaaS 的含义及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/iaas-paas-saas.md)
 - [详述“进程、线程和协程”的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/jin-xian-xie-cheng.md)
-- [互联网支付系统整体架构详解](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/net-pay.md)
 - [详述如何退出 Vim 编辑器](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/vim.md)
 - [详述 hosts 文件的作用及修改 hosts 文件的方法](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/hosts.md)
 - [详述 Cookie 与 Session 的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/cookie-and-session.md)
