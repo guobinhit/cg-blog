@@ -4,9 +4,9 @@
 
 ## 最新博文
 
- - **New article 1**：[支付系统中的对账处理](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/accounting.md)
- - **New article 2**：[网络爬虫二三事儿](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/net-spider.md)
- - **New article 3**：[支付网关设计精要（Ping++ 联合创始人 赵宇）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/pay-gateway.md)
+ - **New article 1**：[详述银行卡支付方式](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/bankpay.md)
+ - **New article 2**：[支付系统中的对账处理](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/accounting.md)
+ - **New article 3**：[网络爬虫二三事儿](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/net-spider.md)
 
  
 
@@ -45,6 +45,7 @@
 
 ## 聚合支付
 
+- [详述银行卡支付方式](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/bankpay.md)
 - [支付系统中的对账处理](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/accounting.md)
 - [支付网关设计精要（Ping++ 联合创始人 赵宇）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/pay-gateway.md)
 - [互联网支付系统整体架构详解](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/net-pay.md)
