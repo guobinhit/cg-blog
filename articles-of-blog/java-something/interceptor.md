@@ -157,3 +157,6 @@ public class ClientDemo {
 
 通过这篇文章，咱们可能会对拦截器的实现原理有一个更透彻的理解。But，在真正的项目实践之中，要想实现拦截器的功能，咱们一般采用继承类`HandlerInterceptorAdapter`或者抽象类`AbstractInterceptor`，或者实现`HandleInterceptor`接口。也就是说，咱们只需要关心如何重写方法，而不需要关心其内部的实现原理。
 
+-------------
+
+**转载声明**：本文转自「agileclipse的专栏」，[Java实现的拦截器](http://blog.csdn.net/agileclipse/article/details/9057857)。
