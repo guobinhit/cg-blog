@@ -4,9 +4,9 @@
 
 ## 最新博文
 
- - **New article 1**：[用 Java 实现拦截器 Interceptor 的拦截功能](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/interceptor.md) (2017-08-11)
- - **New article 2**：[详述支付网关的设计原则](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/gateway.md) (2017-08-07)
- - **New article 3**：[详述快捷支付产品功能及设计要点](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/fastpay.md) (2017-08-06)
+ - **New article 1**：[来自「Head First 设计模式」的程序设计原则（持续更新中）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/headfirst.md) (2017-08-15)
+ - **New article 2**：[用 Java 实现拦截器 Interceptor 的拦截功能](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/interceptor.md) (2017-08-11)
+ - **New article 3**：[详述支付网关的设计原则](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/gateway.md) (2017-08-07)
 
  
 
@@ -58,7 +58,7 @@
 
 ## 工具及其他
 
-
+- [来自「Head First 设计模式」的程序设计原则（持续更新中）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/headfirst.md) (2017-08-15)
 - [19+ JavaScript 常用的简写技巧](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/19plus-js.md) (2017-07-26)
 - [详述 IaaS、PaaS 和 SaaS 的含义及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/iaas-paas-saas.md) (2017-07-25)
 - [详述“进程、线程和协程”的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/jin-xian-xie-cheng.md) (2017-03-17)
