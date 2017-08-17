@@ -4,9 +4,9 @@
 
 ## 最新博文
 
- - **New article 1**：[来自「Head First 设计模式」的程序设计原则（持续更新中）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/headfirst.md) (2017-08-15)
- - **New article 2**：[用 Java 实现拦截器 Interceptor 的拦截功能](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/interceptor.md) (2017-08-11)
- - **New article 3**：[详述支付网关的设计原则](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/gateway.md) (2017-08-07)
+ - **New article 1**：[详述支付路由的设计方案](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/payrouter.md) (2017-08-17)
+ - **New article 2**：[来自「Head First 设计模式」的程序设计原则（持续更新中）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/headfirst.md) (2017-08-15)
+ - **New article 3**：[用 Java 实现拦截器 Interceptor 的拦截功能](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/interceptor.md) (2017-08-11)
 
  
 
@@ -46,6 +46,8 @@
 
 ## 聚合支付
 
+
+- [详述支付路由的设计方案](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/payrouter.md) (2017-08-17)
 - [详述支付网关的设计原则](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/gateway.md) (2017-08-07)
 - [详述快捷支付产品功能及设计要点](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/fastpay.md) (2017-08-06)
 - [详述银行卡支付方式](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/bankpay.md) (2017-08-05)
