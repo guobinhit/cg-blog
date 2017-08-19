@@ -4,9 +4,9 @@
 
 ## 最新博文
 
- - **New article 1**：[解析「三户模型」及建立账户模型](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/threemodel.md) (2017-08-18)
- - **New article 2**：[详述支付路由的设计方案](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/payrouter.md) (2017-08-17)
- - **New article 3**：[来自「Head First 设计模式」的程序设计原则（持续更新中）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/headfirst.md) (2017-08-15)
+ - **New article 1**：[详述 PO VO BO DTO DAO 和 POJO 的概念及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/xxo.md) (2017-08-19)
+ - **New article 2**：[解析「三户模型」及建立账户模型](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/threemodel.md) (2017-08-18)
+ - **New article 3**：[详述支付路由的设计方案](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/payrouter.md) (2017-08-17)
 
  
 
@@ -61,6 +61,7 @@
 
 ## 工具及其他
 
+- [详述 PO VO BO DTO DAO 和 POJO 的概念及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/xxo.md) (2017-08-19)
 - [来自「Head First 设计模式」的程序设计原则（持续更新中）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/headfirst.md) (2017-08-15)
 - [19+ JavaScript 常用的简写技巧](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/19plus-js.md) (2017-07-26)
 - [详述 IaaS、PaaS 和 SaaS 的含义及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/iaas-paas-saas.md) (2017-07-25)
