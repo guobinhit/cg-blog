@@ -4,10 +4,9 @@
 
 ## 最新博文
 
- - **New article 1**：[详述 PO VO BO DTO DAO 和 POJO 的概念及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/xxo.md) (2017-08-19)
- - **New article 2**：[解析「三户模型」及建立账户模型](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/threemodel.md) (2017-08-18)
- - **New article 3**：[详述支付路由的设计方案](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/payrouter.md) (2017-08-17)
-
+ - **New article 1**：[解读 Maven 安装目录](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/maven.md) (2017-08-24)
+ - **New article 2**：[详述 PO VO BO DTO DAO 和 POJO 的概念及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/xxo.md) (2017-08-19)
+ - **New article 3**：[解析「三户模型」及建立账户模型](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/threemodel.md) (2017-08-18)
  
 
 ## 文章分类（快速定位）
@@ -16,7 +15,7 @@
  - [编程语言](#编程语言)
  - [聚合支付](#聚合支付)
  - [工具及其他](#工具及其他)
- - [我的阅读清单及读后感](https://github.com/guobinhit/cg-reading-list)
+ - [我的收藏清单](https://github.com/guobinhit/cg-reading-list)
  - [超实用的「Exception」和「Error」解决案例](https://github.com/guobinhit/SolutionCase-Exception-and-Error)
  
 
@@ -61,6 +60,9 @@
 
 ## 工具及其他
 
+
+
+- [解读 Maven 安装目录](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/maven.md) (2017-08-24)
 - [详述 PO VO BO DTO DAO 和 POJO 的概念及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/xxo.md) (2017-08-19)
 - [来自「Head First 设计模式」的程序设计原则（持续更新中）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/headfirst.md) (2017-08-15)
 - [19+ JavaScript 常用的简写技巧](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/19plus-js.md) (2017-07-26)
