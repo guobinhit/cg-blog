@@ -4,9 +4,9 @@
 
 ## 最新博文
 
- - **New article 1**：[解读 Maven 安装目录](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/maven.md) (2017-08-24)
- - **New article 2**：[详述 PO VO BO DTO DAO 和 POJO 的概念及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/xxo.md) (2017-08-19)
- - **New article 3**：[解析「三户模型」及建立账户模型](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/threemodel.md) (2017-08-18)
+ - **New article 1**：[超简单的 VIM 练级攻略](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/vim-better.md) (2017-08-31)
+ - **New article 2**：[解读 Maven 安装目录](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/maven.md) (2017-08-24)
+ - **New article 3**：[详述 PO VO BO DTO DAO 和 POJO 的概念及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/xxo.md) (2017-08-19)
  
 
 ## 文章分类（快速定位）
@@ -61,7 +61,7 @@
 ## 工具及其他
 
 
-
+- [超简单的 VIM 练级攻略](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/vim-better.md) (2017-08-31)
 - [解读 Maven 安装目录](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/maven.md) (2017-08-24)
 - [详述 PO VO BO DTO DAO 和 POJO 的概念及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/xxo.md) (2017-08-19)
 - [来自「Head First 设计模式」的程序设计原则（持续更新中）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/headfirst.md) (2017-08-15)
