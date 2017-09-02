@@ -4,9 +4,9 @@
 
 ## 最新博文
 
- - **New article 1**：[超简单的 VIM 练级攻略](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/vim-better.md) (2017-08-31)
- - **New article 2**：[解读 Maven 安装目录](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/maven.md) (2017-08-24)
- - **New article 3**：[详述 PO VO BO DTO DAO 和 POJO 的概念及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/xxo.md) (2017-08-19)
+ - **New article 1**：[详述 tomcat 的 server.xml 配置文件](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/tomcat.md) (2017-09-02)
+ - **New article 2**：[超简单的 VIM 练级攻略](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/vim-better.md) (2017-08-31)
+ - **New article 3**：[解读 Maven 安装目录](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/maven.md) (2017-08-24)
  
 
 ## 文章分类（快速定位）
@@ -61,6 +61,9 @@
 ## 工具及其他
 
 
+
+
+- [详述 tomcat 的 server.xml 配置文件](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/tomcat.md) (2017-09-02)
 - [超简单的 VIM 练级攻略](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/vim-better.md) (2017-08-31)
 - [解读 Maven 安装目录](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/maven.md) (2017-08-24)
 - [详述 PO VO BO DTO DAO 和 POJO 的概念及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/xxo.md) (2017-08-19)
