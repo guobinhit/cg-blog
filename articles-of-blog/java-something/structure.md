@@ -30,7 +30,7 @@
 
 ```
 /**
- * @author Charies Guo
+ * @author Charies Gavin
  * @create 2017-07-26
  */
 
@@ -49,7 +49,7 @@ public class Method {
 
 ```
 /**
- * @author Charies Guo
+ * @author Charies Gavin
  * @create 2017-07-26
  */
 
