@@ -13,6 +13,7 @@
  - [史上最简单系列教程](#史上最简单系列教程)
  - [非技术那些事儿](#非技术那些事儿)
  - [编程语言](#编程语言)
+ - [设计模式](https://github.com/guobinhit/design-pattern)
  - [Java技巧](https://github.com/guobinhit/java-skills)
  - [聚合支付](#聚合支付)
  - [工具及其他](#工具及其他)
