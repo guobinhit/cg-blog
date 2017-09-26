@@ -4,9 +4,9 @@
 
 ## 最新博文
 
- - **New article 1**：[详述 Maven 依赖范围及依赖调节原则](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/maven-dependency.md) (2017-09-24)
- - **New article 2**：[详述 DB2 分页查询及 Java 实现](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/db2-java.md) (2017-09-15)
- - **New article 3**：[详述 Java 中的别名现象](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/java-something/alias.md) (2017-09-06)
+ - **New article 1**：[支付宝钱包系统架构内部剖析](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/alipay.md) (2017-09-26)
+ - **New article 2**：[去哪儿网支付系统架构演进](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/qunar.md) (2017-09-26)
+ - **New article 3**：[详述 Maven 依赖范围及依赖调节原则](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/maven-dependency.md) (2017-09-24)
  
 
 ## 文章分类（快速定位）
@@ -51,6 +51,8 @@
 ## 聚合支付
 
 
+ - [支付宝钱包系统架构内部剖析](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/alipay.md) (2017-09-26)
+ - [去哪儿网支付系统架构演进](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/qunar.md) (2017-09-26)
 - [解析「三户模型」及建立账户模型](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/threemodel.md) (2017-08-18)
 - [详述支付路由的设计方案](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/payrouter.md) (2017-08-17)
 - [详述支付网关的设计原则](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/gateway.md) (2017-08-07)
