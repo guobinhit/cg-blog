@@ -4,9 +4,9 @@
 
 ## 最新博文
 
- - **New article 1**：[轮子哥：回顾我走过的编程之路](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/wheel-bro.md) (2017-10-09)
- - **New article 2**：[阿里与腾讯人的区别，就是明教与武当的反差](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/ali-tencent.md) (2017-09-30)
- - **New article 3**：[支付宝钱包系统架构内部剖析](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/alipay.md) (2017-09-26)
+ - **New article 1**：[特斯拉 CEO 马斯克：年轻人成功的秘诀，只有这 5 点](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/tesla.md) (2017-10-10)
+ - **New article 2**：[轮子哥：回顾我走过的编程之路](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/wheel-bro.md) (2017-10-09)
+ - **New article 3**：[阿里与腾讯人的区别，就是明教与武当的反差](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/ali-tencent.md) (2017-09-30)
  
 
 ## 文章分类（快速定位）
@@ -89,6 +89,7 @@
 
 ## 非技术那些事儿
 
+- [特斯拉 CEO 马斯克：年轻人成功的秘诀，只有这 5 点](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/tesla.md) (2017-10-10)
 - [轮子哥：回顾我走过的编程之路](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/wheel-bro.md) (2017-10-09)
 - [阿里与腾讯人的区别，就是明教与武当的反差](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/ali-tencent.md) (2017-09-30)
 - [我所知道的 11 条领导力（Ping++ CEO 金亦冶）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/pingceo-eleven.md) (2017-07-15)
