@@ -1,4 +1,4 @@
-# 来自「Head First 设计模式」的程序设计原则（持续更新中）
+# 来自「Head First 设计模式」的程序设计原则
 
 ![head-first](http://img.blog.csdn.net/20170806110205826)
 
