@@ -75,7 +75,7 @@
 - [超简单的 VIM 练级攻略](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/vim-better.md) (2017-08-31)
 - [解读 Maven 安装目录](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/maven.md) (2017-08-24)
 - [详述 PO VO BO DTO DAO 和 POJO 的概念及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/xxo.md) (2017-08-19)
-- [来自「Head First 设计模式」的程序设计原则（持续更新中）](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/headfirst.md) (2017-08-15)
+- [来自「Head First 设计模式」的程序设计原则](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/headfirst.md) (2017-08-15)
 - [19+ JavaScript 常用的简写技巧](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/19plus-js.md) (2017-07-26)
 - [详述 IaaS、PaaS 和 SaaS 的含义及区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/iaas-paas-saas.md) (2017-07-25)
 - [详述“进程、线程和协程”的区别](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/jin-xian-xie-cheng.md) (2017-03-17)
