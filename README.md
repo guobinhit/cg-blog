@@ -4,9 +4,9 @@
 
 ## 最新博文
 
- - **New article 1**：[迅雷创始人程浩：AI 创业必知 6 大核心问题，如何选择赛道、搭配团队和应对巨头挑战](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/thunder.md) (2017-10-13)
- - **New article 2**：[马云：阿里必须是一家创造未来的公司，必须成为国家和世界创新的发动机](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/mayun.md) (2017-10-11)
- - **New article 3**：[阿里成立达摩院 1000 亿投研发，马云称达摩要比阿里活得长](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/damo.md) (2017-10-11)
+ - **New article 1**：[刘强东：死掉的创业公司，几乎都违背这 4 点最基本的经济常识](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/liuqiangdong.md) (2017-10-16)
+ - **New article 2**：[迅雷创始人程浩：AI 创业必知 6 大核心问题，如何选择赛道、搭配团队和应对巨头挑战](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/thunder.md) (2017-10-13)
+ - **New article 3**：[马云：阿里必须是一家创造未来的公司，必须成为国家和世界创新的发动机](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/mayun.md) (2017-10-11)
  
 
 ## 文章分类（快速定位）
@@ -89,6 +89,7 @@
 
 ## 非技术那些事儿
 
+- [刘强东：死掉的创业公司，几乎都违背这 4 点最基本的经济常识](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/liuqiangdong.md) (2017-10-16)
 - [迅雷创始人程浩：AI 创业必知 6 大核心问题，如何选择赛道、搭配团队和应对巨头挑战](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/thunder.md) (2017-10-13)
 - [马云：阿里必须是一家创造未来的公司，必须成为国家和世界创新的发动机](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/mayun.md) (2017-10-11)
 - [阿里成立达摩院 1000 亿投研发，马云称达摩要比阿里活得长](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/damo.md) (2017-10-11)
