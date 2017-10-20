@@ -4,9 +4,9 @@
 
 ## 最新博文
 
- - **New article 1**：[详述 Mac 系统下安装及卸载 Python 的方法](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/python.md) (2017-10-17)
- - **New article 2**：[在 Win10 系统下安装 JDK 及配置环境变量的方法](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/installjdk.md) (2017-10-17)
- - **New article 3**：[刘强东：死掉的创业公司，几乎都违背这 4 点最基本的经济常识](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/liuqiangdong.md) (2017-10-16)
+ - **New article 1**：[左耳朵耗子 | 程序员如何用技术变现?](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/skill-to-money.md) (2017-10-20)
+ - **New article 2**：[详述 Mac 系统下安装及卸载 Python 的方法](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/python.md) (2017-10-17)
+ - **New article 3**：[在 Win10 系统下安装 JDK 及配置环境变量的方法](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/installjdk.md) (2017-10-17)
  
 
 ## 文章分类（快速定位）
@@ -90,6 +90,7 @@
 
 ## 非技术那些事儿
 
+- [左耳朵耗子 | 程序员如何用技术变现?](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/skill-to-money.md) (2017-10-20)
 - [刘强东：死掉的创业公司，几乎都违背这 4 点最基本的经济常识](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/liuqiangdong.md) (2017-10-16)
 - [迅雷创始人程浩：AI 创业必知 6 大核心问题，如何选择赛道、搭配团队和应对巨头挑战](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/thunder.md) (2017-10-13)
 - [马云：阿里必须是一家创造未来的公司，必须成为国家和世界创新的发动机](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/mayun.md) (2017-10-11)
