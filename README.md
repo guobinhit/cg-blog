@@ -4,7 +4,7 @@
 
 ## 最新博文
  - **New article 1**：[旷视 CEO 印奇：靠“刷脸”折腾出 120 亿的大生意](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/megvii.md) (2017-10-26)
- - **New article 2**：[左耳朵耗子 | 程序员如何用技术变现?](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/skill-to-money.md) (2017-10-20)
+ - **New article 2**：[左耳朵耗子 | 程序员如何用技术变现?](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/skill-to-money.md) (2017-10-20)
  - **New article 3**：[详述 Mac 系统下安装及卸载 Python 的方法](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/python.md) (2017-10-17)
  
 
@@ -90,11 +90,11 @@
 ## 非技术那些事儿
 
 - [旷视 CEO 印奇：靠“刷脸”折腾出 120 亿的大生意](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/megvii.md) (2017-10-26)
-- [左耳朵耗子 | 程序员如何用技术变现?](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/skill-to-money.md) (2017-10-20)
-- [刘强东：死掉的创业公司，几乎都违背这 4 点最基本的经济常识](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/liuqiangdong.md) (2017-10-16)
-- [迅雷创始人程浩：AI 创业必知 6 大核心问题，如何选择赛道、搭配团队和应对巨头挑战](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/thunder.md) (2017-10-13)
-- [马云：阿里必须是一家创造未来的公司，必须成为国家和世界创新的发动机](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/mayun.md) (2017-10-11)
-- [阿里成立达摩院 1000 亿投研发，马云称达摩要比阿里活得长](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/damo.md) (2017-10-11)
+- [左耳朵耗子 | 程序员如何用技术变现?](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/skill-to-money.md) (2017-10-20)
+- [刘强东：死掉的创业公司，几乎都违背这 4 点最基本的经济常识](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/liuqiangdong.md) (2017-10-16)
+- [迅雷创始人程浩：AI 创业必知 6 大核心问题，如何选择赛道、搭配团队和应对巨头挑战](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/thunder.md) (2017-10-13)
+- [马云：阿里必须是一家创造未来的公司，必须成为国家和世界创新的发动机](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/mayun.md) (2017-10-11)
+- [阿里成立达摩院 1000 亿投研发，马云称达摩要比阿里活得长](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/damo.md) (2017-10-11)
 - [特斯拉 CEO 马斯克：年轻人成功的秘诀，只有这 5 点](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/tesla.md) (2017-10-10)
 - [轮子哥：回顾我走过的编程之路](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/wheel-bro.md) (2017-10-09)
 - [阿里与腾讯人的区别，就是明教与武当的反差](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/nontechnical-things/ali-tencent.md) (2017-09-30)
