@@ -1,6 +1,6 @@
 # Git 初体验及其常用命令介绍（下）
 
-在前一篇博文“ [Git 初体验及其常用命令介绍（上）](https://github.com/guobinhit/github-tutorial/blob/master/articles-of-github-tutorial/experence-git-one.md) ”中，咱们已经了解了 Git 的一些常用命令了，包括`status`、`init`、`add`、`commit`和`log`等等，接下来，咱们接着上一篇博文的内容，继续介绍 Git 的常用命令。
+在前一篇博文「[Git 初体验及其常用命令介绍（上）](https://github.com/guobinhit/cg-blog/blob/master/articles/github/tutorials/experence-git-one.md)」中，咱们已经了解了 Git 的一些常用命令了，包括`status`、`init`、`add`、`commit`和`log`等等，接下来，咱们接着上一篇博文的内容，继续介绍 Git 的常用命令。
 
 **第 6 个命令**：`git branch`
 
@@ -62,7 +62,7 @@
 
 如上图所示，咱们已经成功切换到`a`分支的`v1.0`标签啦！
 
-通过“ [Git 初体验及其常用命令介绍](https://github.com/guobinhit/github-tutorial/blob/master/README.md) ”两篇博文的内容，咱们已经了解了一些 Git 的常用命令啦，但还有很多命令咱们没有进行演示，例如`clone`、`rm`、`grep`、`pull`和`push`等等，Git 的魅力也并不止于此，还有更多的精彩等待大家探索。
+通过「[Git 初体验及其常用命令介绍](https://github.com/guobinhit/cg-blog/blob/master/articles/github/GITHUB_README.md)」两篇博文的内容，咱们已经了解了一些 Git 的常用命令啦，但还有很多命令咱们没有进行演示，例如`clone`、`rm`、`grep`、`pull`和`push`等等，Git 的魅力也并不止于此，还有更多的精彩等待大家探索。
 
 此外，对前一篇博文中遗留的问题“提交内容”中的`Author`可以用如下命令进行设置：
 
@@ -73,4 +73,4 @@ git config --global user.email "邮箱"
 
 
 ----------
-———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/github-tutorial/blob/master/README.md) —— ☆☆☆ ————
+———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/github/GITHUB_README.md) —— ☆☆☆ ————

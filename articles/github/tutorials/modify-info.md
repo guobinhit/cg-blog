@@ -1,6 +1,6 @@
 # GitHub 主页介绍及修改个人信息
 
-接着博文“ [敲开 GitHub 的大门 - 注册账号](https://github.com/guobinhit/github-tutorial/blob/master/articles-of-github-tutorial/sign-up.md) ”的内容，咱们继续往下介绍：
+接着博文「[敲开 GitHub 的大门 - 注册账号](https://github.com/guobinhit/cg-blog/blob/master/articles/github/tutorials/sign-up.md)」的内容，咱们继续往下介绍：
 
 ![1](http://img.blog.csdn.net/20170328153507138)
 
@@ -36,4 +36,4 @@
 
 
 ----------
-———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/github-tutorial/blob/master/README.md) —— ☆☆☆ ————
+———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/github/GITHUB_README.md) —— ☆☆☆ ————

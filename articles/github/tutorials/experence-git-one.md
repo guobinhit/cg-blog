@@ -1,6 +1,6 @@
 # Git 初体验及其常用命令介绍（上）
 
-在博文“ [Git 的安装流程及步骤](https://github.com/guobinhit/github-tutorial/blob/master/articles-of-github-tutorial/install-git.md) ”中，咱们已经把 Git 安装成功啦，现在，就让咱们一起体验 Git 的魅力吧！
+在博文「[Git 的安装流程及步骤](https://github.com/guobinhit/cg-blog/blob/master/articles/github/tutorials/install-git.md)」中，咱们已经把 Git 安装成功啦，现在，就让咱们一起体验 Git 的魅力吧！
 
 不知道大家是否还记得，在 Git 安装完成的时候，咱们曾在 Git Bash 中输入`git`命令进行测试，其返回的结果如下图所示：
 
@@ -8,7 +8,7 @@
 
 如上图所示，其返回了很多关于 Git 的信息，其中就包括 Git 的常用命令，例如`init`、`add`、`log`和`status`等等。在 Git 中，所有的命令都是以`git`开头，例如，`git init`其作用就是初始一个 Git 仓库。
 
-为了方便演示，咱们先在`D`盘的“CoderLife”目录下创建一个名为“**demo**”的子目录，并在其中新建一个名为“**hit.txt**”的文件，也就是说，接下来咱们的 Git 操作都是基于此目录的。
+为了方便演示，咱们先在`D`盘的`CoderLife`目录下创建一个名为`demo`的子目录，并在其中新建一个名为`hit.txt`的文件，也就是说，接下来咱们的 Git 操作都是基于此目录的。
 
 ![2](http://img.blog.csdn.net/20170402191221430)
 
@@ -76,4 +76,4 @@
 
 
 ----------
-———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/github-tutorial/blob/master/README.md) —— ☆☆☆ ————
+———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/github/GITHUB_README.md) —— ☆☆☆ ————

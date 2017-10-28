@@ -1,6 +1,6 @@
 # Git 的安装流程及步骤
 
-在之前的“[ 史上最简单的 GitHub 教程 ](https://github.com/guobinhit/github-tutorial/blob/master/README.md)”中，咱们已经知道了如何创建 GitHub 账号、创建仓库、进行个性化设置等等，但是咱们还要知道：GitHub 是基于版本控制系统 Git 之上的啊！如果咱们想要进入代码托管，想要进行团队协作，这都少不了一个工具，那就是：**Git**. 因此，在本篇博文中，咱们就一起来了解一下 Git 的安装流程及步骤。
+在之前的「[史上最简单的 GitHub 教程](https://github.com/guobinhit/cg-blog/blob/master/articles/github/GITHUB_README.md)」中，咱们已经知道了如何创建 GitHub 账号、创建仓库、进行个性化设置等等，但是咱们还要知道：GitHub 是基于版本控制系统 Git 之上的啊！如果咱们想要进入代码托管，想要进行团队协作，这都少不了一个工具，那就是：**Git**. 因此，在本篇博文中，咱们就一起来了解一下 Git 的安装流程及步骤。
 
 首先，进入 Git 的官网：[git - -fast-version-control](https://git-scm.com/)
 
@@ -81,6 +81,6 @@
 
 
 ----------
-———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/github-tutorial/blob/master/README.md) —— ☆☆☆ ————
+———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/github/GITHUB_README.md) —— ☆☆☆ ————
 
  

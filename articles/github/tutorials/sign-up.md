@@ -1,6 +1,6 @@
 # 敲开 GitHub 的大门 · 注册账号
 
-在博文“[ 初识 GitHub · 简介篇 ](https://github.com/guobinhit/github-tutorial/blob/master/articles-of-github-tutorial/first-github.md)”中，咱们已经初步了解了 GitHub，里面有众多的业界大神、有丰富的学习资料、有著名的开源项目代码，咱们也可以在 GitHub 中增长自己的技术能力、渲染自己的简历，甚至搭建自己的个人博客或者网站。此外，最重要的，也是 GitHub 的核心亮点，那就是：咱们可以在 GitHub 上同世界各地的伙伴协同开发项目，简单、容易的让人难以置信。那么，你准备好了吗？现在，就让咱们一起敲开 GitHub 的大门，进入 GitHub 的世界吧！
+在博文「[初识 GitHub · 简介篇 ](https://github.com/guobinhit/cg-blog/blob/master/articles/github/tutorials/first-github.md)」中，咱们已经初步了解了 GitHub，里面有众多的业界大神、有丰富的学习资料、有著名的开源项目代码，咱们也可以在 GitHub 中增长自己的技术能力、渲染自己的简历，甚至搭建自己的个人博客或者网站。此外，最重要的，也是 GitHub 的核心亮点，那就是：咱们可以在 GitHub 上同世界各地的伙伴协同开发项目，简单、容易的让人难以置信。那么，你准备好了吗？现在，就让咱们一起敲开 GitHub 的大门，进入 GitHub 的世界吧！
 
 首先，进入 GitHub 的官网：github.com
 
@@ -44,4 +44,4 @@
 
 
 ----------
-———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/github-tutorial/blob/master/README.md) —— ☆☆☆ ————
+———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/github/GITHUB_README.md) —— ☆☆☆ ————

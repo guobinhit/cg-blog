@@ -3,7 +3,7 @@
 1 前言
 ----
 
-在博文“ [利用 SSH 完成 Git 与 GitHub 的绑定](https://github.com/guobinhit/github-tutorial/blob/master/articles-of-github-tutorial/ssh-git-github.md) ”中，咱们完成了本地 Git 与远程 GitHub 的绑定，这意味着咱们已经可以通过 Git 向 GitHub 提交代码啦！但是在进行演示之前，咱们需要先了解两个命令，也是咱们在将来需要经常用到的两个命令，分别为`push`和`pull`.
+在博文「[利用 SSH 完成 Git 与 GitHub 的绑定](https://github.com/guobinhit/cg-blog/blob/master/articles/github/tutorials/ssh-git-github.md)」中，咱们完成了本地 Git 与远程 GitHub 的绑定，这意味着咱们已经可以通过 Git 向 GitHub 提交代码啦！但是在进行演示之前，咱们需要先了解两个命令，也是咱们在将来需要经常用到的两个命令，分别为`push`和`pull`.
 
 **`push`**：该单词直译过来就是“推”的意思，如果咱们本地的代码有了更新，为了保持本地与远程的代码同步，咱们就需要把本地的代码推到远程的仓库，代码示例：
 
@@ -86,9 +86,9 @@ git pull origin master
 
 观察上图，咱们会发现一个问题，那就是：`mybatis-tutorial`仓库的概要中新增了一个`Java`语言的标记。对于这个仓库语言的标记，其来源有两个，一是在咱们创建仓库时就指定语言；二是在咱们提交或者新建代码后由 GitHub 自动识别该语言。
 
-**第二种**：详见 [通过 Git 将代码提交到 GitHub（下）](https://github.com/guobinhit/github-tutorial/blob/master/articles-of-github-tutorial/push-code-two.md).
+**第二种**：详见「[通过 Git 将代码提交到 GitHub（下）](https://github.com/guobinhit/cg-blog/blob/master/articles/github/tutorials/push-code-two.md)」.
 
 
 
 ----------
-———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/github-tutorial/blob/master/README.md) —— ☆☆☆ ————
+———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/github/GITHUB_README.md) —— ☆☆☆ ————

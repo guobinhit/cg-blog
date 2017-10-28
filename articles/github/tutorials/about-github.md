@@ -1,6 +1,6 @@
 # 关于 GitHub 的若干补充
 
-在通读「[ 史上最简单的 GitHub 教程](https://github.com/guobinhit/github-tutorial/blob/master/README.md)」的系列博文之后，相信大家已经初步了解以及会使用 GitHub 进行常见的操作啦！为了大家玩的更好，在此给出 GitHub 的若干补充。
+在通读「[ 史上最简单的 GitHub 教程](https://github.com/guobinhit/cg-blog/blob/master/articles/github/GITHUB_README.md)」的系列博文之后，相信大家已经初步了解以及会使用 GitHub 进行常见的操作啦！为了大家玩的更好，在此给出 GitHub 的若干补充。
 
 **第 1 点：查看`Repo`数据**
 
@@ -62,7 +62,7 @@
 
 
 ----------
-———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/github-tutorial/blob/master/README.md) —— ☆☆☆ ————
+———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/github/GITHUB_README.md) —— ☆☆☆ ————
 
 
 

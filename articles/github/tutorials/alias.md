@@ -1,7 +1,7 @@
 # Git 进阶之「设置别名」
 
 
-在“[ Git 初体验及其常用命令介绍](https://github.com/guobinhit/github-tutorial/blob/master/README.md) ”中，咱们已经接触了不少常用的命令，包括：
+在「[Git 初体验及其常用命令介绍](https://github.com/guobinhit/cg-blog/blob/master/articles/github/GITHUB_README.md)」中，咱们已经接触了不少常用的命令，包括：
 
  - `git status`，查询仓库状态；
  - `git init`，初始化仓库；
@@ -52,7 +52,7 @@ git log --graph --pretty=format:'%Cred%h%Creset - %C(yellow)%d%Creset %s %Cgreen
 如上图所示，展示了`color.ui`、`core.repositoryformatversion`和`core.filemode`等配置信息。
 
 ----------
-———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/github-tutorial/blob/master/README.md) —— ☆☆☆ ————
+———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/github/GITHUB_README.md) —— ☆☆☆ ————
 
 
 

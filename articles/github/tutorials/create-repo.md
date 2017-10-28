@@ -1,6 +1,6 @@
 # 创建 GitHub 仓库的步骤及方法
 
-在博文“ [GitHub 主页介绍及修改个人信息](https://github.com/guobinhit/github-tutorial/blob/master/articles-of-github-tutorial/modify-info.md) ”中，咱们已经对 GitHub 的个人主页有了一些了解，并且完成了对个人信息的修改啦！但是美中不足的是，咱们还没有自己的`Repo`啊，也就是 GitHub 的核心要素——**库**，接下来，咱们就尝试着创建自己的 GitHub 仓库。
+在博文「[GitHub 主页介绍及修改个人信息](https://github.com/guobinhit/cg-blog/blob/master/articles/github/tutorials/modify-info.md)」中，咱们已经对 GitHub 的个人主页有了一些了解，并且完成了对个人信息的修改啦！但是美中不足的是，咱们还没有自己的`Repo`啊，也就是 GitHub 的核心要素——**库**，接下来，咱们就尝试着创建自己的 GitHub 仓库。
 
 ![1](http://img.blog.csdn.net/20170330083420920)
 
@@ -34,4 +34,4 @@
 
 
 ----------
-———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/github-tutorial/blob/master/README.md) —— ☆☆☆ ————
+———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/github/GITHUB_README.md) —— ☆☆☆ ————

@@ -55,7 +55,7 @@
 在上面的资料中，博主总结了非常多的异常和错误的解决案例，绝对是程序员必备神器。而且博主还会不断补充新的内容，想做一个面对任何异常和错误都能解决如探囊取物般轻松的超级程序员吗？想的话，就从关注此项目开始吧，哈哈！
 
 ----------
-———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/github-tutorial/blob/master/README.md) —— ☆☆☆ ————
+———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/github/GITHUB_README.md) —— ☆☆☆ ————
 
 
 
