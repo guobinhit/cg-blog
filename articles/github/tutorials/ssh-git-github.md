@@ -2,7 +2,7 @@
 
 在「[史上最简单的 GitHub 教程](https://github.com/guobinhit/cg-blog/blob/master/articles/github/GITHUB_README.md)」中，咱们已经对 GitHub 有了一定的了解，包括创建仓库、拉分支，或者通过`Clone or download`克隆或者下载代码；咱们也下载并安装了 Git，也了解了其常用的命令。But，无论是 GitHub，还是 Git，咱们都是单独或者说是独立操作的，并没有将两者绑定啊！也就是说，咱们现在只能通过 GitHub 下载代码，并不能通过 Git 向 GitHub 提交代码。
 
-因此，在本篇博文中，咱们就一起完成 Git 和 GitHub 的绑定，体验通过 Git 向 GitHub 提交代码的能力。不过在这之前，咱们需要先了解 SSh（安全外壳协议），因为在 GitHub 上，一般都是通过 SSH 来授权的，而且大多数 Git 服务器也会选择使用 SSH 公钥来进行授权，所以想要向 GitHub 提交代码，首先就得在 GitHub 上添加 `SSH key`配置。此外，如果大家对 SSH 还不太了解，那么建议先阅读博主之前写的过文章“ [从菜鸟到入门，掌握 SSH](http://blog.csdn.net/qq_35246620/article/details/66973794) ”，从而对 SSH 有一个大致的了解。
+因此，在本篇博文中，咱们就一起完成 Git 和 GitHub 的绑定，体验通过 Git 向 GitHub 提交代码的能力。不过在这之前，咱们需要先了解 SSh（安全外壳协议），因为在 GitHub 上，一般都是通过 SSH 来授权的，而且大多数 Git 服务器也会选择使用 SSH 公钥来进行授权，所以想要向 GitHub 提交代码，首先就得在 GitHub 上添加 `SSH key`配置。此外，如果大家对 SSH 还不太了解，那么建议先阅读博主之前写的过文章「[从菜鸟到入门，掌握 SSH](http://blog.csdn.net/qq_35246620/article/details/54317740)」，从而对 SSH 有一个大致的了解。
 
 **第一步：生成 `SSH key`**
 
@@ -12,10 +12,10 @@
 
 如上图所示，此结果表示咱们已经安装了 SSH 啦！接下来，输入`ssh-keygen -t rsa`命令，表示咱们指定 RSA 算法生成密钥，然后敲三次回车键，期间不需要输入密码，之后就就会生成两个文件，分别为`id_rsa`和`id_rsa.pub`，即密钥`id_rsa`和公钥`id_rsa.pub`. 对于这两个文件，其都为隐藏文件，默认生成在以下目录：
 
- - Linux 系统：~/.ssh
- - Mac 系统：~/.ssh
- - Windows 系统：C:\Documents and Settings\username\\.ssh
- - Windows 10 ThinkPad：C:\Users\think\.ssh
+ - Linux 系统：`~/.ssh`
+ - Mac 系统：`~/.ssh`
+ - Windows 系统：`C:\Documents and Settings\username\\.ssh`
+ - Windows 10 ThinkPad：`C:\Users\think\.ssh`
 
 密钥和公钥生成之后，咱们要做的事情就是把公钥`id_rsa.pub`的内容添加到 GitHub，这样咱们本地的密钥`id_rsa`和 GitHub 上的公钥`id_rsa.pub`才可以进行匹配，授权成功后，就可以向 GitHub 提交代码啦！
 

@@ -48,7 +48,7 @@ git pull origin master
 
 ![05](http://img.blog.csdn.net/20170408132803379)
 
-如上图所示，显示咱们已经把远程仓库`mybatis-tutorial`的内容都`clone`到本地啦！接下来，为了方便演示，博主直接把之前重构的[史上最简单的 MyBatis 教程](https://github.com/guobinhit/mybatis-tutorial)里面的`mybatis-demo`项目的代码复制过来：
+如上图所示，显示咱们已经把远程仓库`mybatis-tutorial`的内容都`clone`到本地啦！接下来，为了方便演示，博主直接把之前重构的「[史上最简单的 MyBatis 教程](https://github.com/guobinhit/mybatis-tutorial)」里面的`mybatis-demo`项目的代码复制过来：
 
 ![06](http://img.blog.csdn.net/20170408133733524)
 
@@ -56,7 +56,7 @@ git pull origin master
 
 ![07](http://img.blog.csdn.net/20170408134133223)
 
-如上图所示，`mybatis-tutorial`已经是一个 Git 仓库了，而是输入`git status`命令后显示有两个文件，也就是咱们刚刚复制过来的两个文件没有提交。通过[ Git 初体验及其常用命令介绍](https://github.com/guobinhit/github-tutorial/blob/master/articles-of-github-tutorial/experence-git-one.md)，咱们已经知道了在真正提交代码之前，需求先进行`git add`操作：
+如上图所示，`mybatis-tutorial`已经是一个 Git 仓库了，而是输入`git status`命令后显示有两个文件，也就是咱们刚刚复制过来的两个文件没有提交。通过「[Git 初体验及其常用命令介绍](https://github.com/guobinhit/cg-blog/blob/master/articles/github/tutorials/experence-git-one.md)」，咱们已经知道了在真正提交代码之前，需求先进行`git add`操作：
 
 ![08](http://img.blog.csdn.net/20170408134942529)
 
