@@ -3,9 +3,9 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[旷视 CEO 印奇：靠“刷脸”折腾出 120 亿的大生意](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/megvii.md) (2017-10-26)
- - **New article 2**：[左耳朵耗子 | 程序员如何用技术变现?](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/skill-to-money.md) (2017-10-20)
- - **New article 3**：[详述 Mac 系统下安装及卸载 Python 的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/python.md) (2017-10-17)
+ - **New article 1**：[猎豹移动 CEO 傅盛：后互联网时代 ，“中国模式”弯道超车](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/cheetah.md) (2017-10-30)
+ - **New article 2**：[旷视 CEO 印奇：靠“刷脸”折腾出 120 亿的大生意](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/megvii.md) (2017-10-26)
+ - **New article 3**：[左耳朵耗子 | 程序员如何用技术变现?](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/skill-to-money.md) (2017-10-20)
  
 
 ## 文章分类（快速定位）
@@ -89,6 +89,8 @@
 
 ## 非技术那些事儿
 
+
+[猎豹移动 CEO 傅盛：后互联网时代 ，“中国模式”弯道超车](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/cheetah.md) (2017-10-30)
 - [旷视 CEO 印奇：靠“刷脸”折腾出 120 亿的大生意](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/megvii.md) (2017-10-26)
 - [左耳朵耗子 | 程序员如何用技术变现?](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/skill-to-money.md) (2017-10-20)
 - [刘强东：死掉的创业公司，几乎都违背这 4 点最基本的经济常识](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/liuqiangdong.md) (2017-10-16)
