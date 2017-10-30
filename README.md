@@ -90,7 +90,7 @@
 ## 非技术那些事儿
 
 
-[猎豹移动 CEO 傅盛：后互联网时代 ，“中国模式”弯道超车](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/cheetah.md) (2017-10-30)
+- [猎豹移动 CEO 傅盛：后互联网时代 ，“中国模式”弯道超车](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/cheetah.md) (2017-10-30)
 - [旷视 CEO 印奇：靠“刷脸”折腾出 120 亿的大生意](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/megvii.md) (2017-10-26)
 - [左耳朵耗子 | 程序员如何用技术变现?](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/skill-to-money.md) (2017-10-20)
 - [刘强东：死掉的创业公司，几乎都违背这 4 点最基本的经济常识](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/liuqiangdong.md) (2017-10-16)
