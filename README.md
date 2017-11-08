@@ -3,9 +3,9 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[论「版本号」的正确使用方式](https://github.com/guobinhit/cg-blog/blob/master/articles/others/version.md) (2017-11-04)
- - **New article 2**：[猎豹移动 CEO 傅盛：后互联网时代 ，“中国模式”弯道超车](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/cheetah.md) (2017-10-30)
- - **New article 3**：[旷视 CEO 印奇：靠“刷脸”折腾出 120 亿的大生意](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/megvii.md) (2017-10-26)
+ - **New article 1**：[详述 iTerm2 配色及免密登录 SSH 的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/iterm2.md) (2017-11-08)
+ - **New article 2**：[论「版本号」的正确使用方式](https://github.com/guobinhit/cg-blog/blob/master/articles/others/version.md) (2017-11-04)
+ - **New article 3**：[猎豹移动 CEO 傅盛：后互联网时代 ，“中国模式”弯道超车](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/cheetah.md) (2017-10-30)
  
 
 ## 文章分类（快速定位）
@@ -66,7 +66,7 @@
 
 ## 工具及其他
 
-
+- [详述 iTerm2 配色及免密登录 SSH 的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/iterm2.md) (2017-11-08)
 - [论「版本号」的正确使用方式](https://github.com/guobinhit/cg-blog/blob/master/articles/others/version.md) (2017-11-04)
 - [详述 Mac 系统下安装及卸载 Python 的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/python.md) (2017-10-17)
 - [在 Win10 系统下安装 JDK 及配置环境变量的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/installjdk.md) (2017-10-17)
