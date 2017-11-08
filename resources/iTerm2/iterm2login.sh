@@ -10,6 +10,6 @@ expect {
 }
 interact
 
-# Using in item2 save account and password, add by bin.guo 20171107
+# Using iTerm2 save server account and password, added by Charies Gavin
 
 
