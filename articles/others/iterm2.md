@@ -136,6 +136,4 @@ interact
 
 > **参考文献**：
 > 
-> [1] [ITerm2配色方案](http://www.jianshu.com/p/33deff6b8a63).
-
-> [2] [iterm2如何不用每次输入密码登录ssh](http://www.jianshu.com/p/17e06b3887ae).
+> [1] [ITerm2配色方案](http://www.jianshu.com/p/33deff6b8a63). [2] [iterm2如何不用每次输入密码登录ssh](http://www.jianshu.com/p/17e06b3887ae).
