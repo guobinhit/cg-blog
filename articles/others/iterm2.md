@@ -78,7 +78,7 @@ set ruler
 
 **1. 创建`expect`脚本**
 
-在 Mac 终端或者 iTerm2 中，输入`vim iterm2login.sh`，创建名为`iterm2login`的脚本，内容为
+在 Mac 终端或者 iTerm2 中，输入`vim iterm2login.sh`，创建名为「[iterm2login](https://github.com/guobinhit/cg-blog/blob/master/resources/iTerm2/iterm2login.sh)」的脚本，内容为
 
 ```
 #!/usr/bin/expect
