@@ -3,9 +3,9 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[详述 iTerm2 配色及免密登录 SSH 的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/iterm2.md) (2017-11-08)
- - **New article 2**：[论「版本号」的正确使用方式](https://github.com/guobinhit/cg-blog/blob/master/articles/others/version.md) (2017-11-04)
- - **New article 3**：[猎豹移动 CEO 傅盛：后互联网时代 ，“中国模式”弯道超车](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/cheetah.md) (2017-10-30)
+ - **New article 1**：[创新工场汪华：OMO 时代，谁是下一个领跑者？](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/wanghua.md) (2017-11-09)
+ - **New article 2**：[详述 iTerm2 配色及免密登录 SSH 的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/iterm2.md) (2017-11-08)
+ - **New article 3**：[论「版本号」的正确使用方式](https://github.com/guobinhit/cg-blog/blob/master/articles/others/version.md) (2017-11-04)
  
 
 ## 文章分类（快速定位）
@@ -89,7 +89,7 @@
 
 ## 非技术那些事儿
 
-
+- [创新工场汪华：OMO 时代，谁是下一个领跑者？](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/wanghua.md) (2017-11-09)
 - [猎豹移动 CEO 傅盛：后互联网时代 ，“中国模式”弯道超车](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/cheetah.md) (2017-10-30)
 - [旷视 CEO 印奇：靠“刷脸”折腾出 120 亿的大生意](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/megvii.md) (2017-10-26)
 - [左耳朵耗子 | 程序员如何用技术变现?](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/skill-to-money.md) (2017-10-20)
@@ -111,7 +111,6 @@
 - [工科大学之母｜哈尔滨工业大学究竟分出了哪些学校？](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/hit.md) (2017-05-31)
 - [今日头条 CEO 张一鸣：面试了 2000 个年轻人，混得好的都有这 5 种特质](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/zhangyiming.md) (2017-05-29)
 - [雅虎终于死了：从市值 1000 亿到贱卖 48 亿，到最后连名字都没保住](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/yahoo.md) (2017-05-23)
-- [罕见影像：140 多年前的中国](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/china-140-ago.md) (2017-05-22)
 - [励志典范：10 年，他完成了从中专生到哈工大教授的跨越](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/gaohuijun.md) (2017-05-18)
 - [数学史上的三次危机](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/math-three-cirsis.md) (2017-05-15)
 - [世界上最「不务正业」的 5 个科学家](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/bwzy-five.md) (2017-05-14)
