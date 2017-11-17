@@ -3,9 +3,9 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[腾讯副总裁曾宇：谈谈腾讯的技术价值观与技术人才修炼](https://github.com/guobinhit/cg-blog/blob/master/articles/others/zengyu.md) (2017-11-10)
- - **New article 2**：[创新工场汪华：OMO 时代，谁是下一个领跑者？](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/wanghua.md) (2017-11-09)
- - **New article 3**：[详述 iTerm2 配色及免密登录 SSH 的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/iterm2.md) (2017-11-08)
+ - **New article 1**：[小蓝单车 CEO 李刚：辜负了各位，对不起](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/bluegogo.md) (2017-11-17)
+ - **New article 2**：[腾讯副总裁曾宇：谈谈腾讯的技术价值观与技术人才修炼](https://github.com/guobinhit/cg-blog/blob/master/articles/others/zengyu.md) (2017-11-10)
+ - **New article 3**：[创新工场汪华：OMO 时代，谁是下一个领跑者？](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/wanghua.md) (2017-11-09)
  
 
 ## 文章分类（快速定位）
@@ -89,7 +89,7 @@
 
 ## 非技术那些事儿
 
-
+- [小蓝单车 CEO 李刚：辜负了各位，对不起](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/bluegogo.md) (2017-11-17)
 - [腾讯副总裁曾宇：谈谈腾讯的技术价值观与技术人才修炼](https://github.com/guobinhit/cg-blog/blob/master/articles/others/zengyu.md) (2017-11-10)
 - [创新工场汪华：OMO 时代，谁是下一个领跑者？](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/wanghua.md) (2017-11-09)
 - [猎豹移动 CEO 傅盛：后互联网时代 ，“中国模式”弯道超车](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/cheetah.md) (2017-10-30)
