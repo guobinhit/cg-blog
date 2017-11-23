@@ -1,8 +1,8 @@
 # 敲开 GitHub 的大门 · 注册账号
 
-在「[初识 GitHub · 简介篇](http://blog.csdn.net/qq_35246620/article/details/66980283)」一文中，我们已经初步了解了 GitHub，里面有众多的业界大神、有丰富的学习资料、有著名的开源项目代码，我们也可以在 GitHub 中增长自己的技术能力、渲染自己的简历，甚至搭建自己的个人博客或者网站。此外，最重要的，也是 GitHub 的核心亮点，那就是：**我们可以在 GitHub 上同世界各地的伙伴协同开发项目**，而且简单、容易的让人难以置信。那么，你准备好了吗？现在，就让我们一起敲开 GitHub 的大门，进入 GitHub 的世界吧！
+在「[初识 GitHub · 简介篇](https://github.com/guobinhit/cg-blog/blob/master/articles/github/tutorials/first-github.md)」一文中，我们已经初步了解了 GitHub，里面有众多的业界大神、有丰富的学习资料、有著名的开源项目代码，我们也可以在 GitHub 中增长自己的技术能力、渲染自己的简历，甚至搭建自己的个人博客或者网站。此外，最重要的，也是 GitHub 的核心亮点，那就是：**我们可以在 GitHub 上同世界各地的伙伴协同开发项目**，而且简单、容易的让人难以置信。那么，你准备好了吗？现在，就让我们一起敲开 GitHub 的大门，进入 GitHub 的世界吧！
 
-首先，进入 GitHub 的官网：[GitHub](github.com)
+首先，进入 GitHub 的官网：[GitHub](https://github.com)
 
 
 ![1](http://img.blog.csdn.net/20170328142209479)
