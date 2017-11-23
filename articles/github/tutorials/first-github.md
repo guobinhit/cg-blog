@@ -18,7 +18,9 @@ GitHub 项目本身自然而然的也在 GitHub 上进行托管，只不过在�
 
 在 GitHub 上建立个人主页的业界大神多如牛毛，在此仅介绍 3 位，以供大家膜拜！
 
+
 ### 2.1 Linus Torvalds
+
 
 ![这里写图片描述](http://img.blog.csdn.net/20170327210105451)
 
@@ -28,7 +30,7 @@ Linus Torvalds，全球著名的电脑程序员、黑客，Linux 之父。
 
 ### 2.2 John Resig
 
-![这里写图片描述](http://img.blog.csdn.net/20170327205245535)
+![John](http://img.blog.csdn.net/20171123152305540)
 
  - Github主页： https://github.com/jeresig
 
@@ -36,7 +38,7 @@ John Resig，jQuery 的创始人和技术领袖，著有《Pro JavaScript Techni
 
 ### 2.3 Douglas Crockford
 
-![这里写图片描述](http://img.blog.csdn.net/20170327205647336)
+![Douglas](http://img.blog.csdn.net/20170327205647336)
 
  - Github主页： https://github.com/douglascrockford
 
@@ -46,15 +48,18 @@ Douglas Crockford 是 JavaScript 开发社区最知名的权威，是 JSON、JSL
 
 ## 3 开源项目及公司
 
+
 在 GitHub 上开源的著名项目非常之多，选择在 GitHub 上开源的世界顶级公司也很多，在此也各罗列 3 个，以供大家膜拜！
 
 ### 3.1 项目
+
 
  - Linux：https://github.com/torvalds/linux
  - Swift：https://github.com/apple/swift
  - Ruby：https://github.com/ruby/ruby
 
 ### 3.2 公司
+
 
  - Google: https://github.com/google
  - Microsoft：https://github.com/microsoft
@@ -65,7 +70,7 @@ Douglas Crockford 是 JavaScript 开发社区最知名的权威，是 JSON、JSL
 
 通过上面的介绍，相信大家已经对 GitHub 有了初步的了解啦！窥一斑而知全豹，GitHub 的魅力可想而知。作为程序员大军中的一员，你是想泯然于众人？还是想与大神们“零距离”接触、碰撞出思维的火花？GitHub，也许就是你人生中至关重要的转折点。
 
- 咳咳，好吧，我承认，上面说的太玄乎了，现在说点实在的。在中国（全球更是如此），顶级的互联网公司，如 BAT，都很看重 GitHub ，如何你能够在 GitHub 上面表现的非常活跃，或者自己开源几个项目（并不要求这些项目多么伟大），甚至对一些著名的开源项目贡献了自己的代码，相信这一切，都会为你加分不少，脱颖而出。此外，GitHub 也是一个很好的学习场所，那么多的开源项目，称之为一座“知识的宝库”也不为过。因此，无论是从求职还是个人发展来说，选择 GitHub 并不会错。
+ 咳咳，好吧，我承认，上面说的太玄乎了，现在说点实在的。在中国（全球更是如此），顶级的互联网公司，如 BAT，都很看重 GitHub ，如何你能够在 GitHub 上面表现的非常活跃，或者自己开源几个项目（并不要求这些项目多么伟大），甚至对一些著名的开源项目贡献了自己的代码，相信这一切，都会为你加分不少，从而脱颖而出。此外，GitHub 也是一个很好的学习场所，那么多的开源项目，称之为一座“知识的宝库”也不为过。因此，无论是从求职还是个人发展来说，选择 GitHub 并不会错。
 
 
 ----------
