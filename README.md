@@ -3,9 +3,9 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[小蓝单车 CEO 李刚：辜负了各位，对不起](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/bluegogo.md) (2017-11-17)
- - **New article 2**：[腾讯副总裁曾宇：谈谈腾讯的技术价值观与技术人才修炼](https://github.com/guobinhit/cg-blog/blob/master/articles/others/zengyu.md) (2017-11-10)
- - **New article 3**：[创新工场汪华：OMO 时代，谁是下一个领跑者？](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/wanghua.md) (2017-11-09)
+ - **New article 1**：[Linux 命令之 chmod：修改权限](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/tutorials/chmod) (2017-11-25)
+ - **New article 2**：[小蓝单车 CEO 李刚：辜负了各位，对不起](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/bluegogo.md) (2017-11-17)
+ - **New article 3**：[腾讯副总裁曾宇：谈谈腾讯的技术价值观与技术人才修炼](https://github.com/guobinhit/cg-blog/blob/master/articles/others/zengyu.md) (2017-11-10)
  
 
 ## 文章分类（快速定位）
@@ -24,8 +24,9 @@
 
 ## 史上最简单系列教程
 
-- [史上最简单的 GitHub 教程](http://blog.csdn.net/qq_35246620/article/details/66973794)
+- [史上最简单的 Linux 教程]((https://github.com/guobinhit/cg-blog/blob/master/articles/linux/LINUX_README.md))
 - [史上最简单的 MySQL 教程](https://github.com/guobinhit/mysql-tutorial)
+- [史上最简单的 GitHub 教程](http://blog.csdn.net/qq_35246620/article/details/66973794)
 - [史上最简单的 Mybatis 教程](https://github.com/guobinhit/mybatis-tutorial)
 - [史上最简单的 Spring MVC 教程](https://github.com/guobinhit/springmvc-tutorial)
 - [史上最简单的 IntelliJ IDEA 教程](http://blog.csdn.net/qq_35246620/article/details/61191375)
