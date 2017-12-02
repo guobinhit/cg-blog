@@ -1,8 +1,8 @@
 # 利用 SSH 完成 Git 与 GitHub 的绑定
 
-在「[史上最简单的 GitHub 教程](http://blog.csdn.net/qq_35246620/article/details/66973794)」中，我们已经对 GitHub 有了一定的了解，包括创建仓库、拉分支，或者通过`Clone or download`克隆或者下载代码；我们也下载并安装了 Git，也了解了其常用的命令。But，无论是 GitHub，还是 Git，我们都是单独或者说是独立操作的，并没有将两者绑定啊！也就是说，我们现在只能通过 GitHub 下载代码，并不能通过 Git 向 GitHub 提交代码。
+在「[史上最简单的 GitHub 教程](https://github.com/guobinhit/cg-blog/blob/master/articles/github/GITHUB_README.md)」中，我们已经对 GitHub 有了一定的了解，包括创建仓库、拉分支，或者通过`Clone or download`克隆或者下载代码；我们也下载并安装了 Git，也了解了其常用的命令。But，无论是 GitHub，还是 Git，我们都是单独或者说是独立操作的，并没有将两者绑定啊！也就是说，我们现在只能通过 GitHub 下载代码，并不能通过 Git 向 GitHub 提交代码。
 
-因此，在本篇博文中，我们就一起完成 Git 和 GitHub 的绑定，体验通过 Git 向 GitHub 提交代码的能力。不过在这之前，我们需要先了解 SSh（安全外壳协议），因为在 GitHub 上，一般都是通过 SSH 来授权的，而且大多数 Git 服务器也会选择使用 SSH 公钥来进行授权，所以想要向 GitHub 提交代码，首先就得在 GitHub 上添加 `SSH key`配置。在这里，如果大家对 SSH 还不太了解，那么建议先阅读博主之前写的文章「[详述 SSH 的原理及其应用](http://blog.csdn.net/qq_35246620/article/details/54317740) 」，从而对 SSH 有一个大致的了解。
+因此，在本篇博文中，我们就一起完成 Git 和 GitHub 的绑定，体验通过 Git 向 GitHub 提交代码的能力。不过在这之前，我们需要先了解 SSh（安全外壳协议），因为在 GitHub 上，一般都是通过 SSH 来授权的，而且大多数 Git 服务器也会选择使用 SSH 公钥来进行授权，所以想要向 GitHub 提交代码，首先就得在 GitHub 上添加 `SSH key`配置。在这里，如果大家对 SSH 还不太了解，那么建议先阅读博主之前写的文章「[详述 SSH 的原理及其应用](https://github.com/guobinhit/cg-blog/blob/master/articles/others/detail-ssh.md) 」，从而对 SSH 有一个大致的了解。
 
 > 第 1 步：生成 `SSH key`
 
