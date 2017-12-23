@@ -3,10 +3,10 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[马化腾教你做产品：改掉这七点，让产品自己说话](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/pony-product.md) (2017-12-08)
- - **New article 2**：[详述 SSH 的原理及其应用](https://github.com/guobinhit/cg-blog/blob/master/articles/others/detail-ssh.md) (2017-12-02)
- - **New article 3**：[Linux 命令之 chmod：修改权限](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/tutorials/chmod.md) (2017-11-25)
- 
+ - **New article 1**：[快手 CEO 宿华：在毛细血管的末梢记录变化的世界](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/suhua.md) (2017-12-23)
+ - **New article 2**：[马化腾教你做产品：改掉这七点，让产品自己说话](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/pony-product.md) (2017-12-08)
+ - **New article 3**：[详述 SSH 的原理及其应用](https://github.com/guobinhit/cg-blog/blob/master/articles/others/detail-ssh.md) (2017-12-02)
+
 
 ## 文章分类（快速定位）
  - [史上最简单系列教程](#史上最简单系列教程)
@@ -67,6 +67,7 @@
 
 ## 工具及其他
 
+- [Linux 命令之 chmod：修改权限](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/tutorials/chmod.md) (2017-11-25)
 - [详述 SSH 的原理及其应用](https://github.com/guobinhit/cg-blog/blob/master/articles/others/detail-ssh.md) (2017-12-02)
 - [详述 iTerm2 配色及免密登录 SSH 的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/iterm2.md) (2017-11-08)
 - [论「版本号」的正确使用方式](https://github.com/guobinhit/cg-blog/blob/master/articles/others/version.md) (2017-11-04)
@@ -91,6 +92,8 @@
 
 ## 非技术那些事儿
 
+
+- [快手 CEO 宿华：在毛细血管的末梢记录变化的世界](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/suhua.md) (2017-12-23)
 - [马化腾教你做产品：改掉这七点，让产品自己说话](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/pony-product.md) (2017-12-08)
 - [小蓝单车 CEO 李刚：辜负了各位，对不起](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/bluegogo.md) (2017-11-17)
 - [腾讯副总裁曾宇：谈谈腾讯的技术价值观与技术人才修炼](https://github.com/guobinhit/cg-blog/blob/master/articles/others/zengyu.md) (2017-11-10)
