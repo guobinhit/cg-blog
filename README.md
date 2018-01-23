@@ -3,9 +3,9 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[张小龙：微信不做信息流，重点做好小程序](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/zxlwx.md)
- - **New article 2**：[终极对决！Dubbo 和 Spring Cloud 微服务架构到底孰优孰劣？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/dubbo-cloud.md)
- - **New article 3**：[美团 CEO 王兴：从 0 到干到 300 亿美金，格局上输了，再多努力都不可能赢](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/wangxing.md)
+ - **New article 1**：[Linux 命令之 find：查找文件](http://blog.csdn.net/qq_35246620/article/details/79104520)
+ - **New article 2**：[张小龙：微信不做信息流，重点做好小程序](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/zxlwx.md)
+ - **New article 3**：[终极对决！Dubbo 和 Spring Cloud 微服务架构到底孰优孰劣？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/dubbo-cloud.md)
 
 ## 文章分类（快速定位）
  - [史上最简单系列教程](#史上最简单系列教程)
