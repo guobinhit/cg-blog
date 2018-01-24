@@ -3,7 +3,7 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[Linux 命令之 find：查找文件](http://blog.csdn.net/qq_35246620/article/details/79104520)
+ - **New article 1**：[Linux 命令之 find：查找文件](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/tutorials/find.md)
  - **New article 2**：[张小龙：微信不做信息流，重点做好小程序](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/zxlwx.md)
  - **New article 3**：[终极对决！Dubbo 和 Spring Cloud 微服务架构到底孰优孰劣？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/dubbo-cloud.md)
 
@@ -50,8 +50,8 @@
 ## 聚合支付
 
 
- - [支付宝钱包系统架构内部剖析](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/alipay.md)
- - [去哪儿网支付系统架构演进](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/qunar.md)
+- [支付宝钱包系统架构内部剖析](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/alipay.md)
+- [去哪儿网支付系统架构演进](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/qunar.md)
 - [解析「三户模型」及建立账户模型](https://github.com/guobinhit/cg-blog/blob/master/articles/netpayment/threemodel.md)
 - [详述支付路由的设计方案](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/payrouter.md) 
 - [详述支付网关的设计原则](https://github.com/guobinhit/cg-blog/blob/master/articles/netpayment/gateway.md)
@@ -66,6 +66,7 @@
 
 ## 工具及其他
 
+- [Linux 命令之 find：查找文件](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/tutorials/find.md)
 - [终极对决！Dubbo 和 Spring Cloud 微服务架构到底孰优孰劣？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/dubbo-cloud.md)
 - [Linux 命令之 chmod：修改权限](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/tutorials/chmod.md)
 - [详述 SSH 的原理及其应用](https://github.com/guobinhit/cg-blog/blob/master/articles/others/detail-ssh.md)
