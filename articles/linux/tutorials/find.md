@@ -58,7 +58,69 @@ find . -name "file1*" ! -name "file2*"
 
 ![03](http://img.blog.csdn.net/20180119185830458)
 
+- **示例 4**：根据文件类型进行搜索
 
+```
+/**
+ * 查找当前目录及所有子目录下的普通文件
+ */
+
+find . -type f
+```
+
+![04](http://img.blog.csdn.net/20180124104848267)
+
+- **示例 5**：基于目录深度进行搜索
+
+```
+/**
+ * 限制最大深度为 3
+ */
+
+find . -maxdepth 3 -type f
+
+/**
+ * 限制最大深度为 2
+ */
+
+find . -maxdepth 2 -type f
+```
+
+![05](http://img.blog.csdn.net/20180124110737041)
+
+- **示例 6**：基于文件权限进行搜索
+
+```
+/**
+ * 搜索权限为 777 的文件
+ */
+
+find . -type f -perm 777
+
+/**
+ * 搜索 .txt 格式且权限不为 777 的文件
+ */
+
+find . -type f -name "*.txt" ! -perm 777
+```
+
+![06](http://img.blog.csdn.net/20180124111229551)
+
+- **示例 7**：借助`-exec`命令，将当前目录及子目录下所有`.txt`格式的文件以`File:文件名`的形式打印出来
+
+```
+find . -type f -name "*.txt" -exec printf "File: %s\n" {} \;
+```
+
+![07](http://img.blog.csdn.net/20180124142121289)
+
+- **示例 8**：借助`-exec`命令，将当前目录及子目录下所有 3 天前的`.txt`格式的文件复制一份到`old`目录
+
+```
+find . -type f -mtime +3 -name "*.txt" -exec cp {} old \;
+```
+
+![08](http://img.blog.csdn.net/20180124142722808)
 
 -------
 
@@ -148,3 +210,8 @@ find . -name "file1*" ! -name "file2*"
 | `-version`或`——version` | 显示版本信息 |   
 | `-xdev` | 将范围局限在先行的文件系统中 |  
 | `-xtype <文件类型>` | 此参数的效果和指定`-type`参数类似，差别在于它针对符号连接检查 |   
+
+
+----------
+———— ☆☆☆ —— [返回 -> 史上最简单的 Linux 教程 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/LINUX_README.md) —— ☆☆☆ ————
+
