@@ -3,9 +3,9 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[终极对决！Dubbo 和 Spring Cloud 微服务架构到底孰优孰劣？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/dubbo-cloud.md)
- - **New article 2**：[美团 CEO 王兴：从 0 到干到 300 亿美金，格局上输了，再多努力都不可能赢](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/wangxing.md)
- - **New article 3**：[快手 CEO 宿华：在毛细血管的末梢记录变化的世界](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/suhua.md)
+ - **New article 1**：[Linux 命令之 find：查找文件](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/tutorials/find.md)
+ - **New article 2**：[张小龙：微信不做信息流，重点做好小程序](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/zxlwx.md)
+ - **New article 3**：[终极对决！Dubbo 和 Spring Cloud 微服务架构到底孰优孰劣？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/dubbo-cloud.md)
 
 ## 文章分类（快速定位）
  - [史上最简单系列教程](#史上最简单系列教程)
@@ -50,48 +50,50 @@
 ## 聚合支付
 
 
- - [支付宝钱包系统架构内部剖析](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/alipay.md)
- - [去哪儿网支付系统架构演进](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/qunar.md)
-- [解析「三户模型」及建立账户模型](https://github.com/guobinhit/cg-blog/blob/master/articles/netpayment/threemodel.md) (2017-08-18)
-- [详述支付路由的设计方案](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/payrouter.md) (2017-08-17)
-- [详述支付网关的设计原则](https://github.com/guobinhit/cg-blog/blob/master/articles/netpayment/gateway.md) (2017-08-07)
-- [详述快捷支付产品功能及设计要点](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/fastpay.md) (2017-08-06)
-- [详述银行卡支付方式](https://github.com/guobinhit/cg-blog/blob/master/articles/netpayment/bankpay.md) (2017-08-05)
-- [支付系统中的对账处理](https://github.com/guobinhit/cg-blog/blob/master/articles/netpayment/accounting.md) (2017-08-04)
-- [支付网关设计精要（Ping++ 联合创始人 赵宇）](https://github.com/guobinhit/cg-blog/blob/master/articles/tools-and-others/pay-gateway.md) (2017-07-30)
-- [互联网支付系统整体架构详解](https://github.com/guobinhit/cg-blog/blob/master/articles/others/net-pay.md) (2017-05-17)
+- [支付宝钱包系统架构内部剖析](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/alipay.md)
+- [去哪儿网支付系统架构演进](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/qunar.md)
+- [解析「三户模型」及建立账户模型](https://github.com/guobinhit/cg-blog/blob/master/articles/netpayment/threemodel.md)
+- [详述支付路由的设计方案](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/payrouter.md) 
+- [详述支付网关的设计原则](https://github.com/guobinhit/cg-blog/blob/master/articles/netpayment/gateway.md)
+- [详述快捷支付产品功能及设计要点](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/fastpay.md)
+- [详述银行卡支付方式](https://github.com/guobinhit/cg-blog/blob/master/articles/netpayment/bankpay.md)
+- [支付系统中的对账处理](https://github.com/guobinhit/cg-blog/blob/master/articles/netpayment/accounting.md)
+- [支付网关设计精要（Ping++ 联合创始人 赵宇）](https://github.com/guobinhit/cg-blog/blob/master/articles/tools-and-others/pay-gateway.md)
+- [互联网支付系统整体架构详解](https://github.com/guobinhit/cg-blog/blob/master/articles/others/net-pay.md)
 
 
 
 
 ## 工具及其他
 
-- [终极对决！Dubbo 和 Spring Cloud 微服务架构到底孰优孰劣？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/dubbo-cloud.md) (2018-1-3)
-- [Linux 命令之 chmod：修改权限](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/tutorials/chmod.md) (2017-11-25)
-- [详述 SSH 的原理及其应用](https://github.com/guobinhit/cg-blog/blob/master/articles/others/detail-ssh.md) (2017-12-02)
-- [详述 iTerm2 配色及免密登录 SSH 的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/iterm2.md) (2017-11-08)
-- [论「版本号」的正确使用方式](https://github.com/guobinhit/cg-blog/blob/master/articles/others/version.md) (2017-11-04)
-- [详述 Mac 系统下安装及卸载 Python 的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/python.md) (2017-10-17)
-- [在 Win10 系统下安装 JDK 及配置环境变量的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/installjdk.md) (2017-10-17)
-- [详述 Maven 依赖范围及依赖调节原则](https://github.com/guobinhit/cg-blog/blob/master/articles/others/maven-dependency.md) (2017-09-24)
-- [详述 tomcat 的 server.xml 配置文件](https://github.com/guobinhit/cg-blog/blob/master/articles/others/tomcat.md) (2017-09-02)
-- [超简单的 VIM 练级攻略](https://github.com/guobinhit/cg-blog/blob/master/articles/others/vim-better.md) (2017-08-31)
-- [解读 Maven 安装目录](https://github.com/guobinhit/cg-blog/blob/master/articles/others/maven.md) (2017-08-24)
-- [详述 PO VO BO DTO DAO 和 POJO 的概念及区别](https://github.com/guobinhit/cg-blog/blob/master/articles/others/xxo.md) (2017-08-19)
-- [来自「Head First 设计模式」的程序设计原则](https://github.com/guobinhit/cg-blog/blob/master/articles/others/headfirst.md) (2017-08-15)
-- [19+ JavaScript 常用的简写技巧](https://github.com/guobinhit/cg-blog/blob/master/articles/others/19plus-js.md) (2017-07-26)
-- [详述 IaaS、PaaS 和 SaaS 的含义及区别](https://github.com/guobinhit/cg-blog/blob/master/articles/others/iaas-paas-saas.md) (2017-07-25)
-- [详述“进程、线程和协程”的区别](https://github.com/guobinhit/cg-blog/blob/master/articles/others/jin-xian-xie-cheng.md) (2017-03-17)
-- [详述如何退出 Vim 编辑器](https://github.com/guobinhit/cg-blog/blob/master/articles/others/vim.md) (2017-06-03)
-- [详述 hosts 文件的作用及修改 hosts 文件的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/hosts.md) (2017-06-02)
-- [详述 Cookie 与 Session 的区别](https://github.com/guobinhit/cg-blog/blob/master/articles/others/cookie-and-session.md) (2017-06-01)
-- [@interface 注解详述](https://github.com/guobinhit/cg-blog/blob/master/articles/others/interface-annotation.md) (2017-05-31)
-- [@Deprecated 注解详述](https://github.com/guobinhit/cg-blog/blob/master/articles/others/deprecated.md) (2017-05-30)
-- [@SuppressWarnings 注解详述](https://github.com/guobinhit/cg-blog/blob/master/articles/others/suppress-warnings.md) (2017-05-29)
+- [Linux 命令之 find：查找文件](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/tutorials/find.md)
+- [终极对决！Dubbo 和 Spring Cloud 微服务架构到底孰优孰劣？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/dubbo-cloud.md)
+- [Linux 命令之 chmod：修改权限](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/tutorials/chmod.md)
+- [详述 SSH 的原理及其应用](https://github.com/guobinhit/cg-blog/blob/master/articles/others/detail-ssh.md)
+- [详述 iTerm2 配色及免密登录 SSH 的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/iterm2.md)
+- [论「版本号」的正确使用方式](https://github.com/guobinhit/cg-blog/blob/master/articles/others/version.md)
+- [详述 Mac 系统下安装及卸载 Python 的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/python.md) 
+- [在 Win10 系统下安装 JDK 及配置环境变量的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/installjdk.md)
+- [详述 Maven 依赖范围及依赖调节原则](https://github.com/guobinhit/cg-blog/blob/master/articles/others/maven-dependency.md) 
+- [详述 tomcat 的 server.xml 配置文件](https://github.com/guobinhit/cg-blog/blob/master/articles/others/tomcat.md) 
+- [超简单的 VIM 练级攻略](https://github.com/guobinhit/cg-blog/blob/master/articles/others/vim-better.md) 
+- [解读 Maven 安装目录](https://github.com/guobinhit/cg-blog/blob/master/articles/others/maven.md)
+- [详述 PO VO BO DTO DAO 和 POJO 的概念及区别](https://github.com/guobinhit/cg-blog/blob/master/articles/others/xxo.md) 
+- [来自「Head First 设计模式」的程序设计原则](https://github.com/guobinhit/cg-blog/blob/master/articles/others/headfirst.md)
+- [19+ JavaScript 常用的简写技巧](https://github.com/guobinhit/cg-blog/blob/master/articles/others/19plus-js.md) 
+- [详述 IaaS、PaaS 和 SaaS 的含义及区别](https://github.com/guobinhit/cg-blog/blob/master/articles/others/iaas-paas-saas.md)
+- [详述“进程、线程和协程”的区别](https://github.com/guobinhit/cg-blog/blob/master/articles/others/jin-xian-xie-cheng.md) 
+- [详述如何退出 Vim 编辑器](https://github.com/guobinhit/cg-blog/blob/master/articles/others/vim.md)
+- [详述 hosts 文件的作用及修改 hosts 文件的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/hosts.md)
+- [详述 Cookie 与 Session 的区别](https://github.com/guobinhit/cg-blog/blob/master/articles/others/cookie-and-session.md)
+- [@interface 注解详述](https://github.com/guobinhit/cg-blog/blob/master/articles/others/interface-annotation.md) 
+- [@Deprecated 注解详述](https://github.com/guobinhit/cg-blog/blob/master/articles/others/deprecated.md)
+- [@SuppressWarnings 注解详述](https://github.com/guobinhit/cg-blog/blob/master/articles/others/suppress-warnings.md) 
 
 
 ## 非技术那些事儿
 
+- [张小龙：微信不做信息流，重点做好小程序](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/zxlwx.md)
 - [美团 CEO 王兴：从 0 到干到 300 亿美金，格局上输了，再多努力都不可能赢](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/wangxing.md)
 - [快手 CEO 宿华：在毛细血管的末梢记录变化的世界](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/suhua.md)
 - [马化腾教你做产品：改掉这七点，让产品自己说话](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/pony-product.md)
@@ -122,7 +124,7 @@
 - [励志典范：10 年，他完成了从中专生到哈工大教授的跨越](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/gaohuijun.md)
 - [数学史上的三次危机](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/math-three-cirsis.md)
 - [世界上最「不务正业」的 5 个科学家](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/bwzy-five.md)
-- [我回阿里的 29 个月](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/return-ali.md) (2017-05-06)
+- [我回阿里的 29 个月](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/return-ali.md) 
 - [马化腾：这个市场不是拼钱、拼流量，而是拼团队、拼使命感和危机感](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/mahuateng.md)
 - [数学界的「 流氓大咖」](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/math-world-lm.md)
 - [献给青春的歌 · 致「 腾讯QQ 18 岁」](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/qq-ten.md)
@@ -133,7 +135,7 @@
 - [他出身草根，却是 Google 资深工程师](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/david-byttow.md)
 - [左耳朵耗子 | 技术人员的发展之路](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/developer-load.md)
 - [SaaS 公司融资的「22条军规」](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/saas-22.md)
-- [做了 3 年企业级 SaaS，我收获的 10 点心得（Ping++ CEO 金亦冶）](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/pingplus-ceo-ten.md) (2017-02-19)
+- [做了 3 年企业级 SaaS，我收获的 10 点心得（Ping++ CEO 金亦冶）](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/pingplus-ceo-ten.md)
 - [在 Google 工作 10 年，到底能学到啥？](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/google-ten-years.md)
 
 

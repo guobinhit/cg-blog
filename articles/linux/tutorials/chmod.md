@@ -117,5 +117,6 @@
 
 
 
-
+----------
+———— ☆☆☆ —— [返回 -> 史上最简单的 Linux 教程 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/LINUX_README.md) —— ☆☆☆ ————
 
