@@ -69,14 +69,14 @@ public interface StoreEntityDao {
  * Service 层接口代码
  */
 public interface StoreEntityService {
-    public void query4encrypt();
+    void query4encrypt();
 }
 
 /**
  * Service 层实现代码
  */
 @Service("storeEntityService")
-public interface StoreEntityServiceImpl implements StoreEntityService {
+public class StoreEntityServiceImpl implements StoreEntityService {
      @Override
     public void query4encrypt() {
         boolean flag = true;
