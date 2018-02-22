@@ -50,12 +50,12 @@
 ## 聚合支付
 
 
-- [支付宝钱包系统架构内部剖析](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/alipay.md)
-- [去哪儿网支付系统架构演进](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/qunar.md)
+- [支付宝钱包系统架构内部剖析](https://github.com/guobinhit/cg-blog/blob/master/articles/netpayment/alipay.md)
+- [去哪儿网支付系统架构演进](https://github.com/guobinhit/cg-blog/blob/master/articles/netpayment/qunar.md)
 - [解析「三户模型」及建立账户模型](https://github.com/guobinhit/cg-blog/blob/master/articles/netpayment/threemodel.md)
-- [详述支付路由的设计方案](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/payrouter.md) 
+- [详述支付路由的设计方案](https://github.com/guobinhit/cg-blog/blob/master/articles/netpayment/payrouter.md) 
 - [详述支付网关的设计原则](https://github.com/guobinhit/cg-blog/blob/master/articles/netpayment/gateway.md)
-- [详述快捷支付产品功能及设计要点](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/netpayment/fastpay.md)
+- [详述快捷支付产品功能及设计要点](https://github.com/guobinhit/cg-blog/blob/master/articles/netpayment/fastpay.md)
 - [详述银行卡支付方式](https://github.com/guobinhit/cg-blog/blob/master/articles/netpayment/bankpay.md)
 - [支付系统中的对账处理](https://github.com/guobinhit/cg-blog/blob/master/articles/netpayment/accounting.md)
 - [支付网关设计精要（Ping++ 联合创始人 赵宇）](https://github.com/guobinhit/cg-blog/blob/master/articles/tools-and-others/pay-gateway.md)
