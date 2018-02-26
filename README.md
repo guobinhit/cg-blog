@@ -3,7 +3,7 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[滴滴总裁柳青年会演讲：乘风破浪的旅途，成长是唯一道路](http://blog.csdn.net/qq_35246620/article/details/79345359)
+ - **New article 1**：[滴滴总裁柳青年会演讲：乘风破浪的旅途，成长是唯一道路](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/liuqing.md)
  - **New article 2**：[Linux 命令之 find：查找文件](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/tutorials/find.md)
  - **New article 3**：[张小龙：微信不做信息流，重点做好小程序](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/zxlwx.md)
 
@@ -93,6 +93,7 @@
 
 ## 非技术那些事儿
 
+- [滴滴总裁柳青年会演讲：乘风破浪的旅途，成长是唯一道路](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/liuqing.md)
 - [张小龙：微信不做信息流，重点做好小程序](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/zxlwx.md)
 - [美团 CEO 王兴：从 0 到干到 300 亿美金，格局上输了，再多努力都不可能赢](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/wangxing.md)
 - [快手 CEO 宿华：在毛细血管的末梢记录变化的世界](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/suhua.md)
