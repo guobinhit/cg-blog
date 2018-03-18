@@ -3,9 +3,9 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[滴滴总裁柳青年会演讲：乘风破浪的旅途，成长是唯一道路](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/liuqing.md)
- - **New article 2**：[Linux 命令之 find：查找文件](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/tutorials/find.md)
- - **New article 3**：[张小龙：微信不做信息流，重点做好小程序](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/zxlwx.md)
+ - **New article 1**：[流感下的北京中年](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/influenza.md)
+ - **New article 2**：[滴滴总裁柳青年会演讲：乘风破浪的旅途，成长是唯一道路](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/liuqing.md)
+ - **New article 3**：[Linux 命令之 find：查找文件](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/tutorials/find.md)
 
 ## 文章分类（快速定位）
  - [史上最简单系列教程](#史上最简单系列教程)
@@ -93,6 +93,7 @@
 
 ## 非技术那些事儿
 
+- [流感下的北京中年](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/influenza.md)
 - [滴滴总裁柳青年会演讲：乘风破浪的旅途，成长是唯一道路](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/liuqing.md)
 - [张小龙：微信不做信息流，重点做好小程序](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/zxlwx.md)
 - [美团 CEO 王兴：从 0 到干到 300 亿美金，格局上输了，再多努力都不可能赢](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/wangxing.md)
@@ -107,7 +108,6 @@
 - [刘强东：死掉的创业公司，几乎都违背这 4 点最基本的经济常识](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/liuqiangdong.md)
 - [迅雷创始人程浩：AI 创业必知 6 大核心问题，如何选择赛道、搭配团队和应对巨头挑战](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/thunder.md)
 - [马云：阿里必须是一家创造未来的公司，必须成为国家和世界创新的发动机](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/mayun.md)
-- [阿里成立达摩院 1000 亿投研发，马云称达摩要比阿里活得长](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/damo.md)
 - [特斯拉 CEO 马斯克：年轻人成功的秘诀，只有这 5 点](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/tesla.md)
 - [轮子哥：回顾我走过的编程之路](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/wheel-bro.md)
 - [阿里与腾讯人的区别，就是明教与武当的反差](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/ali-tencent.md)
