@@ -1,6 +1,6 @@
 # 通过 Git 将代码提交到 GitHub（下）
 
-在「[通过 Git 将代码提交到 GitHub（上](https://github.com/guobinhit/cg-blog/blob/master/articles/github/tutorials/push-code-one.md)」一文中，我们已经介绍了向 GitHub 提交代码时的第一种情况，即：
+在「[通过 Git 将代码提交到 GitHub（上）](https://github.com/guobinhit/cg-blog/blob/master/articles/github/tutorials/push-code-one.md)」一文中，我们已经介绍了向 GitHub 提交代码时的第一种情况，即：
 
 - **第一种**：本地没有 Git 仓库，这时我们可以直接将远程仓库`clone`到本地。通过`clone`命令创建的本地仓库，其本身就是一个 Git 仓库了，不用我们再进行`init`初始化操作啦，而且自动关联远程仓库。我们只需要在这个仓库进行修改或者添加等操作，然后`commit`即可。
 
