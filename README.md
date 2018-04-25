@@ -25,10 +25,10 @@
 
 - [史上最简单的 Linux 教程](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/LINUX_README.md)
 - [史上最简单的 MySQL 教程](https://github.com/guobinhit/mysql-tutorial)
-- [史上最简单的 GitHub 教程](http://blog.csdn.net/qq_35246620/article/details/66973794)
-- [史上最简单的 Mybatis 教程](https://github.com/guobinhit/mybatis-tutorial)
-- [史上最简单的 Spring MVC 教程](https://github.com/guobinhit/springmvc-tutorial)
-- [史上最简单的 IntelliJ IDEA 教程](http://blog.csdn.net/qq_35246620/article/details/61191375)
+- [史上最简单的 GitHub 教程](https://github.com/guobinhit/cg-blog/blob/master/articles/github/GITHUB_README.md)
+- [史上最简单的 Mybatis 教程](https://github.com/guobinhit/cg-blog/blob/master/articles/mybatis/MYBATIS_README.md)
+- [史上最简单的 Spring MVC 教程](https://github.com/guobinhit/cg-blog/blob/master/articles/springmvc/SPRING_MVC_README.md)
+- [史上最简单的 IntelliJ IDEA 教程](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/README.md)
 
 
 ## 编程语言
