@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+
+<configuration>
+
+    <!-- 赋别名 -->
+    <typeAliases>
+        <typeAlias type="yeepay.payplus.domain.Person" alias="Person"/>
+    </typeAliases>
+
+    <!-- 配置开发环境，可以配置多个，在具体用时再做切换 -->
+    <environments default="">
+        <environment id="test">
+            <transactionManager type="JDBC"></transactionManager>    <!-- 事务管理类型：JDBC、MANAGED -->
+            <dataSource type="POOLED">    <!-- 数据源类型：POOLED、UNPOOLED、JNDI -->
+                <property name="driver" value="com.mysql.jdbc.Driver" />
+                <property name="url" value="jdbc:mysql://localhost:3306/test?characterEncoding=utf-8" />
+                <property name="username" value="root" />
+                <property name="password" value="root" />
+            </dataSource>
+        </environment>
+    </environments>
+
+    <!-- 加载映射文件 mapper -->
+    <mappers>
+        <!-- 路径用 斜线（/） 分割，而不是用 点(.) -->
+        <mapper resource="yeepay/payplus/mapper/UserMapper.xml"/>
+        <mapper resource="yeepay/payplus/mapper/CustomerMapper.xml"/>
+    </mappers>
+</configuration>
