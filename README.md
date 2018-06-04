@@ -3,9 +3,9 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[流感下的北京中年](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/influenza.md)
- - **New article 2**：[滴滴总裁柳青年会演讲：乘风破浪的旅途，成长是唯一道路](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/liuqing.md)
- - **New article 3**：[Linux 命令之 find：查找文件](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/tutorials/find.md)
+ - **New article 1**：[专访 7-ELEVEn 执行董事：为什么我们是便利店第一品牌](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/7-ELEVEn.md)
+ - **New article 2**：[流感下的北京中年](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/influenza.md)
+ - **New article 3**：[滴滴总裁柳青年会演讲：乘风破浪的旅途，成长是唯一道路](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/liuqing.md)
 
 ## 文章分类（快速定位）
  - [史上最简单系列教程](#史上最简单系列教程)
@@ -93,6 +93,7 @@
 
 ## 非技术那些事儿
 
+- [专访 7-ELEVEn 执行董事：为什么我们是便利店第一品牌](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/7-ELEVEn.md)
 - [流感下的北京中年](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/influenza.md)
 - [滴滴总裁柳青年会演讲：乘风破浪的旅途，成长是唯一道路](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/liuqing.md)
 - [张小龙：微信不做信息流，重点做好小程序](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/zxlwx.md)
