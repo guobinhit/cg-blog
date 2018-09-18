@@ -1,6 +1,6 @@
 # 专访 7-ELEVEn 执行董事：为什么我们是便利店第一品牌
 
-![711](https://img-blog.csdn.net/20180601214143827)
+![7-11](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/7-ELEVEn/7-11.png)
 
 **和内田慎治先生的沟通，是一个异常“敞开”的过程**。
 
@@ -15,9 +15,9 @@
 
 作为7-ELEVEn中国市场的职级最高的高管人员，内田慎治对中国市场有着深入的了解和思考。对7-ELEVEn赖以成名的供应链管理、商品开发和市场拓展，以及由互联网公司引领的新零售大趋势，都有着区别于业内的思考。
 
-![内田慎治](https://img-blog.csdn.net/20180601214314544)
+![7-11-china-ceo](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/7-ELEVEn/7-11-china-ceo.png)
 
-![001](https://img-blog.csdn.net/2018060208353619)
+![topic-1](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/7-ELEVEn/topic-1.png)
 
 > 截止到2016年全年，7-ELEVEn便利店全球营收2677亿元人民币。中国内地的7-ELEVEn便利店，在商品层面以日配商品和鲜食加工食品（便当、饭团、三明治、沙拉等）占据单店日均销售额的70%左右。让7-ELEVEn便利店的盈利结构、商品构成都成熟而稳定。
 > 
@@ -93,7 +93,7 @@
 
 零售，和商业模式相比，最重要的还是商品。是看能不能开发出消费者所需要的商品，然后去很好的销售这些商品。
 
-![002](https://img-blog.csdn.net/20180602084456381)
+![topic-2](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/7-ELEVEn/topic-2.png)
 
 > 44年前，7-ELEVEn在日本的第一家门店就是一家加盟店。创始人铃木敏文先生有一个很重要的观点，7-ELEVEn必须帮助加盟者赚钱。
 > 
@@ -149,7 +149,7 @@
 
 **内田慎治**：实际上是三点原因：一个是店铺的位置，就是所谓的商圈。然后是商品和运营，而且三者之间是相乘的关系，任何一个不行都等于零。现在其他便利店品牌在我们隔壁开店的也非常多，就是因为品牌不同，即使是在隔壁开店，和我们的销售额相比也相差甚远。
 
-![003](https://img-blog.csdn.net/20180602084845244)
+![topic-3](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/7-ELEVEn/topic-3.png)
 
 > 3月6日，内田慎治前往陕西西安，与当地政府官员座谈中，表示会加快步伐，落地国家“一带一路”桥头堡城市西安。
 > 
@@ -189,7 +189,7 @@
 
 **内田慎治**：现在供应链还在构建当中，和开店是同时进行的，因为中国对速度的要求比较高，大家都在追求速度。
 
-![004](https://img-blog.csdn.net/20180602085051498)
+![topic-4](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/7-ELEVEn/topic-4.png)
 
 > 我们认为便利店的理想发展状态，一定是消费者日常出门的“第一选择”。
 > 
@@ -233,7 +233,7 @@
 
 **内田慎治**：是的，我们不是家居店那样卖椅子的，我们是卖商品的。
 
-![005](https://img-blog.csdn.net/20180602085312869)
+![topic-5](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/7-ELEVEn/topic-5.png)
 
 > 对于电商，尤其是对于目前引发全球关注的新零售变革，内田慎治站在传统零售业的角度，持有一种并不惧怕的态度。他甚至不太完全认为互联网公司能够完全具备零售能力。对于新零售这种透过大数据驱动消费零售的整体变革，带动传统实体零售数字化转型升级的大趋势，内田慎治的态度也是谨慎的观察着。
 > 
