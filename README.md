@@ -3,9 +3,9 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[专访 7-ELEVEn 执行董事：为什么我们是便利店第一品牌](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/7-ELEVEn.md)
- - **New article 2**：[流感下的北京中年](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/influenza.md)
- - **New article 3**：[滴滴总裁柳青年会演讲：乘风破浪的旅途，成长是唯一道路](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/liuqing.md)
+ - **New article 1**：[关于 toLocaleDateString 方法的实践分享](https://github.com/guobinhit/cg-blog/blob/master/articles/others/toLocaleDateString.md)
+ - **New article 2**：[专访 7-ELEVEn 执行董事：为什么我们是便利店第一品牌](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/7-ELEVEn.md)
+ - **New article 3**：[流感下的北京中年](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/influenza.md)
 
 ## 文章分类（快速定位）
  - [史上最简单系列教程](#史上最简单系列教程)
@@ -66,6 +66,7 @@
 
 ## 工具及其他
 
+- [关于 toLocaleDateString 方法的实践分享](https://github.com/guobinhit/cg-blog/blob/master/articles/others/toLocaleDateString.md)
 - [Linux 命令之 find：查找文件](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/tutorials/find.md)
 - [终极对决！Dubbo 和 Spring Cloud 微服务架构到底孰优孰劣？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/dubbo-cloud.md)
 - [Linux 命令之 chmod：修改权限](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/tutorials/chmod.md)
