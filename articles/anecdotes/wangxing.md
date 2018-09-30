@@ -1,6 +1,6 @@
 # 美团 CEO 王兴：从 0 到干到 300 亿美金，格局上输了，再多努力都不可能赢
 
-![wangxing](http://img.blog.csdn.net/20171224204028526)
+![meituan-ceo](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/wangxing/meituan-ceo.png)
 
 **2017 年 10 月 19 日，美团点评完成新一轮 40 亿美元融资，投后估值 300 亿美元**。
 
@@ -10,7 +10,7 @@
 
 以下内容根据王兴在多个场合的分享整理。市面上有很多王兴谈论公司的内容，但你或许很难看到一篇他聊自己的文章。
 
-![01](http://img.blog.csdn.net/20171224204229356)
+![topic-1](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/wangxing/topic-1.png)
 
 2003 年前我从美国回来开始创业，过去这十多年我一直是个创业者的状态。
 
@@ -28,7 +28,7 @@
 
 但所有的事情都有反例。很多的问题是因为企业发展得太快而失去控制，出了问题。
 
-![myself](http://img.blog.csdn.net/20171224204358389)
+![wx-self](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/wangxing/wx-self.png)
 
 **当资本市场或外界环境发生变化的时候，公司不能及时适应，便会迅速出现问题**。
 
@@ -40,13 +40,13 @@
 
 比如电商早几年，淘宝做得非常厉害，资本也雄厚，马云做对了很多事情，其实也做错了很多，但最重要的事情是他选择了做一个大平台。回头看， 2003 年左右开始起来的那些公司，如果专注做一个垂直电商基本上是没有胜出希望的，这在策略上一开始就输了。
 
-![02](http://img.blog.csdn.net/20171224204502641)
+![topic-2](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/wangxing/topic-2.png)
 
 所以后来我反复想，其实最有价值的建议，应该是我们老祖宗的一个想法。四书五经的《大学》中有一句话告诉我们，如何才能成为一名君子：**修身、齐家、治国、平天下**。
 
 最近一年里反复咀嚼这句话，觉得越来越有意思。我给你解读一下为什么“修身、齐家、治国、平天下”，对创业者的自我修养是一个极其好的建议。
 
-![kongzi](http://img.blog.csdn.net/20171224204545722)
+![wx-think](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/wangxing/wx-think.png)
 
 反过来讲一下。先看“平天下”，你要彻底占领这个市场，而“天下”就是你的目标市场，怎么定义你要干、能干的事非常重要。你要选择正确的目标市场，而且要有足够的规模，有足够的价值。
 
@@ -66,7 +66,7 @@
 
 那“齐家”怎么理解呢？有几个意思：
 
-![qijia](http://img.blog.csdn.net/20171224204640852)
+![wx-qijia](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/wangxing/wx-qijia.png)
 
 那么你怎么样才能够“齐家”呢？这就需要“修身”。
 
@@ -78,7 +78,7 @@
 
 所以我觉得是需要修身后才能齐家，然后才能治国，然后才能平天下。
 
-![03](http://img.blog.csdn.net/20171224204750812)
+![topic-3](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/wangxing/topic-3.png)
 
 前几年，玩电商的人都觉得，我砸完这一轮 2000 万美金，下一轮可以融到 4000 万美金，但他们忘记了另一个假设——对手也有钱怎么办？钱是无差异的，全球范围内是不缺钱的，只要有可能给资本带来回报，资本就会源源不断地涌过来，这显然要比一家企业需要的更多。
 
@@ -92,11 +92,11 @@
 
 我最近两年一直在思考如何运用互联网技术，低成本、高效率地运作一家公司。当我们效率越来越高，收集的信息越来越多的时候，我们才有机会影响整个产业链。
 
-![04](http://img.blog.csdn.net/20171224204837949)
+![topic-4](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/wangxing/topic-4.png)
 
 紧张工作之余我有时会稍作遐想：
 
-![conglin](http://img.blog.csdn.net/20171224204928922)
+![wx-if](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/wangxing/wx-if.png)
 
 稍微拔高一点，可以用甘地的那句话——Be the change you want to see in the world（欲变世界，先变其身）。
 

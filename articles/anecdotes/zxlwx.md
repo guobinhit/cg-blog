@@ -2,7 +2,7 @@
 
 > **博主说**：本文来自于 2018 年 1 月 15 日，2018 年微信公开课 PRO 上，腾讯高级副总裁张小龙发表的主题演讲。
 
-![zxl](http://img.blog.csdn.net/20180116195057793)
+![wx-father](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/zxlwx/wx-father.png)
 
 大家好！我是张小龙。欢迎大家来到微信公开课！
 
