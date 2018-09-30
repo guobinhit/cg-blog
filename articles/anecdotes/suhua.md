@@ -1,6 +1,6 @@
 # 快手 CEO 宿华：在毛细血管的末梢记录变化的世界
 
-![suhua](http://img.blog.csdn.net/20171223172556503)
+![kuaishou-ceo](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/suhua/kuaishou-ceo.png)
 
 在充满机遇和挑战的时代，商业时代已经来临。我们认为：新商业是从“基业长青”到“基业长新”，从“大而不倒”到“新而不倒”的商业文明的进化。
 
@@ -50,7 +50,7 @@
 
 给大家举几个我们怎样通过这几个关键词达到和提升用户幸福感的例子：
 
-![jishufuneng](http://img.blog.csdn.net/20171223172914149)
+![funeng](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/suhua/funeng.png)
 
 第一位是我们平台一位叫做郭少宇的用户，他是独臂独腿的 90 后，1993 年的年轻人，今年 6 月份，他在川藏线 318 国道用人力骑行了 19 天的时间，骑了 2200 公里到达西藏，完成了他人生的梦想，在骑行的过程中，他每天都会通过快手跟他的父母、粉丝们互动，告诉他今天骑了多远，有没有受什么苦，遇到什么困难，怎么克服，尽管他的身体比正常人要弱，但他从意志、体力上带给大家很多的激励，也帮助他在快手上积攒了 130 多万粉丝。
 
@@ -60,7 +60,7 @@
 
 这里面还有几个用户例子，是通过我们精准匹配的技术，最后让信息的传播变得更加高效：
 
-![jingzhunfenfa](http://img.blog.csdn.net/20171223173032558)
+![jingzhun](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/suhua/jingzhun.png)
 
 第一位用户 ID 叫女焊子沙沙，她是船厂的电焊工，每天晚上八点钟直播，她直播的内容是怎么样呢？烧电焊，传播电焊的技术，这是一个专业的交流，现在在快手上她已经有五十多万粉丝了，有她的同行也有其他的人。
 
@@ -70,7 +70,7 @@
 
 最后还有两个改善用户生活质量的例子：
 
-![puhuishehui](http://img.blog.csdn.net/20171223173133747)
+![shehui](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/suhua/shehui.png)
 
 一个是大山野生养蜂人，过去没有多少人人知道蜂蜜怎么产生的，大家原来只是认为蜂蜜只是放在罐子里的糖，其实真正的蜂蜜长在悬崖峭壁，是一份非常危险的工作，这样的一位采蜂蜜的工人，通过快手他可以把蜂蜜卖的更好，因为大家知道蜂蜜是这样产生的时候，就会更加喜欢去买这样的蜂蜜，而不再是一个简简单单的罐头，他卖的蜂蜜变成了一个背后有故事的产品。
 

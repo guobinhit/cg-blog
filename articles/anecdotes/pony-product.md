@@ -1,6 +1,6 @@
 # 马化腾教你做产品：改掉这七点，让产品自己说话
 
-![pony](http://img.blog.csdn.net/20171206121024789) 
+![pony](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/pony-product/pony.png) 
 
 > **捕手志**：马化腾先生被认为是国内最好的产品经理之一。在他看来好的产品是有灵魂的，优美的设计、技术、运营都能体现背后的理念，一款好产品也是可以主动吸引用户来使用的。而打造出一款好产品并不是一件容易的事，究其原因多半是产品经理自己挖抗，导致最后走样了。
 
