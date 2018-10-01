@@ -13,7 +13,7 @@
  - [编程语言](#编程语言)
  - [设计模式](https://github.com/guobinhit/design-pattern)
  - [Java技巧](https://github.com/guobinhit/java-skills)
- - [聚合支付](#聚合支付)
+ - [支付系统](#支付系统)
  - [工具及其他](#工具及其他)
  - [我的收藏清单](https://github.com/guobinhit/cg-reading-list)
  - [Guava中文指南](https://github.com/guobinhit/guava-guide)
@@ -47,7 +47,7 @@
 - [用 Java 模拟 TCP 传输的客户端和服务端](https://github.com/guobinhit/cg-blog/blob/master/articles/program/java-to-tcp.md)
 - [用 Java 模拟 UDP 传输的发送端和接收端](https://github.com/guobinhit/cg-blog/blob/master/articles/program/java-to-udp.md)
 
-## 聚合支付
+## 支付系统
 
 
 - [支付宝钱包系统架构内部剖析](https://github.com/guobinhit/cg-blog/blob/master/articles/netpayment/alipay.md)
