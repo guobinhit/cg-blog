@@ -41,7 +41,7 @@
 如上图所示，我们已经为`cg-favorite-list`项目创建了一个开源许可证。那么，你还在等什么？赶紧为你的项目创建开源许可证吧！
 
 ----------
-———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/github/GITHUB_README.md) —— ☆☆☆ ————
+———— ☆☆☆ —— [返回 -> 史上最简单的 GitHub 教程 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/github/README.md) —— ☆☆☆ ————
 
 
 

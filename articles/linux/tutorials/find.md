@@ -213,5 +213,5 @@ find . -type f -mtime +3 -name "*.txt" -exec cp {} old \;
 
 
 ----------
-———— ☆☆☆ —— [返回 -> 史上最简单的 Linux 教程 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/LINUX_README.md) —— ☆☆☆ ————
+———— ☆☆☆ —— [返回 -> 史上最简单的 Linux 教程 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/README.md) —— ☆☆☆ ————
 
