@@ -17,15 +17,15 @@
  - [工具及其他](#工具及其他)
  - [我的收藏清单](https://github.com/guobinhit/cg-reading-list)
  - [Guava中文指南](https://github.com/guobinhit/guava-guide)
- - [超实用的「Exception」和「Error」解决案例](https://github.com/guobinhit/solutioncase-throwable)
+ - [超实用的「Exception」和「Error」解决案例](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/README.md)
  
 
 
 ## 史上最简单系列教程
 
-- [史上最简单的 Linux 教程](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/LINUX_README.md)
+- [史上最简单的 Linux 教程](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/README.md)
 - [史上最简单的 MySQL 教程](https://github.com/guobinhit/mysql-tutorial)
-- [史上最简单的 GitHub 教程](https://github.com/guobinhit/cg-blog/blob/master/articles/github/GITHUB_README.md)
+- [史上最简单的 GitHub 教程](https://github.com/guobinhit/cg-blog/blob/master/articles/github/README.md)
 - [史上最简单的 Mybatis 教程](https://github.com/guobinhit/cg-blog/blob/master/articles/mybatis/MYBATIS_README.md)
 - [史上最简单的 Spring MVC 教程](https://github.com/guobinhit/cg-blog/blob/master/articles/springmvc/SPRING_MVC_README.md)
 - [史上最简单的 IntelliJ IDEA 教程](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/README.md)
