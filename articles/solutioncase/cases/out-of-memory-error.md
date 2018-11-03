@@ -5,7 +5,7 @@
 
 在正常启动 Tomcat  的时候，报出如下错误：
 
-![out](http://img.blog.csdn.net/20170407154921966)
+![error-info](https://github.com/guobinhit/cg-blog/blob/master/images/solutioncase/export-exception/error-info.png)
 
 2 错误原因
 ------
@@ -25,7 +25,7 @@
 
 具体如何配置，如下图所示：
 
-![vm](http://img.blog.csdn.net/20170407155427445)
+![vm-options](https://github.com/guobinhit/cg-blog/blob/master/images/solutioncase/export-exception/vm-options.png)
 
 其中，各个参数的含义为：
 
@@ -40,3 +40,6 @@
 
 
 **温馨提示**：在磁盘满足条件的情况下，可自行修改虚拟机参数进行测试。
+
+----------
+———— ☆☆☆ —— [返回 -> 超实用的「Exception」和「Error」解决案例 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/README.md) —— ☆☆☆ ————
