@@ -1,4 +1,4 @@
-# 出现 com.caucho.hessian.io.HessianServiceException 异常的原因及解决方法
+# com.caucho.hessian.io.HessianServiceException
 
 
 1 异常描述
@@ -42,4 +42,8 @@ private static String url = "http://localhost:8080/user/hessian/CustomerEntityFa
 
 ----------
 **温馨提示**：对于此异常，请具体情况具体分析。
+
+
+----------
+———— ☆☆☆ —— [返回 -> 超实用的「Exception」和「Error」解决案例 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/README.md) —— ☆☆☆ ————
 

@@ -1,4 +1,4 @@
-# 出现 java.lang.UnsupportedClassVersionError 错误的原因及解决方法
+# java.lang.UnsupportedClassVersionError
 
 1 错误描述
 ------
@@ -25,3 +25,6 @@
 
 检查项目 SDK 和运行时所用的 JRE，发现使用的都是 1.6 版本，但幸好此前本地还安装了 JDK 1.8 版本，将两者都更好为JDK 1.8 版本之后，此错误解决。当然，如果是 Maven 项目的话，也可能尝试更新 Maven 的版本！
 
+
+----------
+———— ☆☆☆ —— [返回 -> 超实用的「Exception」和「Error」解决案例 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/README.md) —— ☆☆☆ ————

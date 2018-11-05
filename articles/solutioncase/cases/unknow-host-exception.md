@@ -1,4 +1,4 @@
-# 出现 java.net.UnknowHostException: XXX.XXX.XXX 异常的原因及解决方法
+# java.net.UnknowHostException: XXX.XXX.XXX
 
 1 异常描述
 ------
@@ -32,3 +32,7 @@
 ----------
 
 **温馨提示**：如果大家不了解如何修改`hosts`文件的话，可以参阅「[详述 hosts 文件的作用及修改 hosts 文件的方法](https://github.com/guobinhit/cg-blog/blob/master/articles-of-blog/tools-and-others/hosts.md)」。
+
+
+----------
+———— ☆☆☆ —— [返回 -> 超实用的「Exception」和「Error」解决案例 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/README.md) —— ☆☆☆ ————

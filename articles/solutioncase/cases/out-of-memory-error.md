@@ -1,4 +1,4 @@
-# 出现 java.lang.OutOfMemoryError: PermGen space 错误的原因及解决方法
+# java.lang.OutOfMemoryError: PermGen space
 
 1 错误描述
 ------

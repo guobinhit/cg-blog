@@ -1,4 +1,4 @@
-# 出现 java.net.MalformedURLException: no protocol 异常的原因及解决方法
+# java.net.MalformedURLException: no protocol
 
 1 异常描述
 ------
@@ -24,3 +24,7 @@
 那么，咱们再回过头来，看看上面的 URL 是不是少了什么东西啊？少了吗？
 
 好吧，答案是：**没有指定`http`协议，在 URL 前面加上`http://`即可解决此异常。**
+
+
+----------
+———— ☆☆☆ —— [返回 -> 超实用的「Exception」和「Error」解决案例 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/README.md) —— ☆☆☆ ————

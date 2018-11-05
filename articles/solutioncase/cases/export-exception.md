@@ -1,4 +1,4 @@
-# 出现 java.rmi.server.ExportException 异常的原因及解决方法
+# java.rmi.server.ExportException
 
 1 异常描述
 ------
@@ -24,3 +24,5 @@
 这个异常发生的原因比较明显，通过阅读“异常描述”，咱们也能发现问题，那就是：**修改完错误，直接再次启动**。显然，咱们没有关闭前一次的服务，虽然程序报错了，但其并不会自动关闭服务，需要咱们手动关闭本次服务。否则的话，端口被占用也就是情理之中的啦！因此，解决此异常的方法很简单：**先关闭服务器，再重新启动**，就 OK 啦！
 
 
+----------
+———— ☆☆☆ —— [返回 -> 超实用的「Exception」和「Error」解决案例 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/README.md) —— ☆☆☆ ————

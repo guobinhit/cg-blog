@@ -1,4 +1,4 @@
-# 出现 com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error 异常的原因及解决方法
+# com.ibm.db2.jcc.am.SqlSyntaxErrorException: DB2 SQL Error
 
 
 1 异常描述
@@ -38,3 +38,7 @@ DB2 SQL Error: SQLCODE=-104, SQLSTATE=42601
 ![2](http://img.blog.csdn.net/20170410191137792)
 
 显然可以看出来，对应上述`SQLCODE`和`SQLSTATE`的错误原因为“ **SQL 语句中遇到了非法符号**”。对于这个异常，博主查看了对应的 SQL 语句，好吧，原因仅仅是少写了一个逗号！或许，这篇博文的题目修改为“论·细心的重要性”更切题一些，囧。
+
+
+----------
+———— ☆☆☆ —— [返回 -> 超实用的「Exception」和「Error」解决案例 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/README.md) —— ☆☆☆ ————

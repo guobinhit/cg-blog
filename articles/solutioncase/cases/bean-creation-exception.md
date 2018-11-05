@@ -1,4 +1,4 @@
-# 出现 org.springframework.beans.factory.BeanCreationException 异常的原因及解决方法
+# org.springframework.beans.factory.BeanCreationException
 
 1 异常描述
 ------
@@ -52,4 +52,7 @@ ErrorCodeFacade errorCodeFacade = RemoteServiceFactory.getService(ErrorCodeFacad
 
 **温馨提示**：对于不同的公司，可能使用不同的业务组件，因此上述的调用方法也可能有些差别。
 
+
+----------
+———— ☆☆☆ —— [返回 -> 超实用的「Exception」和「Error」解决案例 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/README.md) —— ☆☆☆ ————
 

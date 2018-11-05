@@ -1,4 +1,4 @@
-# 出现 java.util.zip.ZipException: error in opening zip file 异常的原因及解决方法
+# java.util.zip.ZipException: error in opening zip file
 
 1 异常描述
 ------
@@ -30,3 +30,6 @@
 
 **温馨提示**：此异常的解决案例并没有很强的说服力，仅做参考，如果大家有更好的解决方法，欢迎分享给大家，非常感谢！
 
+
+----------
+———— ☆☆☆ —— [返回 -> 超实用的「Exception」和「Error」解决案例 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/README.md) —— ☆☆☆ ————

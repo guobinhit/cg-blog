@@ -1,4 +1,4 @@
-# 出现 org.apache.ibatis.binding.BindingException 异常的原因及解决方法
+# org.apache.ibatis.binding.BindingException
 
 1 异常描述
 ------
@@ -29,3 +29,7 @@
 ----------
 
 **温馨提示**：此案例为个性，异常是共性。
+
+
+----------
+———— ☆☆☆ —— [返回 -> 超实用的「Exception」和「Error」解决案例 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/README.md) —— ☆☆☆ ————

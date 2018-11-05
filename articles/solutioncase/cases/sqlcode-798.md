@@ -1,4 +1,4 @@
-# 出现 DB2 SQL Error: SQLCODE = -798, SQLSTATE = 428C9 错误的原因及解决方法
+# DB2 SQL Error: SQLCODE = -798, SQLSTATE = 428C9
 
 ### 1 错误描述
 
@@ -72,3 +72,5 @@ INSERT INTO TBL_USER_CARD values(default, 0, 'charies', 'IQ_CARD');
 如上所述，此两种方法都可以解决此错误，二者择一即可。
 
 
+----------
+———— ☆☆☆ —— [返回 -> 超实用的「Exception」和「Error」解决案例 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/README.md) —— ☆☆☆ ————

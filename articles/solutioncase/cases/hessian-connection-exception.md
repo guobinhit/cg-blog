@@ -1,4 +1,4 @@
-# 出现 com.caucho.hessian.client.HessianConnectionException 异常的原因及解决方法
+# com.caucho.hessian.client.HessianConnectionException
 
 1 异常描述
 ------
@@ -28,3 +28,7 @@
 `http://localhost:8014/pp-config/hessian/ErrorCodeFacade`
 
 之后，这个异常问题就解决啦！
+
+
+----------
+———— ☆☆☆ —— [返回 -> 超实用的「Exception」和「Error」解决案例 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/README.md) —— ☆☆☆ ————

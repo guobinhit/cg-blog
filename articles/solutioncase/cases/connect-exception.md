@@ -1,4 +1,4 @@
-# 出现 java.net.ConnectException: Connection refused 异常的原因及解决方法
+# java.net.ConnectException: Connection refused
 
 1 异常描述
 ------
@@ -35,4 +35,5 @@
 **温馨提示**：暂时了解到此异常出现的原因及解决方法如上所述，如果大家有其他解决此异常的方法，可以通过`PR`，在此分享给大家，非常感谢。
 
 
-
+----------
+———— ☆☆☆ —— [返回 -> 超实用的「Exception」和「Error」解决案例 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/README.md) —— ☆☆☆ ————
