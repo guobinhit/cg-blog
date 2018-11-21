@@ -135,7 +135,7 @@ Step 5. 合并你的 Pull 请求
 
 在你的 GitHub 简介（Profile）上，你可以看到自己的贡献标记。
 
-想要学习更多关于 Pull 请求的知识，我们推荐你阅读「[GitHub Flow Guide](http://blog.csdn.net/qq_35246620/article/details/65636022)」，你也可以通过访问 「[GitHub Explore](https://github.com/explore)」了解更多的开源项目。
+想要学习更多关于 Pull 请求的知识，我们推荐你阅读「[GitHub Flow Guide](https://github.com/guobinhit/cg-blog/blob/master/articles/github/tutorials/understand-github-flow.md)」，你也可以通过访问 「[GitHub Explore](https://github.com/explore)」了解更多的开源项目。
 
 > **提示**：可以通过「[Guides](https://guides.github.com/)」和「[On-Demand Training](https://services.github.com/on-demand/)」了解更多关于 GitHub 的内容。
 
