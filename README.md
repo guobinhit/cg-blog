@@ -26,8 +26,8 @@
 - [史上最简单的 Linux 教程](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/README.md)
 - [史上最简单的 MySQL 教程](https://github.com/guobinhit/mysql-tutorial)
 - [史上最简单的 GitHub 教程](https://github.com/guobinhit/cg-blog/blob/master/articles/github/README.md)
-- [史上最简单的 Mybatis 教程](https://github.com/guobinhit/cg-blog/blob/master/articles/mybatis/MYBATIS_README.md)
-- [史上最简单的 Spring MVC 教程](https://github.com/guobinhit/cg-blog/blob/master/articles/springmvc/SPRING_MVC_README.md)
+- [史上最简单的 Mybatis 教程](https://github.com/guobinhit/cg-blog/blob/master/articles/mybatis/README.md)
+- [史上最简单的 Spring MVC 教程](https://github.com/guobinhit/cg-blog/blob/master/articles/springmvc/README.md)
 - [史上最简单的 IntelliJ IDEA 教程](https://github.com/guobinhit/intellij-idea-tutorial/blob/master/README.md)
 
 
