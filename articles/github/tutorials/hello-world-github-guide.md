@@ -39,7 +39,7 @@ Step 1. 创建仓库
  - 写一个简短的描述；
  - 选择`Initialize this repository with a README`.
 
-![1](http://img.blog.csdn.net/20170324154105375)
+![create-repository](https://github.com/guobinhit/cg-blog/blob/master/images/github/hello-world-github-guide/create-repository.png)
 
 点击 `Create repository`.
 
@@ -56,7 +56,7 @@ Step 2. 创建分支
  - 一个名为`feature`的新分支（因为我们在这个分支上做“特别的工作”）；
  - `feature`分支合并到`master`分支的过程。
 
-![2](http://img.blog.csdn.net/20170324160440502)
+![create-branch](https://github.com/guobinhit/cg-blog/blob/master/images/github/hello-world-github-guide/create-branch.png)
 
 你保存过不同版本的文件吗？像：
 
@@ -75,7 +75,7 @@ Step 2. 创建分支
  - 在新分支文本框中键入分支名称`readme-edits`；
  - 选择蓝色的`Create branch`框或者敲键盘上的`Enter`键。
 
-![3](http://img.blog.csdn.net/20170324162618188)
+![readme-edits](https://github.com/guobinhit/cg-blog/blob/master/images/github/hello-world-github-guide/readme-edits.png)
 
 现在，你就有两个分支了，分别为`master`和`readme-edits`，两者的内容看起来完全一起，但是很快就不一样啦！接下来，我们就在新分支中添加一些改变。
 
@@ -93,7 +93,7 @@ Step 3. 编辑和提交修改的内容
  - 写一个提交消息，描述你的修改；
  - 单击`Commit changes`按钮。
 
-![4](http://img.blog.csdn.net/20170324170809941)
+![hello-world](https://github.com/guobinhit/cg-blog/blob/master/images/github/hello-world-github-guide/hello-world.png)
 
 这些修改仅仅在你的`readme-edits`分支中的`README`中有所体现，因此这个分支就包含与`master`分支不同的内容啦！
 
@@ -119,7 +119,7 @@ Step 5. 合并你的 Pull 请求
  - 单击`Confirm merge`按钮；
  - 删除该分支，因为它修改的内容已经合并了，在“紫色”框中点击`Delete branch`按钮。
 
-![6](http://img.blog.csdn.net/20170324181230726)
+![pull-request](https://github.com/guobinhit/cg-blog/blob/master/images/github/hello-world-github-guide/pull-request.png)
 
 庆祝吧！
 ----
