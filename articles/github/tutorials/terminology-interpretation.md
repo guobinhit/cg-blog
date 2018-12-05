@@ -1,6 +1,6 @@
 # GitHub 术语解释
 
-![githunb](https://github.com/guobinhit/cg-blog/blob/master/images/github/terminology-interpretation/githunb.png)
+![githunb](https://github.com/guobinhit/cg-blog/blob/master/images/github/terminology-interpretation/github.png)
 
 **为了大家进一步了解和使用 GitHub，在本文中，我们一起来看看 GitHub 的常用术语，也可以说是基本概念：**
 
