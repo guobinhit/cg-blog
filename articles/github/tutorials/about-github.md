@@ -6,11 +6,11 @@
 
 对于一个开源项目，我们可以清晰的查看其`commit`记录的情况（可以用图形的方式表现出来），如果这个项目有多个分支以及有过合并分支的记录，那么我们也可以查看其合并分支的情况等。以博主的项目「[java-skills](https://github.com/guobinhit/java-skills)」为例：
 
-![javaskills](http://img.blog.csdn.net/20171224105301069)
+![java-skills](https://github.com/guobinhit/cg-blog/blob/master/images/github/about-github/java-skills.png)
 
 如上图所示，进入项目`java-skills`，然后点击`Insights`并选择其中的`Contributors`(原先为`Graphs`)：
 
-![001](http://img.blog.csdn.net/20170710152858392)
+![contributors](https://github.com/guobinhit/cg-blog/blob/master/images/github/about-github/contributors.png)
 
 观察上图，其清晰的显示出了这个项目的整体贡献情况。当然，我们也可以选择`Commits`，查看这个项目的提交情况；或者选择`Members`，查看参与这个项目的具体成员等。
 
@@ -18,15 +18,15 @@
 
 说实话，这个小标题起的名字并不小，反而很大。但是虽然其不能`100%`的反应技术的趋势，却可以在很大程度上表现出在过去一段时间内（例如，一天内、一周内或者一月内）大家都关心什么，或者对什么感兴趣。具体操作步骤为：先点击`Explor`：
 
-![002](http://img.blog.csdn.net/20170710154930857)
+![explore](https://github.com/guobinhit/cg-blog/blob/master/images/github/about-github/explore.png)
 
 然后再点击`Trending`：
 
-![004](http://img.blog.csdn.net/20170710155434841)
+![trending](https://github.com/guobinhit/cg-blog/blob/master/images/github/about-github/trending.png)
 
 结果如下图所示：
 
-![003](http://img.blog.csdn.net/20170710155019229)
+![adjust-time-span](https://github.com/guobinhit/cg-blog/blob/master/images/github/about-github/adjust-time-span.png)
 
 在上图中，我们还可以继续选择如日期、语言等，来完成进一步的筛选工作。
 
@@ -34,11 +34,11 @@
 
 一般情况下，我们搜索开源项目，只需要在搜索栏输入关键词（多个关键词，用空格隔开）即可，例如我们直接输入关键词`java`进行搜索：
 
-![005](http://img.blog.csdn.net/20170710155919369)
+![java-results](https://github.com/guobinhit/cg-blog/blob/master/images/github/about-github/java-results.png)
 
 如上图所示，显示了众多的搜索结果，但这样的结果可能并不是特别好。实际上，我们可以更进一步，直接进行条件搜索，例如输入关键词`java stars:>1000`，结果如下图所示：
 
-![006](http://img.blog.csdn.net/20170710160711643)
+![java-stars](https://github.com/guobinhit/cg-blog/blob/master/images/github/about-github/java-stars.png)
 
 观察上图，显然我们可以发现其展示出来的结果为`star`数大于`1000`的开源项目。
 
