@@ -4,7 +4,7 @@
 
 在项目从虚拟机迁移到容器云之后，生产环境在执行某个数据库下所有表的新增及更新操作的时候，都会遇到 BD2 报出来的`SQLCODE = -1773, SQLSTATE = null`异常，从而导致该库下所有涉及到新增和更新的操作全部失败，具体的错误日志如下：
 
-![1773](https://img-blog.csdnimg.cn/20181224220139958.png)
+![1773](https://github.com/guobinhit/cg-blog/blob/master/images/solutioncase/sqlcode-1773/1773.png)
 
 ### 2 错误原因
 
@@ -26,7 +26,7 @@
 
 既然找了问题的原因，那么解决该问题的方式自然是切换数据库的配置，在数据库的配置切换为主库之后，该错误解决。不过，在后续查看日志的时候，发现 DB2 还报了另外一个错误，即：
 
-![4499](https://img-blog.csdnimg.cn/20181224224339687.png)
+![4499](https://github.com/guobinhit/cg-blog/blob/master/images/solutioncase/sqlcode-1773/4499.png)
 
 > ERRORCODE = -4499，SALSTATE = 08001
 
