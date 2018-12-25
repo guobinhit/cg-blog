@@ -42,6 +42,8 @@
 
 - 第 3 篇：[DB2 SQL Error: SQLCODE = -798, SQLSTATE = 428C9](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/sqlcode-798.md)
 
+- 第 4 篇：[DB2 SQL Error: SQLCODE = -1773, SQLSTATE = null](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/sqlcode-1773.md)
+
 
 
 
