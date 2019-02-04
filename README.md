@@ -16,6 +16,7 @@
  - [支付系统](#支付系统)
  - [工具及其他](#工具及其他)
  - [我的收藏清单](https://github.com/guobinhit/cg-reading-list)
+ - [Akka中文指南](https://github.com/guobinhit/akka-guide)
  - [Guava中文指南](https://github.com/guobinhit/guava-guide)
  - [超实用的「Exception」和「Error」解决案例](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/README.md)
  
