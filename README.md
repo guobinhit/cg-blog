@@ -3,9 +3,11 @@
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
 ## 最新博文
- - **New article 1**：[藏在县城的万亿生意](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/countryside-millions.md)
- - **New article 2**：[关于 toLocaleDateString 方法的实践分享](https://github.com/guobinhit/cg-blog/blob/master/articles/others/toLocaleDateString.md)
- - **New article 3**：[专访 7-ELEVEn 执行董事：为什么我们是便利店第一品牌](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/7-ELEVEn.md)
+
+ - **New article 1**：[百度的春晚战事](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/baidu-chunwan-war.md)
+ - **New article 2**：[藏在县城的万亿生意](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/countryside-millions.md)
+ - **New article 3**：[关于 toLocaleDateString 方法的实践分享](https://github.com/guobinhit/cg-blog/blob/master/articles/others/toLocaleDateString.md)
+ 
 
 ## 文章分类（快速定位）
  - [史上最简单系列教程](#史上最简单系列教程)
@@ -95,6 +97,7 @@
 
 ## 非技术那些事儿
 
+- [百度的春晚战事](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/baidu-chunwan-war.md)
 - [藏在县城的万亿生意](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/countryside-millions.md)
 - [专访 7-ELEVEn 执行董事：为什么我们是便利店第一品牌](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/7-ELEVEn.md)
 - [流感下的北京中年](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/influenza.md)
