@@ -1,6 +1,6 @@
 # 百度的春晚战事
 
-![baidu-logo](https://img-blog.csdnimg.cn/2019022819034664.png)
+![baidu-logo](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/baidu-logo.png)
 
 **“我们对春晚一无所知。”**
 
@@ -23,7 +23,8 @@
 
 接下来中哥就告诉你，2019年2月4日除夕晚上，这片土地上究竟发生了什么。
 
-![chunwan](https://img-blog.csdnimg.cn/20190228191154767.png)
+![chunwan](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/chunwan.png)
+
 >**（零）百度的一封信、一部引擎和一场战役** 
 
 故事，要从一封信说起。
@@ -44,7 +45,8 @@
 
 “什么？？！！”震宇当时如同全身过电，血往上涌。就在前后脚，百度 App 部门联系震宇，确认了春晚红包的项目。
 
-![houzhenyu](https://img-blog.csdnimg.cn/20190228191604954.png)
+![houzhenyu](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/houzhenyu.png)
+
 那一刻震宇意识到，“擎天柱”的第一战已经来了——在履职的第16天，组织架构都来不及调整，新任务也来不及制定，甚至连人都没认全的情况下，要负责保障一个“全中国人都对其威力一无所知”的春晚。
 
 这还真是一个故事的好开头啊。
@@ -61,7 +63,8 @@
 
 百度人渴望一场大战，洗刷十年风尘。
 
-![robin](https://img-blog.csdnimg.cn/2019022819183185.png)
+![robin](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/robin.png)
+
 > **（一）生死战**
 
 不用多想，你都能把百度的春晚发红包的姿势猜得八九不离十：
@@ -77,7 +80,8 @@
 
 远在三亚休假的百度信息流主任架构师吴永巍也同时接到这个消息，一刻不停地赶回他所在的上海研发中心，又赶最早的飞机降落北京。
 
-![wuyongwei](https://img-blog.csdnimg.cn/2019022819205212.png)
+![wuyongwei](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/wuyongwei.png)
+
 震宇代表基础技术保障团队，吴永巍代表百度 App 的技术团队组成了联合作战组。他们一秒都不敢耽搁，当天就开始筹备组建春晚红包技术团队。
 
 - 贺峰，十一年百度人，运维负责人，他责无旁贷地成为“百度春晚红包”稳定性计划总制定者。
@@ -95,7 +99,8 @@
 
 贺峰对所有人说。
 
-![hefeng](https://img-blog.csdnimg.cn/20190228192646430.png)
+![hefeng](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/hefeng.png)
+
 很快，经过全部专家组讨论，贺峰把最终的计划表拿出来了。（原任务表极其复杂，中哥用自己的话解释给你。）
 
  
@@ -140,7 +145,8 @@
 
 十大任务列阵于此，旌旗猎猎。
 
-![baidu-chunwan-tiaofu](https://img-blog.csdnimg.cn/20190228192937431.png)
+![baidu-chunwan-tiaofu](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/baidu-chunwan-tiaofu.png)
+
 彼时，即使是计划制定者贺峰也难以想象，在未来四周时间里，百度、三大运营商、全球硬件供应链、中国数家服务器厂商、外包建设团队、机房运维团队、全世界总计数万人和他们的家人将会为此付出怎样艰苦卓绝的努力。
 
  
@@ -161,7 +167,8 @@
 
 陈曦洋一夜没睡，拿着最新出炉的报表对贺峰说。
 
-![chunwan-redpack-xinwen](https://img-blog.csdnimg.cn/20190228193151395.png)
+![chunwan-redpack-xinwen](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/chunwan-redpack-xinwen.png)
+
 经过计算，支撑这些流量的云计算系统，需要由10万台服务器组成。
 
  
@@ -184,7 +191,8 @@
 
 要知道，凤巢系统是百度的广告收入核心。凤巢暂停四小时，意味着百度这艘火箭要在万米高空强行熄火，失速四小时。
 
-![rocket](https://img-blog.csdnimg.cn/20190228193343551.png)
+![rocket](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/rocket.png)
+
 而这不仅是真金白银的损失，还是一个极其危险的操作——万一熄火之后点不着，凤巢系统将面临对数百万客户的巨额赔偿。
 
  
@@ -217,7 +225,8 @@
 
 这些年逆风行船，百度的技术产品人其实一直在用力。
 
-![fighting](https://img-blog.csdnimg.cn/20190228193636318.png)
+![fighting](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/fighting.png)
+
 但是对于此刻的陈曦洋来说，这意味着灾难。在春晚当天，每一秒钟，每一个连接都要乘以几千万人这么一个倍数，每个 App 100 个连接，每秒就是几十亿次连接，BAT 加在一起都必跪无疑。
 
  
@@ -232,7 +241,8 @@
 
 由于 AppStore 和各大安卓商店都需要有审核时间，百度 App 必须在春晚前两周发布最新版本，所以很多连接来不及修改背后的整体逻辑，只能用暂时抑制的方式来处理。
 
-![baidu-app](https://img-blog.csdnimg.cn/20190228193810595.png)
+![baidu-app](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/baidu-app.png)
+
 花开两朵，各表一枝。
 
  
@@ -243,7 +253,8 @@
 
 多说一句，汪瑫本来属于上海团队，和春晚项目关系不大。但是由于他技术非常牛，又和帐号团队比较熟悉，被震宇和吴永巍“强行”拉来参与春晚计划。接到任务时他二话没说，第二天就飞到北京，开始了长达一个月的加班。
 
-![wangdao](https://img-blog.csdnimg.cn/20190228193904265.png)
+![wangdao](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/wangdao.png)
+
 业内八卦显示：2018年，淘宝春晚发红包，最大的问题就出在了登录系统。
 
  
@@ -266,7 +277,8 @@
 
 这意味着将会有很多人请求短信验证码。
 
-![baidu-login](https://img-blog.csdnimg.cn/20190228194044894.png)
+![baidu-login](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/baidu-login.png)
+
 时间有限，汪瑫一边连夜协助帐号团队做各种优化，一边让团队向各大运营商和第三方服务商购买短信发送的服务。一时间，所有省市的三大运营商的短信发送能力，被百度一家预定一空。
 
  
@@ -281,7 +293,8 @@
 
 软件这边忙得热火朝天，转回头来看，还有5万台服务器的硬件缺口。所有人的目光都落在张家军身上。
 
-![zhangjiajun](https://img-blog.csdnimg.cn/20190228194259265.png)
+![zhangjiajun](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/zhangjiajun.png)
+
 >**（三）那个疯狂的夜晚** 
 
  
@@ -329,14 +342,16 @@
 
 这意味着，百度云不需要像其他云计算厂商那样，一台服务器一台服务器地在现场安装，而是把整个机柜直接推进去就可以进行测试安装了。
 
-![zhengti-jixiang](https://img-blog.csdnimg.cn/20190228194556222.png)
+![zhengti-jixiang](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/zhengti-jixiang.png)
+
 在接下来的一周里，百度的合作伙伴浪潮也体现出了国际顶尖的专业精神，一队队卡车整齐地并入高速公路，直接开赴北京。
 
  
 
 你可能不相信，这两个大厂，共同创造了8小时安装1万台服务器的世界纪录。
 
-![test-jixiang](https://img-blog.csdnimg.cn/20190228194633710.png)
+![test-jixiang](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/test-jixiang.png)
+
 北京如期搞定。
 
  
@@ -423,7 +438,8 @@
 
 机房的货梯，由于承受不住一吨多的机柜上下折磨，毫无预警地罢工了。他们马上转战客梯，客梯很快也出现故障。
 
-![elevator-broke](https://img-blog.csdnimg.cn/20190228195003320.png)
+![elevator-broke](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/elevator-broke.png)
+
 临近春节，电梯检修人员大多回家过年，人手非常紧张，要天亮才能赶到。但是百度的同学们知道，仅仅这一夜，他们也是等不起的。
 
  
@@ -475,13 +491,15 @@
 
 根据宋磊回忆，两周左右的时间里，69位工程师飞了7万多公里。北上广的剩余带宽资源几乎都被百度拿空了。
 
-![songlei](https://img-blog.csdnimg.cn/20190228195350678.png)
+![songlei](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/songlei.png)
+
 网络团队有两位工程师是夫妻，一个负责网络建设，一个负责网络测试。一个人刚建设好，回家看孩子，换另一个人来测试。有时候建设工程师要陪着测试工程师一起工作，两个人只好把孩子扔给老人，一夜都不回家。
 
  
 
 而宋磊本人，从1月6日计划启动到大年初一，睡得最长的一晚是五个小时，最短只有一个小时。
-![toupai](https://img-blog.csdnimg.cn/20190228195412313.png)
+
+![toupai](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/toupai.png)
 
 时间一刻不停，已经是1月26日。距离春晚还有8天。
 
@@ -503,17 +521,21 @@
 
 1. 主持人播报抢红包开始的每一个时间点，百度系统分别提前多少秒做好什么准备。就像火箭发射一般精密。
 2. 一旦遇到意外情况，哪个子系统要做出怎样的调整，根据意外程度的不同，做出的调整力度也不同，这套预案中，涉及到了上千条意外情况。一旦条件触发，指挥部的同学只要点击一个按钮，就能启动相应的更改。
-![juben](https://img-blog.csdnimg.cn/20190228195431809.png)
+
+![juben](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/juben.png)
 
 根据经验，运维人员真正遇到问题的时候，心理会承受巨大的冲击，很容易慌乱。为了让同学们临危不乱，贺峰还专门编写了《作战守则》，上面写着“指令要清晰，行动听指挥”等等要求贴在墙上，发给每一个同学提前学习。
 
-![zuozhanjihua](https://img-blog.csdnimg.cn/20190228195911228.png)
+![zuozhanjihua](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/zuozhanjihua.png)
+
 对于百度这群工程师来说，这几百页作战计划里的每一条预案，都不是凭空想出来的。他们在写每一个字的时候，都可以回忆起十多年来自己在百度的运维经验，这厚厚一本，哪里是作战计划，分明是一个百度工程师的技术人生。
 
  
 
 百度科技园 K2 大楼的整整一个大厅被改成作战指挥室，中心一个核心指挥室，旁边20个小屋是包括百度 App、大搜、摇一摇、帐号系统、BFE中台、网络、系统监控、IT团队、红包核心系统等等在内的分组作战室。加上地下一层本来就有的中控室，组成了联合指挥作战系统。
-![zhihuishi](https://img-blog.csdnimg.cn/20190228195930803.png)
+
+![zhihuishi](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/zhihuishi.png)
+
 这里要稍微插一句。
 
  
@@ -532,7 +554,8 @@
 
 百度人的“实在”在这里体现得淋漓尽致。反正我就是要实现这样的效果，技术上的问题，一点点搞就好了。
 
-![yangchaoyue](https://img-blog.csdnimg.cn/2019022819594814.png)
+![yangchaoyue](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/yangchaoyue.png)
+
 演习过程中，专门有一队“蓝军”，负责为春晚系统制造各种麻烦，例如掐断某个机房的数据通路，让某一个模块停止响应，甚至直接对百度系统发起攻击。而在另一边，指挥团队严格按照剧本对所有问题瞬间应对。百度安全团队也加入了护航编队，对夹杂在正常访问之间的进攻进行拦截。
 
  
@@ -550,7 +573,8 @@
 
 这些小八卦，当时谁也没空探秘。因为春晚已经近在眼前了。
 
-![baidu-shitang](https://img-blog.csdnimg.cn/20190228200426356.png)
+![baidu-shitang](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/baidu-shitang.png)
+
 >**（五）除夕** 
 
 
@@ -587,7 +611,9 @@
  
 
 凤巢系统缓缓熄火，红包系统接管引擎驾驶。所有系统齿轮咬合，像起跑线前的赛车一样低吼着冲出去。
-![chunwanfen9yi](https://img-blog.csdnimg.cn/20190228200448253.png)
+
+![chunwanfen9yi](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/chunwanfen9yi.png)
+
 作战室的同学仿佛进入了另一个世界。整个大厦，掉一根针在地上都能听到。
 
  
@@ -598,7 +624,8 @@
 
 这之后一分钟，指挥部的舆情监控群里，突然有人甩进来一张图片：
 
-![unmatch-appstore](https://img-blog.csdnimg.cn/20190228200510420.png)
+![unmatch-appstore](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/unmatch-appstore.png)
+
 苹果的 AppStore 被网友挤垮，已经打不开了。
 
  
@@ -613,7 +640,8 @@
 
 贺峰评估了一下百度 CDN 的占用量，马上下令，把链接指向百度自家的下载接口，让大家不用通过第三方市场，而是直接从百度家下载百度 App。就这样，下载高峰直接冲击百度自家网络，一点一点，几百万人都安装了百度 App。
 
-![zhanshi](https://img-blog.csdnimg.cn/20190228201006629.png)
+![zhanshi](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/zhanshi.png)
+
 这一切被汪瑫看在眼里。
 
 
@@ -635,7 +663,9 @@
  
 
 在最后一次红包到来之前23分钟，贺峰突然接到驻场春晚那两个同学的消息：根据测算，春晚比预计延迟了4分钟。
-![shuju](https://img-blog.csdnimg.cn/20190228201023810.png)
+
+![shuju](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/shuju.png)
+
 贺峰心里咯噔一下。
 
  
@@ -690,7 +720,9 @@
  
 
 指挥部里，欢声雷动。
-![success](https://img-blog.csdnimg.cn/2019022820104031.png)
+
+![success](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/success.png)
+
 直到这个时候，吴永巍、震宇、贺峰、陈曦洋他们才敢确定，这个曾经击垮了阿里巴巴和腾讯的春晚，并没有击垮百度。他们用了三十个日夜，证明了自己是当之无愧的“老司机”；证明了自己对春晚并不是一无所知。
 
  
@@ -709,7 +741,8 @@
 
 历经磨难，少林师兄师弟的武功全部觉醒，周星驰跪在地上，说：欢迎各位师兄弟归位！
 
-![shaolinzuqiu](https://img-blog.csdnimg.cn/20190228201547149.png)
+![shaolinzuqiu](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/shaolinzuqiu.png)
+
 直到正月末，我来到百度科技园来采访春晚红包故事的时候，我依然能够感觉到，在大厦里洋溢着的喜悦气氛。
 
  
@@ -764,7 +797,7 @@
 
 听到这里，我突然明白，在春晚红包成功的那一刻，那些百度技术人眼里的泪花，告慰的不是过去一个月的艰苦卓绝，而是十年前的自己，那个不解风情却无问西东的少年。
 
-![chenxiyang](https://img-blog.csdnimg.cn/20190228201608222.png)
+![chenxiyang](https://github.com/guobinhit/cg-blog/blob/master/images/anecdotes/baidu-chunwan-war/chenxiyang.png)
 
 他们在漫长的岁月里安静地忍受着孤独，这一次却像疯子一样拼尽全力，押上全部韶华和热血。他们也许并没想赢，他们，只是不想输。
 
