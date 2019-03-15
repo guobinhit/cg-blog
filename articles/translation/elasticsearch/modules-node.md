@@ -1,4 +1,5 @@
-# 节点
+# Elasticsearch 6.6 官方文档 之「节点」
+
 每次启动 Elasticsearch 实例时，都会启动一个节点。连接节点的集合称之为「[集群](https://www.elastic.co/guide/en/elasticsearch/reference/6.6/modules-cluster.html)」。如果你运行的是单个 Elasticsearch 节点，那么你也就拥有一个由一个节点组成的集群。
 
 集群中的每个节点默认都可以处理「[HTTP](https://www.elastic.co/guide/en/elasticsearch/reference/6.6/modules-http.html)」和 「[Transport](https://www.elastic.co/guide/en/elasticsearch/reference/6.6/modules-transport.html)」。Transport 层专门用于节点和「[Java TransportClient](https://www.elastic.co/guide/en/elasticsearch/client/java-api/6.6/transport-client.html)」之间的通信；HTTP 层仅由外部 REST 客户端使用。

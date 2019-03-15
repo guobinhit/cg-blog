@@ -4,10 +4,11 @@
 
 ## 最新博文
 
- - **New article 1**：[百度的春晚战事](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/baidu-chunwan-war.md)
- - **New article 2**：[藏在县城的万亿生意](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/countryside-millions.md)
- - **New article 3**：[关于 toLocaleDateString 方法的实践分享](https://github.com/guobinhit/cg-blog/blob/master/articles/others/toLocaleDateString.md)
+ - **New article 1**：[Elasticsearch 6.6 官方文档 之「索引分片分配」](https://github.com/guobinhit/cg-blog/blob/master/articles/translation/elasticsearch/index-modules-allocation.md)
+ - **New article 2**：[Elasticsearch 6.6 官方文档 之「快照和还原」](https://github.com/guobinhit/cg-blog/blob/master/articles/translation/elasticsearch/modules-snapshots.md)
+ - **New article 3**：[Elasticsearch 6.6 官方文档 之「节点」](https://github.com/guobinhit/cg-blog/blob/master/articles/translation/elasticsearch/modules-node.md)
  
+
 
 ## 文章分类（快速定位）
  - [史上最简单系列教程](#史上最简单系列教程)
@@ -16,6 +17,7 @@
  - [设计模式](https://github.com/guobinhit/design-pattern)
  - [Java技巧](https://github.com/guobinhit/java-skills)
  - [支付系统](#支付系统)
+ - [翻译系列](#翻译系列)
  - [工具及其他](#工具及其他)
  - [我的收藏清单](https://github.com/guobinhit/cg-reading-list)
  - [Akka中文指南](https://github.com/guobinhit/akka-guide)
@@ -63,6 +65,15 @@
 - [支付系统中的对账处理](https://github.com/guobinhit/cg-blog/blob/master/articles/netpayment/accounting.md)
 - [支付网关设计精要（Ping++ 联合创始人 赵宇）](https://github.com/guobinhit/cg-blog/blob/master/articles/tools-and-others/pay-gateway.md)
 - [互联网支付系统整体架构详解](https://github.com/guobinhit/cg-blog/blob/master/articles/others/net-pay.md)
+
+
+## 翻译系列
+
+- [Elasticsearch 6.6 官方文档 之「索引分片分配」](https://github.com/guobinhit/cg-blog/blob/master/articles/translation/elasticsearch/index-modules-allocation.md)
+- [Elasticsearch 6.6 官方文档 之「快照和还原」](https://github.com/guobinhit/cg-blog/blob/master/articles/translation/elasticsearch/modules-snapshots.md)
+- [Elasticsearch 6.6 官方文档 之「节点」](https://github.com/guobinhit/cg-blog/blob/master/articles/translation/elasticsearch/modules-node.md)
+
+
 
 
 

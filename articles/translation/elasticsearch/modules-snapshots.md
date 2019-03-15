@@ -1,4 +1,4 @@
-# 快照和还原
+# Elasticsearch 6.6 官方文档 之「快照和还原」
 
 快照（`snapshot`）是从正在运行的 Elasticsearch 集群中获取的备份。你可以获取单个索引（`indices`）或整个集群的快照，并将其存储在共享文件系统上的存储库中，并且有支持 S3、HDFS、Azure、Google 云存储等远程存储库的插件。
 
