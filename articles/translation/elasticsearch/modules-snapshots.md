@@ -176,7 +176,7 @@ curl -X PUT "localhost:9200/_snapshot/my_src_only_repository" -H 'Content-Type: 
 '
 ```
 
-### 存储库插件编
+### 存储库插件
 
 这些官方插件中还提供了其他存储库后端：
 

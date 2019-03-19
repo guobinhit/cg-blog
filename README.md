@@ -4,9 +4,9 @@
 
 ## 最新博文
 
- - **New article 1**：[Elasticsearch 6.6 官方文档 之「索引分片分配」](https://github.com/guobinhit/cg-blog/blob/master/articles/translation/elasticsearch/index-modules-allocation.md)
- - **New article 2**：[Elasticsearch 6.6 官方文档 之「快照和还原」](https://github.com/guobinhit/cg-blog/blob/master/articles/translation/elasticsearch/modules-snapshots.md)
- - **New article 3**：[Elasticsearch 6.6 官方文档 之「节点」](https://github.com/guobinhit/cg-blog/blob/master/articles/translation/elasticsearch/modules-node.md)
+ - **New article 1**：[Elasticsearch 5.x 版本中的冷热数据架构](https://github.com/guobinhit/cg-blog/blob/master/articles/translation/elasticsearch/hot-warm-architecture-in-elasticsearch-5-x.md)
+ - **New article 2**：[Elasticsearch 6.6 官方文档 之「集群」](https://github.com/guobinhit/cg-blog/blob/master/articles/translation/elasticsearch/modules-cluster.md)
+ - **New article 3**：[Elasticsearch 6.6 官方文档 之「索引分片分配」](https://github.com/guobinhit/cg-blog/blob/master/articles/translation/elasticsearch/index-modules-allocation.md)
  
 
 
@@ -69,6 +69,9 @@
 
 ## 翻译系列
 
+
+- [Elasticsearch 5.x 版本中的冷热数据架构](https://github.com/guobinhit/cg-blog/blob/master/articles/translation/elasticsearch/hot-warm-architecture-in-elasticsearch-5-x.md)
+ - [Elasticsearch 6.6 官方文档 之「集群」](https://github.com/guobinhit/cg-blog/blob/master/articles/translation/elasticsearch/modules-cluster.md)
 - [Elasticsearch 6.6 官方文档 之「索引分片分配」](https://github.com/guobinhit/cg-blog/blob/master/articles/translation/elasticsearch/index-modules-allocation.md)
 - [Elasticsearch 6.6 官方文档 之「快照和还原」](https://github.com/guobinhit/cg-blog/blob/master/articles/translation/elasticsearch/modules-snapshots.md)
 - [Elasticsearch 6.6 官方文档 之「节点」](https://github.com/guobinhit/cg-blog/blob/master/articles/translation/elasticsearch/modules-node.md)
