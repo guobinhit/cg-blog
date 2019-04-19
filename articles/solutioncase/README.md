@@ -5,6 +5,11 @@
 
 ## 目录 
 
+- [第 1 部分：异常](#第 1 部分：异常)
+- [第 2 部分：错误](#第 2 部分：错误)
+- [第 3 部分：其他](#第 3 部分：其他)
+
+
 ### 第 1 部分：异常
 
 
@@ -46,9 +51,12 @@
 
 
 
+### 第 3 部分：其他
 
 
+- 第 1 篇：[Spring Boot 项目自动重启以及 jps 查不到 java 进程的原因及解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/springboot-autorestart-jps.md)
 
+- 第 2 篇：[Elasticsearch 快照到 HDFS 遇到的 PrivateCredentialPermission 问题及解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/es-hdfs-permission.md)
 
 
 
