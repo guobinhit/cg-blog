@@ -27,7 +27,7 @@ file:/usr/local/judge-alarm/judge-alarm-controller/lib/unbescape-1.1.0.RELEASE.j
 
 其中，`/usr/local/judge-alarm/judge-alarm-controller`为项目的部署目录，`judge-alarm-controller-1.0-SNAPSHOT.jar`为项目执行`mvn package`命令后打成的 jar 包，通过观察上述内容，我们可以知道项目中引用了`unbescape-1.1.0.RELEASE.jar`的内容，有可能是间接引用，即通过 Maven 传递依赖引间接入的，但是在打包后`MANIFEST.MF`文件并没有包括该 jar 包。在检查项目后，发现没有用到该 jar 包，因此在排除依赖后，重新打包、部署、启动项目，该问题解决。现在，我们来看项目重复启动的问题：
 
-![stop-shutdown](https://github.com/guobinhit/cg-blog/tree/master/images/solutioncase/part-3-others/es-hdfs-permission/stop-shutdown.png)
+![stop-shutdown](https://github.com/guobinhit/cg-blog/blob/master/images/solutioncase/part-3-others/es-hdfs-permission/stop-shutdown.png)
 
 如上图所示，观察日志，我们发现在项目关闭后，仅留下了如下两条信息：
 
@@ -60,7 +60,7 @@ file:/usr/local/judge-alarm/judge-alarm-controller/lib/unbescape-1.1.0.RELEASE.j
 ```
 
 但实际上，现在程序是能够启动的，这也就说明了并不是因为缺少`tomcat`依赖的原因。如果我们再次查看日志文件头部内容的话，会发现在程序启动时，输出了两条`devtools`日志：
-![devtools-settings](https://github.com/guobinhit/cg-blog/tree/master/images/solutioncase/part-3-others/es-hdfs-permission/devtools-settings.png)
+![devtools-settings](https://github.com/guobinhit/cg-blog/blob/master/images/solutioncase/part-3-others/es-hdfs-permission/devtools-settings.png)
 
 该日志消息来自于`spring-boot-devtools`依赖，而该依赖的作用就是方便我们进行热部署，即在程序有变化的时候，自动重启服务，这也就是我们的 Spring Boot 项目自动重启的原因了。因此，在`pom.xml`文件中删除该依赖，重新打包、部署、启动项目，该问题解决。接下来，我们来看最后一个问题，那就是：使用`jps`命令查询不到正在运行的 Spring Boot 项目的 java 进程。
 
