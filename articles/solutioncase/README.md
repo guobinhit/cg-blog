@@ -50,7 +50,9 @@
 
 - 第 1 篇：[Spring Boot 项目自动重启以及 jps 查不到 java 进程的原因及解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/springboot-autorestart-jps.md)
 
-- 第 2 篇：[Elasticsearch 快照到 HDFS 遇到的 PrivateCredentialPermission 问题及解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/es-hdfs-permission.md)
+- 第 2 篇：[HDFS 集群无法启动 DataNode 节点以及管理界面缺少 DataNode 节点的解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/hdfs-datanode-loss.md)
+
+- 第 3 篇：[Elasticsearch 快照到 HDFS 遇到的 PrivateCredentialPermission 问题及解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/es-hdfs-permission.md)
 
 
 

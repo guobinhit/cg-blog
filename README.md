@@ -6,7 +6,7 @@
 
  - **New article 1**：[Spring Boot 项目自动重启以及 jps 查不到 java 进程的原因及解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/springboot-autorestart-jps.md)
  - **New article 2**：[Elasticsearch 快照到 HDFS 遇到的 PrivateCredentialPermission 问题及解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/es-hdfs-permission.md)
- - **New article 3**：[Elasticsearch 5.x 版本中的冷热数据架构](https://github.com/guobinhit/cg-blog/blob/master/articles/translation/elasticsearch/hot-warm-architecture-in-elasticsearch-5-x.md)
+ - **New article 3**：[HDFS 集群无法启动 DataNode 节点以及管理界面缺少 DataNode 节点的解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/hdfs-datanode-loss.md)
  
 
 
@@ -83,6 +83,9 @@
 
 ## 工具及其他
 
+
+- [详述 Elasticsearch 集群的搭建步骤及方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/build-es-cluster.md)
+- [快速搭建 HDFS 系统（超详细版）](https://github.com/guobinhit/cg-blog/blob/master/articles/others/build-hdfs-cluster.md)
 - [关于 toLocaleDateString 方法的实践分享](https://github.com/guobinhit/cg-blog/blob/master/articles/others/toLocaleDateString.md)
 - [Linux 命令之 find：查找文件](https://github.com/guobinhit/cg-blog/blob/master/articles/linux/tutorials/find.md)
 - [终极对决！Dubbo 和 Spring Cloud 微服务架构到底孰优孰劣？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/dubbo-cloud.md)
