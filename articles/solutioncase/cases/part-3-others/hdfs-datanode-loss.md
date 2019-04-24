@@ -131,3 +131,7 @@
 ![hadoop-dfsadmin-report](https://github.com/guobinhit/cg-blog/blob/master/images/solutioncase/part-3-others/hdfs-datanode-loss/hadoop-dfsadmin-report.png)
 
 最后，在实际操作中，遇到问题是难免的，也是正常的，虽然看到问题还是会让我们感到闹心，但当问题解决的一刹那，我们得到幸福感和愉悦感是难以形容的，而且每解决一个问题，都会让我们的自信心得到提升，加油吧，少年！
+
+
+----------
+———— ☆☆☆ —— [返回 -> 超实用的「Exception」和「Error」解决案例 <- 目录](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/README.md) —— ☆☆☆ ————

@@ -35,7 +35,7 @@
 
 #### 第 1 步：解压 Hadoop 安装包
 
-![tar-zxvf-hadoop](https://github.com/guobinhit/cg-blog/blob/master/images/others/build-hdfs-cluster/tar-zxvf-hadoo.png)
+![tar-zxvf-hadoop](https://github.com/guobinhit/cg-blog/blob/master/images/others/build-hdfs-cluster/tar-zxvf-hadoop.png)
 
 如上述，使用 Linux 命令`tar -zxvf 待解压文件`解压 Hadoop 安装包。
 
@@ -200,7 +200,7 @@ export PATH=$PATH:/home/hdfs-cg/hadoop-2.7.3/bin:/home/hdfs-cg/hadoop-2.7.3/sbin
 
 - **执行命令**：`start-dfs.sh`
 
-![start-hdfs](https://github.com/guobinhit/cg-blog/blob/master/images/others/build-hdfs-cluster/tart-hdfs.png)
+![start-hdfs](https://github.com/guobinhit/cg-blog/blob/master/images/others/build-hdfs-cluster/start-hdfs.png)
 
 接下来，检查 HDFS 是否启动成功。在游览器中输入`http://192.168.56.101:50070/`，默认为`NameNode`的`IP + 50070`端口，当你见到以下界面的时候，就说明你的集群已经起来了。
 
