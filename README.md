@@ -84,6 +84,7 @@
 ## 工具及其他
 
 
+- [详述 Elasticsearch 安装 HDFS 插件存储及快照还原的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/es-hdfs-plugins.md)
 - [详述 Elasticsearch 集群的搭建步骤及方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/build-es-cluster.md)
 - [快速搭建 HDFS 系统（超详细版）](https://github.com/guobinhit/cg-blog/blob/master/articles/others/build-hdfs-cluster.md)
 - [关于 toLocaleDateString 方法的实践分享](https://github.com/guobinhit/cg-blog/blob/master/articles/others/toLocaleDateString.md)
