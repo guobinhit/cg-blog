@@ -54,6 +54,7 @@
 
 - 第 3 篇：[Elasticsearch 快照到 HDFS 遇到的 PrivateCredentialPermission 问题及解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/es-hdfs-permission.md)
 
+- 第 4 篇：[Spring Boot 项目启动报 driver class for database type NONE 的原因及解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/springboot-database-type-none.md)
 
 
 
