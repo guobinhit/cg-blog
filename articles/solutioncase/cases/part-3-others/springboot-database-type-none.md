@@ -21,7 +21,8 @@ Spring Boot 项目启动时，报出如下问题：
 ![enable-auto-configuration](https://github.com/guobinhit/cg-blog/blob/master/images/solutioncase/part-3-others/springboot-database-type-none/enable-auto-configuration.png)
 
 修改后，类示例：
-![enable-auto-configuration-2](https://github.com/guobinhit/cg-blog/blob/master/images/solutioncase/part-3-others/springboot-database-type-none/enable-auto-configuration2.png)
+
+![enable-auto-configuration-2](https://github.com/guobinhit/cg-blog/blob/master/images/solutioncase/part-3-others/springboot-database-type-none/enable-auto-configuration-2.png)
 
 
 
