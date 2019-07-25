@@ -153,7 +153,7 @@
 - [揭秘 · 阿里云第一女神 — 清宵](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/ali-qingxiao.md)
 - [程序员，如何从平庸走向理想？](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/coder-to-better.md)
 - [他出身草根，却是 Google 资深工程师](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/david-byttow.md)
-- [左耳朵耗子 | 技术人员的发展之路](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/developer-load.md)
+- [左耳朵耗子：技术人员的发展之路](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/developer-load.md)
 - [SaaS 公司融资的「22条军规」](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/saas-22.md)
 - [做了 3 年企业级 SaaS，我收获的 10 点心得（Ping++ CEO 金亦冶）](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/pingplus-ceo-ten.md)
 - [在 Google 工作 10 年，到底能学到啥？](https://github.com/guobinhit/cg-blog/blob/master/articles/anecdotes/google-ten-years.md)

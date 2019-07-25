@@ -8,7 +8,7 @@
 
 如上图所示，通过时间组件选定时间之后，打印出了时间。
 
-![inspect-network](https://github.com/guobinhit/cg-blog/blob/master/images/solutioncase/part-3-others/axios-post-date-error/cinspect-network.png)
+![inspect-network](https://github.com/guobinhit/cg-blog/blob/master/images/solutioncase/part-3-others/axios-post-date-error/inspect-network.png)
 
 但是，在数据向后端传输的时候，通过 Chrome 浏览器的`Inspect`功能，查看`Network`，发现时间参数被自动修改了，我们选定的时间是`2019-07-12 00:00:00`，在传输的时候却被修改为`2019-07-11 16:00:00`，导致时间传到后端的参数值与我们期望的参数值不一致，两者相差 8 个小时，也就是从东 8 区（中国北京）的时间自动转换到 0 时区（格林威治）的时间。前端与后端交互的代码，如下所示：
 
