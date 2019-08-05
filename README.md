@@ -6,11 +6,11 @@
 
 ## 最新博文
 
-- **New article 1**：[解决 axios 提交时间类型参数遇到的时区自动转换问题](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/axios-post-date-error.md)
-- **New article 2**：[Spring Boot 项目启动报 driver class for database type NONE 的原因及解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/springboot-database-type-none.md)
-- **New article 3**：[详述 Elasticsearch 安装 HDFS 插件存储及快照还原的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/es-hdfs-plugins.md)
- 
- 
+- **New article 1**：[详述 GitHub 如何将代码从原分支合并到 fork 分支](https://github.com/guobinhit/cg-blog/blob/master/articles/github/tutorials/merge-from-master.md)
+- **New article 2**：[解决 axios 提交时间类型参数遇到的时区自动转换问题](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/axios-post-date-error.md)
+- **New article 3**：[Spring Boot 项目启动报 driver class for database type NONE 的原因及解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/springboot-database-type-none.md)
+
+
 
 
 ## 文章分类（快速定位）

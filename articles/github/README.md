@@ -32,7 +32,7 @@
 
 第 14 篇：[详述 GitHub 中声明 LICENSE 的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/github/tutorials/about-license.md)
 
-
+第 15 篇：[详述 GitHub 如何将代码从原分支合并到 fork 分支](https://github.com/guobinhit/cg-blog/blob/master/articles/github/tutorials/merge-from-master.md)
 
 
 ## 译文
