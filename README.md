@@ -1,6 +1,6 @@
+# Charies Gavin's Blog
 
-![charies-gavin-blog](https://github.com/guobinhit/cg-blog/blob/master/images/charies-gavin-blog.png)
-
+[![last commit](https://img.shields.io/github/last-commit/guobinhit/cg-blog.svg)![issues](https://img.shields.io/github/issues/guobinhit/cg-blog.svg)![stars](https://img.shields.io/github/stars/guobinhit/cg-blog.svg)![forks](	https://img.shields.io/github/forks/guobinhit/cg-blog.svg)![license](https://img.shields.io/github/license/guobinhit/cg-blog.svg)
 
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
@@ -9,7 +9,6 @@
 - **New article 1**：[详述 GitHub 如何将代码从原分支合并到 fork 分支](https://github.com/guobinhit/cg-blog/blob/master/articles/github/tutorials/merge-from-master.md)
 - **New article 2**：[解决 axios 提交时间类型参数遇到的时区自动转换问题](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/axios-post-date-error.md)
 - **New article 3**：[Spring Boot 项目启动报 driver class for database type NONE 的原因及解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/springboot-database-type-none.md)
-
 
 
 
