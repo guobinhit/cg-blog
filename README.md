@@ -1,6 +1,6 @@
 # CHARIES GAVIN'S BLOG
 
-![last commit](https://img.shields.io/github/last-commit/guobinhit/cg-blog.svg)![issues](https://img.shields.io/github/issues/guobinhit/cg-blog.svg)![stars](https://img.shields.io/github/stars/guobinhit/cg-blog.svg)![forks](	https://img.shields.io/github/forks/guobinhit/cg-blog.svg)![license](https://img.shields.io/github/license/guobinhit/cg-blog.svg)
+![author](https://img.shields.io/badge/author-chariesgavin-blueviolet.svg)![last commit](https://img.shields.io/github/last-commit/guobinhit/cg-blog.svg)![issues](https://img.shields.io/github/issues/guobinhit/cg-blog.svg)![stars](https://img.shields.io/github/stars/guobinhit/cg-blog.svg)![forks](	https://img.shields.io/github/forks/guobinhit/cg-blog.svg)![license](https://img.shields.io/github/license/guobinhit/cg-blog.svg)
 
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
