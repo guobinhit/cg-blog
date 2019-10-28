@@ -70,7 +70,7 @@ vm.max_map_count=262144
 
 还有就是，配置 Java 的环境变量，假设我们将 JDK 解压到`/opt`目录，则进行如下操作：
 
-- `sodu vim /etc/profile`
+- `sudo vim /etc/profile`
 
 ```java
 export JAVA_HOME=/opt/jdk1.8.0_73
