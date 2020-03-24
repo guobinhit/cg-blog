@@ -4,9 +4,11 @@
 
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
+- [跟谁学 - 长期招聘：Java 研发工程师，感兴趣的小伙伴进！！！](https://github.com/guobinhit/cg-blog/blob/master/articles/others/gsx-job.md)
+
 ## 最新博文
 
-- **New article 1**：[强烈推荐：比特币交易平台！！！](https://github.com/guobinhit/cg-blog/blob/master/articles/finance/huobi.md)
+- **New article 1**：- [如何画出一张合格的技术架构图？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/project-structure-project.md)
 - **New article 2**：[详述 GitHub 如何将代码从原分支合并到 fork 分支](https://github.com/guobinhit/cg-blog/blob/master/articles/github/tutorials/merge-from-master.md)
 - **New article 3**：[解决 axios 提交时间类型参数遇到的时区自动转换问题](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/axios-post-date-error.md)
 
@@ -83,6 +85,7 @@
 ## 工具及其他
 
 
+- [如何画出一张合格的技术架构图？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/project-structure-project.md)
 - [详述 Elasticsearch 安装 HDFS 插件存储及快照还原的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/es-hdfs-plugins.md)
 - [详述 Elasticsearch 集群的搭建步骤及方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/build-es-cluster.md)
 - [快速搭建 HDFS 系统（超详细版）](https://github.com/guobinhit/cg-blog/blob/master/articles/others/build-hdfs-cluster.md)
