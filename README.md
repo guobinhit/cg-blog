@@ -8,9 +8,9 @@
 
 ## 最新博文
 
-- **New article 1**：[如何画出一张合格的技术架构图？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/project-structure-picture.md)
-- **New article 2**：[详述 GitHub 如何将代码从原分支合并到 fork 分支](https://github.com/guobinhit/cg-blog/blob/master/articles/github/tutorials/merge-from-master.md)
-- **New article 3**：[解决 axios 提交时间类型参数遇到的时区自动转换问题](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/axios-post-date-error.md)
+- **New article 1**：[记一次 JVM CPU 使用率飙高问题的排查过程](https://github.com/guobinhit/cg-blog/blob/master/articles/others/jvm-cpu-issue.md)
+- **New article 2**：[如何画出一张合格的技术架构图？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/project-structure-picture.md)
+- **New article 3**：[详述 GitHub 如何将代码从原分支合并到 fork 分支](https://github.com/guobinhit/cg-blog/blob/master/articles/github/tutorials/merge-from-master.md)
 
 
 
@@ -85,6 +85,7 @@
 ## 工具及其他
 
 
+- [记一次 JVM CPU 使用率飙高问题的排查过程](https://github.com/guobinhit/cg-blog/blob/master/articles/others/jvm-cpu-issue.md)
 - [如何画出一张合格的技术架构图？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/project-structure-picture.md)
 - [详述 Elasticsearch 安装 HDFS 插件存储及快照还原的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/es-hdfs-plugins.md)
 - [详述 Elasticsearch 集群的搭建步骤及方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/build-es-cluster.md)
