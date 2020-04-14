@@ -47,3 +47,20 @@
 特别地，在 mock 底层接口的时候，使用了类似`TimeUnit.SECONDS.sleep(1)`这样的语句。
 
 至于为何在 **下午3:45** 分之后，CPU 的使用率降下来了，则是因为停止了压测。
+
+
+--------
+
+除此之外，我们还可以使用`jinfo`和`jstat`命令来查询 Java 进程的启动参数以及 GC 情况：
+
+- 使用`jinfo PID`命令，查询启动参数：
+
+![jinfo](https://github.com/guobinhit/cg-blog/blob/master/images/others/jvm-cpu-issue/jinfo.png)
+
+如上图所示，使用该命令我们主要是为了查询启动参数，如初始化堆大小、垃圾回收器等配置。
+
+- 使用`jstat -gcutil PID 1000`命令，查询 GC 情况：
+
+![jstat](https://github.com/guobinhit/cg-blog/blob/master/images/others/jvm-cpu-issue/jstat.png)
+
+如上图所示，显示了`PID`为`20567`的 Java 进程每秒的 GC 情况，其中`1000`表示 GC 状态的更新频率，单位为毫秒。
