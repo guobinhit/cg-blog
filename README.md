@@ -8,9 +8,9 @@
 
 ## 最新博文
 
-- **New article 1**：[记一次 JVM CPU 使用率飙高问题的排查过程](https://github.com/guobinhit/cg-blog/blob/master/articles/others/jvm-cpu-issue.md)
-- **New article 2**：[如何画出一张合格的技术架构图？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/project-structure-picture.md)
-- **New article 3**：[详述 GitHub 如何将代码从原分支合并到 fork 分支](https://github.com/guobinhit/cg-blog/blob/master/articles/github/tutorials/merge-from-master.md)
+- **New article 1**：[调度服务 ScheduledExecutorService 经常卡顿问题的排查及解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/schedule-issue.md)
+- **New article 2**：[记一次 JVM CPU 使用率飙高问题的排查过程](https://github.com/guobinhit/cg-blog/blob/master/articles/others/jvm-cpu-issue.md)
+- **New article 3**：[如何画出一张合格的技术架构图？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/project-structure-picture.md)
 
 
 
@@ -85,6 +85,7 @@
 ## 工具及其他
 
 
+- [调度服务 ScheduledExecutorService 经常卡顿问题的排查及解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/schedule-issue.md)
 - [记一次 JVM CPU 使用率飙高问题的排查过程](https://github.com/guobinhit/cg-blog/blob/master/articles/others/jvm-cpu-issue.md)
 - [如何画出一张合格的技术架构图？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/project-structure-picture.md)
 - [详述 Elasticsearch 安装 HDFS 插件存储及快照还原的方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/es-hdfs-plugins.md)
