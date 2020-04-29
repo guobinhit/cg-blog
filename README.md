@@ -8,9 +8,9 @@
 
 ## 最新博文
 
-- **New article 1**：[调度服务 ScheduledExecutorService 经常卡顿问题的排查及解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/schedule-issue.md)
-- **New article 2**：[记一次 JVM CPU 使用率飙高问题的排查过程](https://github.com/guobinhit/cg-blog/blob/master/articles/others/jvm-cpu-issue.md)
-- **New article 3**：[如何画出一张合格的技术架构图？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/project-structure-picture.md)
+- **New article 1**：[来来来，我们聊一聊，为什么不建议使用递归操作？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/why-recursion-is-not-recommended.md)
+- **New article 2**：[调度服务 ScheduledExecutorService 经常卡顿问题的排查及解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/schedule-issue.md)
+- **New article 3**：[记一次 JVM CPU 使用率飙高问题的排查过程](https://github.com/guobinhit/cg-blog/blob/master/articles/others/jvm-cpu-issue.md)
 
 
 
@@ -85,6 +85,7 @@
 ## 工具及其他
 
 
+- [来来来，我们聊一聊，为什么不建议使用递归操作？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/why-recursion-is-not-recommended.md)
 - [调度服务 ScheduledExecutorService 经常卡顿问题的排查及解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/schedule-issue.md)
 - [记一次 JVM CPU 使用率飙高问题的排查过程](https://github.com/guobinhit/cg-blog/blob/master/articles/others/jvm-cpu-issue.md)
 - [如何画出一张合格的技术架构图？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/project-structure-picture.md)
