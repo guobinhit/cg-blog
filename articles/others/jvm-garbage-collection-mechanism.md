@@ -83,7 +83,7 @@ Java 语言的可移植性就是建立在 JVM 的基础之上的，任何平台�
 
 下图为使用“标记-清除”算法回收前后的状态：
 
-![mark-clean-2](https://github.com/guobinhit/cg-blog/blob/master/images/others/jvm-garbage-collection-mechanism/rmark-clean-2.png)
+![mark-clean-2](https://github.com/guobinhit/cg-blog/blob/master/images/others/jvm-garbage-collection-mechanism/mark-clean-2.png)
 
 ####  标记-整理算法
 
