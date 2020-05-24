@@ -8,9 +8,9 @@
 
 ## 最新博文
 
-- **New article 1**：[深入理解 JVM 垃圾回收机制及其实现原理](https://github.com/guobinhit/cg-blog/blob/master/articles/others/jvm-garbage-collection-mechanism.md)
-- **New article 2**：[分库分表？如何做到永不迁移数据和避免热点？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/sub-warehouse-and-sub-table.md)
-- **New article 3**：[来来来，我们聊一聊，为什么不建议使用递归操作？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/why-recursion-is-not-recommended.md)
+- **New article 1**：[详述 JDK 和 CGLIB 动态代理的实现原理以及两者的区别](https://github.com/guobinhit/cg-blog/blob/master/articles/others/dynamic-proxy.md)
+- **New article 2**：[深入理解 JVM 垃圾回收机制及其实现原理](https://github.com/guobinhit/cg-blog/blob/master/articles/others/jvm-garbage-collection-mechanism.md)
+- **New article 3**：[分库分表？如何做到永不迁移数据和避免热点？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/sub-warehouse-and-sub-table.md)
 
 
 
@@ -85,6 +85,7 @@
 ## 工具及其他
 
 
+- [详述 JDK 和 CGLIB 动态代理的实现原理以及两者的区别](https://github.com/guobinhit/cg-blog/blob/master/articles/others/dynamic-proxy.md)
 - [深入理解 JVM 垃圾回收机制及其实现原理](https://github.com/guobinhit/cg-blog/blob/master/articles/others/jvm-garbage-collection-mechanism.md)
 - [分库分表？如何做到永不迁移数据和避免热点？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/sub-warehouse-and-sub-table.md)
 - [来来来，我们聊一聊，为什么不建议使用递归操作？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/why-recursion-is-not-recommended.md)
