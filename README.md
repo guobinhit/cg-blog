@@ -8,9 +8,9 @@
 
 ## 最新博文
 
-- **New article 1**：[出现 curl: (51) SSL: no alternative certificate subject name matches target host name 错误的原因及解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/curl-ssl-51-issue.md)
-- **New article 2**：[详述 JDK 和 CGLIB 动态代理的实现原理以及两者的区别](https://github.com/guobinhit/cg-blog/blob/master/articles/others/dynamic-proxy.md)
-- **New article 3**：[深入理解 JVM 垃圾回收机制及其实现原理](https://github.com/guobinhit/cg-blog/blob/master/articles/others/jvm-garbage-collection-mechanism.md)
+- **New article 1**：[详述 ThreadLocal 的实现原理及其使用方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/threadlocal-priciple-usage.md)
+- **New article 2**：[出现 curl: (51) SSL: no alternative certificate subject name matches target host name 错误的原因及解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/curl-ssl-51-issue.md)
+- **New article 3**：[详述 JDK 和 CGLIB 动态代理的实现原理以及两者的区别](https://github.com/guobinhit/cg-blog/blob/master/articles/others/dynamic-proxy.md)
 
 
 
@@ -84,7 +84,7 @@
 
 ## 工具及其他
 
-
+- [详述 ThreadLocal 的实现原理及其使用方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/threadlocal-priciple-usage.md)
 - [详述 JDK 和 CGLIB 动态代理的实现原理以及两者的区别](https://github.com/guobinhit/cg-blog/blob/master/articles/others/dynamic-proxy.md)
 - [深入理解 JVM 垃圾回收机制及其实现原理](https://github.com/guobinhit/cg-blog/blob/master/articles/others/jvm-garbage-collection-mechanism.md)
 - [分库分表？如何做到永不迁移数据和避免热点？](https://github.com/guobinhit/cg-blog/blob/master/articles/others/sub-warehouse-and-sub-table.md)
