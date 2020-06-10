@@ -8,9 +8,9 @@
 
 ## 最新博文
 
-- **New article 1**：[详述 Spring Boot 中内嵌 Tomcat 的实现原理](https://github.com/guobinhit/cg-blog/blob/master/articles/others/spring-boot-nested-tomcat-principle.md)
-- **New article 2**：[详述 ThreadLocal 的实现原理及其使用方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/threadlocal-priciple-usage.md)
-- **New article 3**：[出现 curl: (51) SSL: no alternative certificate subject name matches target host name 错误的原因及解决方法](https://github.com/guobinhit/cg-blog/blob/master/articles/solutioncase/cases/part-3-others/curl-ssl-51-issue.md)
+- **New article 1**：[详述 synchronized 和 volatile 的实现原理以及两者的区别](https://github.com/guobinhit/cg-blog/blob/master/articles/others/synchronized-volatile-principle-difference.md)
+- **New article 2**：[详述 Spring Boot 中内嵌 Tomcat 的实现原理](https://github.com/guobinhit/cg-blog/blob/master/articles/others/spring-boot-nested-tomcat-principle.md)
+- **New article 3**：[详述 ThreadLocal 的实现原理及其使用方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/threadlocal-priciple-usage.md)
 
 
 
@@ -84,6 +84,7 @@
 
 ## 工具及其他
 
+- [详述 synchronized 和 volatile 的实现原理以及两者的区别](https://github.com/guobinhit/cg-blog/blob/master/articles/others/synchronized-volatile-principle-difference.md)
 - [详述 Spring Boot 中内嵌 Tomcat 的实现原理](https://github.com/guobinhit/cg-blog/blob/master/articles/others/spring-boot-nested-tomcat-principle.md)
 - [详述 ThreadLocal 的实现原理及其使用方法](https://github.com/guobinhit/cg-blog/blob/master/articles/others/threadlocal-priciple-usage.md)
 - [详述 JDK 和 CGLIB 动态代理的实现原理以及两者的区别](https://github.com/guobinhit/cg-blog/blob/master/articles/others/dynamic-proxy.md)
