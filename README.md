@@ -4,8 +4,6 @@
 
 **欢迎来到我的博客，在这里大家可以随意`watch`、`star`和`fork`此项目！**
 
-- [跟谁学 - 长期招聘：Java 研发工程师，感兴趣的小伙伴进！！！](https://github.com/guobinhit/cg-blog/blob/master/articles/others/gsx-job.md)
-
 ## 最新博文
 
 - **New article 1**：[详述 synchronized 和 volatile 的实现原理以及两者的区别](https://github.com/guobinhit/cg-blog/blob/master/articles/others/synchronized-volatile-principle-difference.md)
